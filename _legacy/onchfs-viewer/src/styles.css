@@ -1,0 +1,462 @@
+/* The viewer intentionally fades into the background — the art is the
+   subject. Monochrome palette so nothing competes with the artwork. */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+:root {
+  --bg: #0a0a0a;
+  --bg-elev: #141414;
+  --fg: #e0e0e0;
+  --fg-dim: #777777;
+  --border: #2a2a2a;
+  --accent: #ffffff;
+  --accent-dim: #555555;
+  --error: #ff6b6b;
+  --font: "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 13px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--accent-dim);
+}
+
+a:hover {
+  border-bottom-style: solid;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  background: var(--bg-elev);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  padding: 6px 10px;
+  border-radius: 0;
+}
+
+button {
+  cursor: pointer;
+  background: transparent;
+  color: var(--accent);
+  border-color: var(--accent-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+button:hover:not(:disabled) {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+input {
+  width: 100%;
+}
+
+input:focus,
+button:focus,
+select:focus {
+  outline: 1px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.app {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app__header {
+  border-bottom: 1px solid var(--border);
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+}
+
+.app__title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.app__subtitle {
+  color: var(--fg-dim);
+  font-size: 11px;
+}
+
+.app__body {
+  display: grid;
+  grid-template-columns: 320px 20px 1fr;
+  min-height: 0;
+  transition: grid-template-columns 0.2s ease;
+}
+
+.app__body--collapsed {
+  grid-template-columns: 0 20px 1fr;
+}
+
+@media (max-width: 800px) {
+  .app__body {
+    grid-template-columns: 1fr;
+  }
+  .app__body--collapsed {
+    grid-template-columns: 1fr;
+  }
+  .sidebar-toggle {
+    display: none;
+  }
+}
+
+.sidebar {
+  border-right: 1px solid var(--border);
+  padding: 24px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  transition: padding 0.2s ease, border 0.2s ease;
+}
+
+.app__body--collapsed .sidebar {
+  padding: 0;
+  border-right: 0;
+  visibility: hidden;
+}
+
+.sidebar-toggle {
+  width: 20px;
+  height: 100%;
+  border: 0;
+  border-right: 1px solid var(--border);
+  background: var(--bg-elev);
+  color: var(--fg-dim);
+  font-size: 14px;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 0;
+  text-transform: none;
+  border-radius: 0;
+}
+
+.sidebar-toggle:hover {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.field__label {
+  font-size: 10px;
+  color: var(--fg-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.viewer {
+  position: relative;
+  overflow: hidden;
+  background: #000;
+}
+
+.viewer__iframe {
+  /* The artwork controls its own canvas size and display scaling.
+     fxhash does NOT force a fixed resolution — the artwork sees the
+     real viewport via window.innerWidth/Height and creates its canvas
+     accordingly. We match this by filling the viewer area. */
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #000;
+}
+
+.viewer__placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--fg-dim);
+  font-size: 12px;
+  pointer-events: none;
+}
+
+/* Fullscreen toggle button — sits unobtrusively in the corner, only fully
+   visible on hover so it doesn't compete with the artwork. */
+.viewer__fullscreen {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 36px;
+  height: 36px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.55);
+  color: var(--accent);
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.35;
+  transition: opacity 0.15s ease, background 0.15s ease;
+  z-index: 10;
+  border-radius: 0;
+}
+
+.viewer__fullscreen:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.85);
+}
+
+/* When the viewer enters fullscreen, dark background fills any padding
+   around an aspect-mismatched artwork. */
+.viewer:fullscreen {
+  background: #000;
+}
+
+.viewer:fullscreen .viewer__iframe {
+  background: #000;
+}
+
+/* The fullscreen toggle button would only clutter the view once we're
+   already in fullscreen. Exit via Esc / F11 / browser controls instead. */
+.viewer:fullscreen .viewer__fullscreen {
+  display: none;
+}
+
+.status {
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  background: var(--bg-elev);
+  font-size: 11px;
+  color: var(--fg-dim);
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.status--error {
+  border-color: var(--error);
+  color: var(--error);
+}
+
+.status__label {
+  color: var(--accent);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 10px;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 4px 12px;
+  font-size: 11px;
+}
+
+.meta__key {
+  color: var(--fg-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.meta__val {
+  word-break: break-all;
+  color: var(--fg);
+}
+
+/* Wallet-discovery results — a vertically scrolling grid of thumbnail tiles
+   showing each artwork in the wallet. Tight layout because the sidebar is
+   narrow; this is a navigation aid, not the final view. */
+
+.discovery-results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.artwork-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  max-height: 55vh;
+  overflow-y: auto;
+  padding-right: 4px;
+  /* Prevent CSS grid from compressing rows to fit max-height.
+     Each row sizes to its content (the fixed-height thumbnail + meta). */
+  grid-auto-rows: min-content;
+}
+
+.artwork-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: 0;
+  border-radius: 0;
+  overflow: hidden;
+}
+
+.artwork-card:hover {
+  border-color: var(--accent);
+  background: var(--bg-elev);
+  color: var(--fg);
+}
+
+.artwork-card__thumb {
+  width: 100%;
+  /* Fixed height instead of aspect-ratio to prevent CSS grid compression. */
+  height: 100px;
+  object-fit: cover;
+  background: var(--bg);
+  display: block;
+}
+
+.artwork-card__thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--fg-dim);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+}
+
+.artwork-card__meta {
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 38px;
+}
+
+.artwork-card__name {
+  font-size: 11px;
+  color: var(--fg);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.artwork-card__sub {
+  font-size: 10px;
+  color: var(--fg-dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Saved project list — shown in "By File" mode when projects have been
+   extracted and saved to public/projects/. Each item is a clickable button
+   that loads the project's iteration grid. */
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.project-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 10px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 12px;
+  text-align: left;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: normal;
+  border-radius: 0;
+}
+
+.project-list__item:hover {
+  border-color: var(--accent);
+  background: var(--bg-elev);
+  color: var(--fg);
+}
+
+.project-list__name {
+  font-weight: 500;
+}
+
+.project-list__info {
+  font-size: 10px;
+  color: var(--fg-dim);
+  white-space: nowrap;
+}
+
+.project-list__toggle {
+  padding: 6px 10px;
+  background: transparent;
+  border: 1px dashed var(--border);
+  color: var(--fg-dim);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 11px;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: normal;
+  border-radius: 0;
+}
+
+.project-list__toggle:hover {
+  border-color: var(--accent);
+  color: var(--fg);
+  background: transparent;
+}
