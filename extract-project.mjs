@@ -90,8 +90,28 @@ function toFetchUrl(uri) {
   return uri;
 }
 
+/** Fetch + parse JSON with a few retries — the metadata host rate-limits in bursts. */
+async function fetchJsonWithRetry(url, tries = 3) {
+  let lastErr;
+  for (let i = 0; i < tries; i++) {
+    try {
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      return await resp.json();
+    } catch (err) {
+      lastErr = err;
+      await new Promise((r) => setTimeout(r, 400 * (i + 1)));
+    }
+  }
+  throw lastErr;
+}
+
 // --- Main ---
 async function main() {
+  // `--resume`: keep an existing public/projects/<Name>.json and only fetch the
+  // tokenIds it's missing (recovers rate-limit failures without redoing everything).
+  const resume = process.argv.includes("--resume");
+  if (resume) process.argv = process.argv.filter((a) => a !== "--resume");
   let contractAddress, chain, generativeUri, projectName;
 
   const arg = process.argv[2];
@@ -181,10 +201,30 @@ async function main() {
   console.log(`\nFetching metadata for ${totalSupply} iteration(s)...`);
   console.log("(This calls fxhash's metadata server. Run while fxhash is online.)\n");
 
+  // Resume: load what we already have and skip those tokenIds.
+  let existing = [];
+  const present = new Set();
+  if (resume) {
+    const safeName0 = projectName.replace(/[^a-zA-Z0-9_-]/g, "_").slice(0, 40);
+    const existingPath = join(PROJECTS_DIR, `${safeName0}.json`);
+    if (existsSync(existingPath)) {
+      try {
+        existing = JSON.parse(readFileSync(existingPath, "utf8")).iterations || [];
+        for (const it of existing) present.add(it.tokenId);
+        if (!generativeUri && existing[0]?.generativeUri) generativeUri = existing[0].generativeUri;
+        console.log(`Resume: ${present.size} already extracted; fetching the missing ${totalSupply - present.size}.`);
+      } catch { /* fall back to a full run */ }
+    }
+  }
+
   const iterations = [];
   let failures = 0;
 
-  for (let tokenId = 0; tokenId < totalSupply; tokenId++) {
+  // Scan 0..totalSupply inclusive: fxhash collections are 1-indexed (token 0
+  // reverts), so the real range is 1..totalSupply. The one out-of-range probe
+  // (token 0 here, or `totalSupply` for a 0-indexed contract) just fails harmlessly.
+  for (let tokenId = 0; tokenId <= totalSupply; tokenId++) {
+    if (resume && present.has(tokenId)) continue;
     // Show progress
     if (tokenId % 10 === 0 || tokenId === totalSupply - 1) {
       process.stdout.write(`  [${tokenId + 1}/${totalSupply}]\r`);
@@ -200,15 +240,11 @@ async function main() {
         continue;
       }
 
-      // Fetch the metadata JSON from the URI
+      // Fetch the metadata JSON from the URI (with retries for rate-limit bursts)
       let metadata;
       try {
-        const fetchUrl = toFetchUrl(tokenUri);
-        const resp = await fetch(fetchUrl);
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        metadata = await resp.json();
+        metadata = await fetchJsonWithRetry(toFetchUrl(tokenUri));
       } catch (err) {
-        // tokenURI might start from 1, not 0
         failures++;
         continue;
       }
@@ -272,7 +308,12 @@ async function main() {
     }
   }
 
-  console.log(`\n\nExtracted ${iterations.length} iteration(s), ${failures} failure(s).`);
+  // Merge with any resumed iterations and order by tokenId.
+  const allIterations = (resume ? [...existing, ...iterations] : iterations)
+    .sort((a, b) => a.tokenId - b.tokenId);
+  console.log(
+    `\n\nExtracted ${iterations.length} new iteration(s), ${failures} failure(s); ${allIterations.length} total.`,
+  );
 
   // Write output
   const output = {
@@ -284,7 +325,7 @@ async function main() {
       totalSupply,
       extractedAt: new Date().toISOString(),
     },
-    iterations,
+    iterations: allIterations,
   };
 
   const safeName = projectName.replace(/[^a-zA-Z0-9_-]/g, "_").slice(0, 40);

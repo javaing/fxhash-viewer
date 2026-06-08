@@ -83,13 +83,31 @@ The app ships with two interchangeable UIs — the **classic** sidebar above, an
 
 ## Preparing artwork data (optional)
 
-The viewer works without any bundled data (URI mode resolves anything directly). To browse a whole project by thumbnail, extract its iteration list into `public/projects/`:
+The viewer works without any bundled data (URI mode resolves anything directly). To browse a whole project by thumbnail, extract its iteration list into `public/projects/`.
+
+**One command, any chain** — paste an fxhash URL (or slug). It resolves the project via fxhash's GraphQL, detects the chain (`KT1…` ⇒ Tezos, `0x…` ⇒ EVM, with Base/Ethereum told apart by RPC probe), and runs the right extractor:
+
+```bash
+node extract-url.mjs https://www.fxhash.xyz/generative/slug/<slug>
+node extract-url.mjs <slug>            # short form
+node extract-url.mjs <url> --dry-run   # resolve + detect chain only, write nothing
+node extract-url.mjs <url> --force      # overwrite an existing public/projects/<Name>.json
+```
+
+By default it refuses to overwrite an already-extracted project (so manual cleanup isn't clobbered).
+
+Under the hood:
+
+- **Tezos** iterations are read straight from fxhash's GraphQL `objkts` (project-scoped, so the count matches on-chain supply exactly). This avoids the over-collection you get from a TzKT search by generative-code CID when that CID is reused across editions/drops.
+- **EVM** dispatches to `extract-project.mjs`, reading iterations from the contract over RPC.
+
+The per-chain scripts can also be run directly:
 
 ```bash
 # EVM (Ethereum / Base) project, by contract address or metadata file
 node extract-project.mjs <contract-address> [ethereum|base]
 
-# Tezos project, by name
+# Tezos project, by name (legacy TzKT path; extract-url.mjs is preferred)
 node extract-tezos.mjs --name "Project Name"
 
 # Resolve a project name / fxhash URL to its contract address
