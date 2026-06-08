@@ -23,9 +23,10 @@
  *   and minter needed to view it in the onchfs-viewer.
  */
 
-import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { writeIndex } from "./scripts/build-index.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PROJECTS_DIR = join(__dirname, "public", "projects");
@@ -312,26 +313,8 @@ async function main() {
  * The viewer UI reads this to show a list of saved projects.
  */
 function updateIndex() {
-  if (!existsSync(PROJECTS_DIR)) return;
-  const files = readdirSync(PROJECTS_DIR)
-    .filter((f) => f.endsWith(".json") && !f.startsWith("_"));
-
-  const index = files.map((f) => {
-    try {
-      const data = JSON.parse(readFileSync(join(PROJECTS_DIR, f), "utf8"));
-      return {
-        filename: f,
-        name: data.project?.name || f.replace(".json", ""),
-        chain: data.project?.chain || "unknown",
-        count: data.iterations?.length || 0,
-      };
-    } catch {
-      return { filename: f, name: f.replace(".json", ""), chain: "unknown", count: 0 };
-    }
-  });
-
-  writeFileSync(join(PROJECTS_DIR, "_index.json"), JSON.stringify(index, null, 2));
-  console.log(`Updated project index: ${index.length} project(s) available.`);
+  const n = writeIndex(PROJECTS_DIR);
+  console.log(`Updated project index: ${n} project(s) available.`);
 }
 
 main().catch((err) => {

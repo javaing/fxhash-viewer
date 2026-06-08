@@ -6,6 +6,7 @@
   "description": "A browser-based viewer for fxhash generative art stored on onchfs/IPFS, designed to outlive fxhash itself. Rebuild of _legacy/onchfs-viewer.",
   "scripts": {
     "dev": "vite",
+    "index": "node scripts/build-index.mjs",
     "build": "tsc -b && vite build && vite build --config vite.sw.config.ts",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit"
