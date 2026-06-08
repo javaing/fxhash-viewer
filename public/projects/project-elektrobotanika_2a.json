@@ -1,0 +1,1564 @@
+{
+  "project": {
+    "name": "elektrobotanika 2a",
+    "contract": "0x1084D99FB4E49A6693e305f7BC0dfA926D6a6c3F",
+    "chain": "base",
+    "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+    "totalSupply": 98,
+    "extractedAt": "2026-05-30T02:19:39.673Z"
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "elektrobotanika 2a #1",
+      "iteration": 1,
+      "fxhash": "0xc678f2e2c9b028af697e50bad9eaf046a795177697aad78f152c284e18365f9e",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmbpckjvB7qCd6bmVspsdwTSfUw2PwVmG5DSUqGvTtxfi2",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc678f2e2c9b028af697e50bad9eaf046a795177697aad78f152c284e18365f9e",
+        "iteration": 1,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "elektrobotanika 2a #2",
+      "iteration": 2,
+      "fxhash": "0xc1aa35294f9431f232faf1e6cc554b2162affcdeb31081469a5c6c1707fc767a",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmQbZqnY8cGQV5dWhyJYwHG1nyoCJWhMzYVuNisavWwDLk",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc1aa35294f9431f232faf1e6cc554b2162affcdeb31081469a5c6c1707fc767a",
+        "iteration": 2,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "elektrobotanika 2a #3",
+      "iteration": 3,
+      "fxhash": "0x6fc32a544e965dda907c16ca0b3445acea83bda21e2a6e628fc8bd855798d1e8",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://Qmds4z8yaX5vpVYZNhrfFXzkYu4Dp8KyGWqrT8uR1LQd5r",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x6fc32a544e965dda907c16ca0b3445acea83bda21e2a6e628fc8bd855798d1e8",
+        "iteration": 3,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "elektrobotanika 2a #4",
+      "iteration": 4,
+      "fxhash": "0x14490af416579ce5c2a93e708edcf97f54ab5cee0220618eb875717badadb61b",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmTdoDgdR59taCDsWQ7uBqiPpy1PeVFJk2Q9uxBjHAYgjd",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x14490af416579ce5c2a93e708edcf97f54ab5cee0220618eb875717badadb61b",
+        "iteration": 4,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "elektrobotanika 2a #5",
+      "iteration": 5,
+      "fxhash": "0xe1ea57e4f683243a539416a2f44f90279e33280b2414b84fb3b5142d80eb9467",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmQnFHGV25TU9t5RLLGEHkPDz9kV2Do2xqD9qxi2Qg7y8F",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xe1ea57e4f683243a539416a2f44f90279e33280b2414b84fb3b5142d80eb9467",
+        "iteration": 5,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "elektrobotanika 2a #6",
+      "iteration": 6,
+      "fxhash": "0xbb6c0b5dbe7fb44724f998a9fb8fdf963f3b77f987c4ab6913850769b06dc07b",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmWW6oDy6hiWXWgR7RjZKogQ1V6cLQyjwAiGPunxMAvjyy",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xbb6c0b5dbe7fb44724f998a9fb8fdf963f3b77f987c4ab6913850769b06dc07b",
+        "iteration": 6,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "elektrobotanika 2a #7",
+      "iteration": 7,
+      "fxhash": "0x43e1b44d2a4b1d676c98548e1260421fc7a061ad1d537a5988296cdfae85cb95",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmPi8BddezxG22vUuSoNhZbmzwXwZn2xz5ijnqedoQBb8t",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x43e1b44d2a4b1d676c98548e1260421fc7a061ad1d537a5988296cdfae85cb95",
+        "iteration": 7,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "elektrobotanika 2a #8",
+      "iteration": 8,
+      "fxhash": "0x91f6b9bcd4821aa91d3d6cf2914d20cb53dcfc94bf4810fb6416a883e6fb6e80",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://Qmb8WHVy2RGE38Bvwf4M4ge57ToEYerFHejhVeojbMwmmV",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x91f6b9bcd4821aa91d3d6cf2914d20cb53dcfc94bf4810fb6416a883e6fb6e80",
+        "iteration": 8,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "elektrobotanika 2a #9",
+      "iteration": 9,
+      "fxhash": "0xdf32f2484a41657eeedb6009f78157fb2a4180c74973f9c9adef4a74605b1c8d",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmXk8JX1ziEDqJicbUiNi3WFXUaoJt13kcpyjRqXmsUhHg",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xdf32f2484a41657eeedb6009f78157fb2a4180c74973f9c9adef4a74605b1c8d",
+        "iteration": 9,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "elektrobotanika 2a #10",
+      "iteration": 10,
+      "fxhash": "0x367f84d50654341d95a36b6275ff071128d9bd636be229dd3ae7cf9cbbd3322f",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmNWA9qodMC7FiKr9joAsD1WAxV9FWQ85b53FKAFneqmMv",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x367f84d50654341d95a36b6275ff071128d9bd636be229dd3ae7cf9cbbd3322f",
+        "iteration": 10,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "elektrobotanika 2a #11",
+      "iteration": 11,
+      "fxhash": "0x750826672854d95388a48d4b7dab8cab2c16f32c8651f9b1bcb1f04835a3a7f7",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmPFkeKagZBPPgCLyUNkHe8s7gyytWhTfNQgbM57iRC9fK",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x750826672854d95388a48d4b7dab8cab2c16f32c8651f9b1bcb1f04835a3a7f7",
+        "iteration": 11,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "elektrobotanika 2a #12",
+      "iteration": 12,
+      "fxhash": "0x203438d9f0d299cb81037825b3cca54d838d25978d681cbf3eb9e33d942edb79",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmVxHRHtULTrvZYxStAoLCGV26mSti4Cti5VM1ifYyekqb",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x203438d9f0d299cb81037825b3cca54d838d25978d681cbf3eb9e33d942edb79",
+        "iteration": 12,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "elektrobotanika 2a #13",
+      "iteration": 13,
+      "fxhash": "0x5742851d3b22cc9e6e4b7b16499959b0d45f63b76cc185682273336829ee7459",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmauePETMkhfVE5Z9ZzWAEce8D8yWvhor8xPVuDC4ghy4P",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x5742851d3b22cc9e6e4b7b16499959b0d45f63b76cc185682273336829ee7459",
+        "iteration": 13,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "elektrobotanika 2a #14",
+      "iteration": 14,
+      "fxhash": "0x79dc0b5123e44462d3070b09fd9506ef1c6d225f48770b68d4cfc338014ab664",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmbHbKmZ6HW2tS2BKRyp4PfNfEtbXcW3cwTkUZ2C9n2Tjf",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x79dc0b5123e44462d3070b09fd9506ef1c6d225f48770b68d4cfc338014ab664",
+        "iteration": 14,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "elektrobotanika 2a #15",
+      "iteration": 15,
+      "fxhash": "0xc5004e3f1ea100c508358e1ddb25ed4bf0af2de2b951c16b503054d3490a5f11",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmexQKeD7bcWNew2xxQkWvrQm2zy2MhQ1Gf7GeaVhYad7t",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc5004e3f1ea100c508358e1ddb25ed4bf0af2de2b951c16b503054d3490a5f11",
+        "iteration": 15,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "elektrobotanika 2a #16",
+      "iteration": 16,
+      "fxhash": "0xbbd13c7b5844480499bd3e8c3a2dc8cb7b207d003193fe0fb3aee75842b8d362",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmPdCk6JLfGnZtGAvmFN2LhSBc76DKLmPFvYNg3hZwCrXv",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xbbd13c7b5844480499bd3e8c3a2dc8cb7b207d003193fe0fb3aee75842b8d362",
+        "iteration": 16,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "elektrobotanika 2a #17",
+      "iteration": 17,
+      "fxhash": "0xb6d5f0b8c523c78d6a1cfb4151c946de66a05344bcfd6ef95edbf5265601f21f",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmehgXxLKmmYEstFeqowypD16Z8mcecb674LcMsCzzZaeB",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xb6d5f0b8c523c78d6a1cfb4151c946de66a05344bcfd6ef95edbf5265601f21f",
+        "iteration": 17,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "elektrobotanika 2a #18",
+      "iteration": 18,
+      "fxhash": "0xd2c981ec5f1f1be2eb0a23f4b61c421fd7b6b81599ee44356aa8702ef2199784",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmYKeojs7mKNoxNQZcx9XXkadMGGBizf8No9xA7z7qg7AC",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd2c981ec5f1f1be2eb0a23f4b61c421fd7b6b81599ee44356aa8702ef2199784",
+        "iteration": 18,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "elektrobotanika 2a #19",
+      "iteration": 19,
+      "fxhash": "0x5d7bf34a09b69f9657c41fb190bf09187aa078d6f1ca2871e6ed7eb1221da663",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmdyyaEDHTHK52YDbaQR5uyvDEvxcbCWxusVbwoFisCuR6",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x5d7bf34a09b69f9657c41fb190bf09187aa078d6f1ca2871e6ed7eb1221da663",
+        "iteration": 19,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "elektrobotanika 2a #20",
+      "iteration": 20,
+      "fxhash": "0x91a042206283397091b601024068924afbce06b8cdddfe2a999b66ff30fffbec",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmW34GhNJdtEMUTxmQRV15BBhxArFQzGLya3KNehFLFKjh",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x91a042206283397091b601024068924afbce06b8cdddfe2a999b66ff30fffbec",
+        "iteration": 20,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "elektrobotanika 2a #21",
+      "iteration": 21,
+      "fxhash": "0x0aa94a99cdff462a06663f54dbc80669c05787a93e1af7b713dd5114c95b75a5",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmdfahyU8T5rHgr5C8AB82tcGQKRDzcq5gd4XRiZrUq4Jm",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x0aa94a99cdff462a06663f54dbc80669c05787a93e1af7b713dd5114c95b75a5",
+        "iteration": 21,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "elektrobotanika 2a #22",
+      "iteration": 22,
+      "fxhash": "0x3515fad51797e816322ff2c6b4d831f6a595ed9f9d6998c9082b1d619ae4c47b",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmTiXKwBcenZFrUXk9LZT1rGGNYi4gKB6TuT78y6oLHB5Y",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x3515fad51797e816322ff2c6b4d831f6a595ed9f9d6998c9082b1d619ae4c47b",
+        "iteration": 22,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "elektrobotanika 2a #23",
+      "iteration": 23,
+      "fxhash": "0x8438b831f8273badcc74c8e31296f18e3f3c46a948adb6993ce4218658b8e119",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmQNQX8wBWjDix6dEBBjW9LytcLamDt6KcdPUAd7MS41P4",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x8438b831f8273badcc74c8e31296f18e3f3c46a948adb6993ce4218658b8e119",
+        "iteration": 23,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "elektrobotanika 2a #24",
+      "iteration": 24,
+      "fxhash": "0x4400ce47121b095bdcabd7777764f2ab2e9072aed0c6ceaccd3af7a4514fec34",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://Qmbyf57EPHE79vBYYscySswt3ysfd6eaQMzMPrudbfuP5Z",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x4400ce47121b095bdcabd7777764f2ab2e9072aed0c6ceaccd3af7a4514fec34",
+        "iteration": 24,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "elektrobotanika 2a #25",
+      "iteration": 25,
+      "fxhash": "0x5ab17fdba9af7cfcdd6a1639dc1c4ff610b7f5466cb4119c59a8af45dc31b2c7",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "owner": "0xe468530be97757e9e1adfba122d27bf1b9517e87",
+      "thumbnailUri": "ipfs://QmV5nKEJgAUKWPARAMGg9nge7Vtc7PypcYMUq6q2UDtkYA",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x5ab17fdba9af7cfcdd6a1639dc1c4ff610b7f5466cb4119c59a8af45dc31b2c7",
+        "iteration": 25,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9"
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "elektrobotanika 2a #26",
+      "iteration": 26,
+      "fxhash": "0x9efbd8b1575e434df671842f67450d6ba09235039e2ffdef18e8359cd928e7c8",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmfCmqLJuD3pGQcjdjVjuqihLGURLs5KCpsrrVakgimfx7",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9efbd8b1575e434df671842f67450d6ba09235039e2ffdef18e8359cd928e7c8",
+        "iteration": 26,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "elektrobotanika 2a #27",
+      "iteration": 27,
+      "fxhash": "0x07827ba371d0eb3f4b26ab8ff3ed31dbd3be352bd599400ca6b99d0b4888134d",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmbcPdrKQcFhtjuaVPSMiG43iDy5ravqpjJuqZJXDUUgYM",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x07827ba371d0eb3f4b26ab8ff3ed31dbd3be352bd599400ca6b99d0b4888134d",
+        "iteration": 27,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "elektrobotanika 2a #28",
+      "iteration": 28,
+      "fxhash": "0x6b5d553d7c2abf545d951f4b5f5ea9f0b604e5a7d53ef28949afc44c52c8e244",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmRyHA5a9o51mT1REJSwAENCQZCoCoPrXF9cP54bqjskHH",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x6b5d553d7c2abf545d951f4b5f5ea9f0b604e5a7d53ef28949afc44c52c8e244",
+        "iteration": 28,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "elektrobotanika 2a #29",
+      "iteration": 29,
+      "fxhash": "0xb3419a22fb83bab9ff2481e6fcc58e3aacd4879eebb76d21f8f5b2cab29804b3",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmSUGdryUp7sdn38jEA1asFsaiCCoT3uEr6DKTCtuhWb15",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xb3419a22fb83bab9ff2481e6fcc58e3aacd4879eebb76d21f8f5b2cab29804b3",
+        "iteration": 29,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "elektrobotanika 2a #30",
+      "iteration": 30,
+      "fxhash": "0x9cba863da3a3b7eeca8438fde63615e6e1567940ebf2899c5c2cb2142eec43a9",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://Qmbyf57EPHE79vBYYscySswt3ysfd6eaQMzMPrudbfuP5Z",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9cba863da3a3b7eeca8438fde63615e6e1567940ebf2899c5c2cb2142eec43a9",
+        "iteration": 30,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 31,
+      "name": "elektrobotanika 2a #31",
+      "iteration": 31,
+      "fxhash": "0xf2c1743c18c1a5eba80a8ac989a7912c0c883142a0c22b37de4fe9b638a2b94f",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmasrUwNfPWgZK3YXwUBv9YAmaL5R4Jdomy3ckg5daJKPT",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xf2c1743c18c1a5eba80a8ac989a7912c0c883142a0c22b37de4fe9b638a2b94f",
+        "iteration": 31,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 32,
+      "name": "elektrobotanika 2a #32",
+      "iteration": 32,
+      "fxhash": "0xb1a00fe321fe3e290681327df56279a2a2d67f1c4b6e084421a09e51946305d8",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmUPRsnWqY1MSzShgCbfgsBWA3ukeuhonK19sGwvwJntZd",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xb1a00fe321fe3e290681327df56279a2a2d67f1c4b6e084421a09e51946305d8",
+        "iteration": 32,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 33,
+      "name": "elektrobotanika 2a #33",
+      "iteration": 33,
+      "fxhash": "0x9db175d9e345c57e85ad4d05d2e01c37e860bff7d42a475ea0cf3ab9e626ae3f",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmcQyeUxmijeQPgRQVC2brspjam72vc9VXh1VQbUoLSUqP",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9db175d9e345c57e85ad4d05d2e01c37e860bff7d42a475ea0cf3ab9e626ae3f",
+        "iteration": 33,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 34,
+      "name": "elektrobotanika 2a #34",
+      "iteration": 34,
+      "fxhash": "0x08c39e3cebe0d2bcf3fa25034f7cd2d7f05142b0ff8ffab1b4b013237bffe66b",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmNkdHLzSa1xJM5NjD7mixGqkQ559HmedAJWQM4oU74aXa",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x08c39e3cebe0d2bcf3fa25034f7cd2d7f05142b0ff8ffab1b4b013237bffe66b",
+        "iteration": 34,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 35,
+      "name": "elektrobotanika 2a #35",
+      "iteration": 35,
+      "fxhash": "0xa23476cfdca160bcec7ca54670f8cf517e8f8e7401ec470166d8f3696e942a29",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmQwGjfCNBZCbAbXwHEQUBagSbpyzFtLdoXSBNdt73UNzG",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xa23476cfdca160bcec7ca54670f8cf517e8f8e7401ec470166d8f3696e942a29",
+        "iteration": 35,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 36,
+      "name": "elektrobotanika 2a #36",
+      "iteration": 36,
+      "fxhash": "0x2245a8e7d3ece4feaecbb4f7eeafde15c0bef09b81175ad1d496cd5b80344089",
+      "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "owner": "0x207412225ed2b71f06d339179f888de4ad1a7dbe",
+      "thumbnailUri": "ipfs://QmXorM7rydXxfdCNhLNqvHteT35vmkxXe3848g3S8D4EFe",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x2245a8e7d3ece4feaecbb4f7eeafde15c0bef09b81175ad1d496cd5b80344089",
+        "iteration": 36,
+        "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE"
+      }
+    },
+    {
+      "tokenId": 37,
+      "name": "elektrobotanika 2a #37",
+      "iteration": 37,
+      "fxhash": "0x0d26d3c3e23aca3a70ef14e9f8b2d36dfadf62ae7a063c8777e62c71b3c3552d",
+      "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "owner": "0x207412225ed2b71f06d339179f888de4ad1a7dbe",
+      "thumbnailUri": "ipfs://QmceavXmQf7SDeHc9AaRHkyXqwGoZvu3L6xgcwhf4GJmjR",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x0d26d3c3e23aca3a70ef14e9f8b2d36dfadf62ae7a063c8777e62c71b3c3552d",
+        "iteration": 37,
+        "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE"
+      }
+    },
+    {
+      "tokenId": 38,
+      "name": "elektrobotanika 2a #38",
+      "iteration": 38,
+      "fxhash": "0x4e1231199e6e5d827a88d9e4ded44ecf98b33131b71f4dfc704d394fb80fffce",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmZ9dwwNucdRYxQQGbFnpQJizCLTmSSZNyJtVMh9tpYwg2",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x4e1231199e6e5d827a88d9e4ded44ecf98b33131b71f4dfc704d394fb80fffce",
+        "iteration": 38,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 39,
+      "name": "elektrobotanika 2a #39",
+      "iteration": 39,
+      "fxhash": "0xc6db2a3f57fbe67aa321bc40796704db2c168a17b98d4b9f72f39f2faa14c9e2",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmWJHB6mP4QQaCKzES2aqZFVq44EaNBg4qNvian9KgwkA7",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc6db2a3f57fbe67aa321bc40796704db2c168a17b98d4b9f72f39f2faa14c9e2",
+        "iteration": 39,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 40,
+      "name": "elektrobotanika 2a #40",
+      "iteration": 40,
+      "fxhash": "0xd60657ab1e116a695aeb01d64637ed70ed21cfb3eab8488406e149d1fa9f4614",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmNSg11eYF9zQ7oqsCfsgkbTpNW8nxprUDc4Lvc2hUg5pT",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd60657ab1e116a695aeb01d64637ed70ed21cfb3eab8488406e149d1fa9f4614",
+        "iteration": 40,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 41,
+      "name": "elektrobotanika 2a #41",
+      "iteration": 41,
+      "fxhash": "0x5d9be0142b52d602299c109d49dd68daecda89b576dbb40a46872dbb340185c5",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmXPn5daCrK97jCbr1GvPoYihV5886JNxndy23TdLqJtv7",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x5d9be0142b52d602299c109d49dd68daecda89b576dbb40a46872dbb340185c5",
+        "iteration": 41,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 42,
+      "name": "elektrobotanika 2a #42",
+      "iteration": 42,
+      "fxhash": "0xd7e55aa66b1e22ceb0ee40c5b9b7b566424338ec540bf5c0c24580944726190a",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmYKJLFKNS6nToxSWmpeDLc3wEQkGWtFWMP5aWYe7FBiK5",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd7e55aa66b1e22ceb0ee40c5b9b7b566424338ec540bf5c0c24580944726190a",
+        "iteration": 42,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 43,
+      "name": "elektrobotanika 2a #43",
+      "iteration": 43,
+      "fxhash": "0xd8396a0792c960d4c30f5be19dadd183ab4098217f3772a233346c2bc03835c9",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmeRM1Ki1oki9SWADRymKA8nA6Wbda4EZ28H4JAfVvm6c7",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd8396a0792c960d4c30f5be19dadd183ab4098217f3772a233346c2bc03835c9",
+        "iteration": 43,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 44,
+      "name": "elektrobotanika 2a #44",
+      "iteration": 44,
+      "fxhash": "0x4477af2e43b65e1da5f0f0fb03bce51a0d1c366bb983f85fb90487f227a631d8",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmaoDYXz2Jmzsg2f7gpkaZbeYPQv5crPkDJUC6SRho4f8M",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x4477af2e43b65e1da5f0f0fb03bce51a0d1c366bb983f85fb90487f227a631d8",
+        "iteration": 44,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 45,
+      "name": "elektrobotanika 2a #45",
+      "iteration": 45,
+      "fxhash": "0x926e3850002374de39b7848f84633d5b387554f29c965cdbf182e84de15b2f4e",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmNsFBo6HKvshFQZf9YfxH2VrbcNp3BvwDBE4BqdpDHqUe",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x926e3850002374de39b7848f84633d5b387554f29c965cdbf182e84de15b2f4e",
+        "iteration": 45,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 46,
+      "name": "elektrobotanika 2a #46",
+      "iteration": 46,
+      "fxhash": "0x30b77bfdf29bce83f033744de5d55ba87bc87ed982b6bd3842c2dd98f031c4b3",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmfMsco36QsTxcSx9hLvZxFBh1AxWqKLf6xG6mDnPGS5Ms",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x30b77bfdf29bce83f033744de5d55ba87bc87ed982b6bd3842c2dd98f031c4b3",
+        "iteration": 46,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 47,
+      "name": "elektrobotanika 2a #47",
+      "iteration": 47,
+      "fxhash": "0x53af14ed3efb9cdb4d86488ced797979c261c7e7912f0557bcdc2090a7666dd2",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmWsvuuRaU33ESGuoYkXM4rjnKWr456kbmJZ8x1nb3vGFd",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x53af14ed3efb9cdb4d86488ced797979c261c7e7912f0557bcdc2090a7666dd2",
+        "iteration": 47,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 48,
+      "name": "elektrobotanika 2a #48",
+      "iteration": 48,
+      "fxhash": "0xcf10fba949c42c6a8a73b438be7f1966aeb3c36a55b9bf0cb7aa16b98f4e62d9",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://Qmbyf57EPHE79vBYYscySswt3ysfd6eaQMzMPrudbfuP5Z",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xcf10fba949c42c6a8a73b438be7f1966aeb3c36a55b9bf0cb7aa16b98f4e62d9",
+        "iteration": 48,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 49,
+      "name": "elektrobotanika 2a #49",
+      "iteration": 49,
+      "fxhash": "0xea3a01db01f63132a1eb8344a684da251e0294cb4753cfe41d29b747b1c55314",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmSEiLXL3A4Tsg25EwT3n7ZKayJAH8P3uMCnmjqmnYrbaS",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xea3a01db01f63132a1eb8344a684da251e0294cb4753cfe41d29b747b1c55314",
+        "iteration": 49,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 50,
+      "name": "elektrobotanika 2a #50",
+      "iteration": 50,
+      "fxhash": "0xcd0ea245c6928b9537a19fc59e532c15766dc1fcca17180968b822f48bea09b5",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmRdsYSN8jQ1grK7i3nSqMKZbV1LrMnAdhdK81NWamSXVM",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xcd0ea245c6928b9537a19fc59e532c15766dc1fcca17180968b822f48bea09b5",
+        "iteration": 50,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 51,
+      "name": "elektrobotanika 2a #51",
+      "iteration": 51,
+      "fxhash": "0xd1791a4d0c0ce16643df70599617128d1862f31ce1eb083d0ce32fd07b3636a3",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://Qmf9WiN4niAcTzhcr2XnUWtCvzHhs34Qb9xHTgrr9Uk3B3",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd1791a4d0c0ce16643df70599617128d1862f31ce1eb083d0ce32fd07b3636a3",
+        "iteration": 51,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 52,
+      "name": "elektrobotanika 2a #52",
+      "iteration": 52,
+      "fxhash": "0xdcdbd46b93d59ef8381f022b797e5532e7b2ee65e50401a149823699b096a07b",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmReq87wMzTcGjy9tuzZu5wAANjNvSYfSK9isLckaUnyMz",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xdcdbd46b93d59ef8381f022b797e5532e7b2ee65e50401a149823699b096a07b",
+        "iteration": 52,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 53,
+      "name": "elektrobotanika 2a #53",
+      "iteration": 53,
+      "fxhash": "0x9a6bbe881594d4beee0a47e58500754edb8515895b57cead34b4f2baff29c803",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmZ1vdba7sP5umxAAM5miX8JuzJG62axuJJJ1sppmuh8hz",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9a6bbe881594d4beee0a47e58500754edb8515895b57cead34b4f2baff29c803",
+        "iteration": 53,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 54,
+      "name": "elektrobotanika 2a #54",
+      "iteration": 54,
+      "fxhash": "0x68f86515bec3031b064d57e9e1121908d7589a1cd1fc54caa7ad080acc5ac322",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmPBu4hUy1w8PZqKNidCdtLyqLr7fcLrQGTcCywdZAiSKo",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x68f86515bec3031b064d57e9e1121908d7589a1cd1fc54caa7ad080acc5ac322",
+        "iteration": 54,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 55,
+      "name": "elektrobotanika 2a #55",
+      "iteration": 55,
+      "fxhash": "0xaca31c3bc7c1c975a02ecddda72e908aa860f46a16423b90a55c386e498cfd7a",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmbeRTQZUE2smK7P7T31QFrCaFqNVSsBEsNTbkUFR4fyyg",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xaca31c3bc7c1c975a02ecddda72e908aa860f46a16423b90a55c386e498cfd7a",
+        "iteration": 55,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 56,
+      "name": "elektrobotanika 2a #56",
+      "iteration": 56,
+      "fxhash": "0x714536ecf989974926d75f09ccf7bf333de5795f3b030dc34880bb76cf689012",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmXvWsNBvnwc7wy4SxfbEKUwQiSkDYeeuCaRW6HXULY1ru",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x714536ecf989974926d75f09ccf7bf333de5795f3b030dc34880bb76cf689012",
+        "iteration": 56,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 57,
+      "name": "elektrobotanika 2a #57",
+      "iteration": 57,
+      "fxhash": "0xe36ef09a3ea1e2df0fb9fb9dec495b18fa947487bb0dfe41443820755664edf6",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "owner": "0x8a05e5eecab2c1b5dfaf26cf11c9845bf971fb45",
+      "thumbnailUri": "ipfs://QmWAZ5LUs5QJg3t2ercCe8gP7QmtTYfciNEsV27VXRmkzY",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xe36ef09a3ea1e2df0fb9fb9dec495b18fa947487bb0dfe41443820755664edf6",
+        "iteration": 57,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45"
+      }
+    },
+    {
+      "tokenId": 58,
+      "name": "elektrobotanika 2a #58",
+      "iteration": 58,
+      "fxhash": "0xc5d4c71fd2f09de782b37cdc3ed31a39d9107e72fa4ca637ac6dd47e3444b840",
+      "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "owner": "0x207412225ed2b71f06d339179f888de4ad1a7dbe",
+      "thumbnailUri": "ipfs://QmVhT443dLAuzwvdYXCjrbya9P4DaTyVpRBBLZq3b2vtoA",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc5d4c71fd2f09de782b37cdc3ed31a39d9107e72fa4ca637ac6dd47e3444b840",
+        "iteration": 58,
+        "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE"
+      }
+    },
+    {
+      "tokenId": 59,
+      "name": "elektrobotanika 2a #59",
+      "iteration": 59,
+      "fxhash": "0xbb32d947816198549aa2ae23ba73873a93dc75f4cc91fab971a4f1c2b2f6b6f2",
+      "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "owner": "0x75a317940c7c8ff2125d63e9c8b0b7b9269e599c",
+      "thumbnailUri": "ipfs://QmSsDV1duBvm3RDMLJ6jk3NWZb27kp8dw53sgexUcyLT3F",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xbb32d947816198549aa2ae23ba73873a93dc75f4cc91fab971a4f1c2b2f6b6f2",
+        "iteration": 59,
+        "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C"
+      }
+    },
+    {
+      "tokenId": 60,
+      "name": "elektrobotanika 2a #60",
+      "iteration": 60,
+      "fxhash": "0xddf499755ba9fbb713aacb0de2ea27c5c2775856e6b30921941e73dcceb3b4d3",
+      "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "owner": "0x22ed28a32d92b7ead66c4ffb6b3d79fdf186ce00",
+      "thumbnailUri": "ipfs://QmX3uykMU4S7fp7LfL5nwkfWKhWNPb5TFgRX293JzhHUgk",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xddf499755ba9fbb713aacb0de2ea27c5c2775856e6b30921941e73dcceb3b4d3",
+        "iteration": 60,
+        "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00"
+      }
+    },
+    {
+      "tokenId": 61,
+      "name": "elektrobotanika 2a #61",
+      "iteration": 61,
+      "fxhash": "0xe9b546c5e10d6e48a479c5c79390805ab20f2222fb7be836633c0be03f9ab014",
+      "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "owner": "0x22ed28a32d92b7ead66c4ffb6b3d79fdf186ce00",
+      "thumbnailUri": "ipfs://QmZ1jB5CFBDCZxZGihupicZcTqS4pExdeRQLv7x6UAcMRG",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xe9b546c5e10d6e48a479c5c79390805ab20f2222fb7be836633c0be03f9ab014",
+        "iteration": 61,
+        "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00"
+      }
+    },
+    {
+      "tokenId": 62,
+      "name": "elektrobotanika 2a #62",
+      "iteration": 62,
+      "fxhash": "0x1b02e50207b003f74bbddda0b9f8111f7facea36290e7e70cd11e352dcaa50ee",
+      "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "owner": "0x75a317940c7c8ff2125d63e9c8b0b7b9269e599c",
+      "thumbnailUri": "ipfs://QmRKNLuByKhYSTus3FzhqzN5BaDvhreNBEQjc3MPZy269i",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x1b02e50207b003f74bbddda0b9f8111f7facea36290e7e70cd11e352dcaa50ee",
+        "iteration": 62,
+        "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C"
+      }
+    },
+    {
+      "tokenId": 63,
+      "name": "elektrobotanika 2a #63",
+      "iteration": 63,
+      "fxhash": "0x9dbeee949c9b19eaea3cba26e9b901d3841914b7b970bd2d607a3ea9ac56360e",
+      "minter": "0xAf4ebEa0770E5d4E972dD650Ba76617EE21D65eC",
+      "owner": "0xaf4ebea0770e5d4e972dd650ba76617ee21d65ec",
+      "thumbnailUri": "ipfs://QmWEQL6u2JyhMggnqueB1whMxGpkyiRQ1bxnUaczHjjt8o",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9dbeee949c9b19eaea3cba26e9b901d3841914b7b970bd2d607a3ea9ac56360e",
+        "iteration": 63,
+        "minter": "0xAf4ebEa0770E5d4E972dD650Ba76617EE21D65eC"
+      }
+    },
+    {
+      "tokenId": 64,
+      "name": "elektrobotanika 2a #64",
+      "iteration": 64,
+      "fxhash": "0x206c48742bdbe855fbb4289bc81ad0039e3ba54976e5d5942e61f7f83982d437",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmPMX74f4yuqFb4ekZkpmjyn99C6eG2jA6Kxd7sG2r93vk",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x206c48742bdbe855fbb4289bc81ad0039e3ba54976e5d5942e61f7f83982d437",
+        "iteration": 64,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 65,
+      "name": "elektrobotanika 2a #65",
+      "iteration": 65,
+      "fxhash": "0xc70f329ffe4ed480678b71fbed437fb16811d2820957576a74dd31487fa73eef",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmVxs4U4k4LC2G3msTZmCq2hju6yHSv5E9EqNwxoT3MhY1",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc70f329ffe4ed480678b71fbed437fb16811d2820957576a74dd31487fa73eef",
+        "iteration": 65,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 66,
+      "name": "elektrobotanika 2a #66",
+      "iteration": 66,
+      "fxhash": "0x5ecd73bff738f4d228067f8f453bd1dac8b79017b397facea8e186dad30d6c12",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmbRQ5g6EoUVoKHB1FMEqRgBuPJezRxpuZixcHW7APUxhb",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x5ecd73bff738f4d228067f8f453bd1dac8b79017b397facea8e186dad30d6c12",
+        "iteration": 66,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 67,
+      "name": "elektrobotanika 2a #67",
+      "iteration": 67,
+      "fxhash": "0x3f3370bc30efc973c3625b7bab9b63b0337be3d258ad999eabd4954e6e083795",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmV4iyT6CkKPi7s1NC1KB3twwLsSGK28hhPra4WR2ayCvW",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x3f3370bc30efc973c3625b7bab9b63b0337be3d258ad999eabd4954e6e083795",
+        "iteration": 67,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 68,
+      "name": "elektrobotanika 2a #68",
+      "iteration": 68,
+      "fxhash": "0x0def8e3951aa5a049f3b2b77db158757f415ab5217622b1d5e87bb9166624025",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmPxyxfGubDiLcgWtxJehgfKDM7EY8swjmAEqezbwz2CZw",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x0def8e3951aa5a049f3b2b77db158757f415ab5217622b1d5e87bb9166624025",
+        "iteration": 68,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 69,
+      "name": "elektrobotanika 2a #69",
+      "iteration": 69,
+      "fxhash": "0xa49a2fe2f7eb0d3bd5fbd850be37133754269d2a0f2d34c380a62a0fcab8c999",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://Qmbyf57EPHE79vBYYscySswt3ysfd6eaQMzMPrudbfuP5Z",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xa49a2fe2f7eb0d3bd5fbd850be37133754269d2a0f2d34c380a62a0fcab8c999",
+        "iteration": 69,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 70,
+      "name": "elektrobotanika 2a #70",
+      "iteration": 70,
+      "fxhash": "0xea27fe46840616c240098a9dfa826e6a7dc04a791b6e27e9503a8fffa8f37708",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://Qmc88WTnHddMZpkcqR8Zt3RqtGCfKaavL7HejYYNDqfS7J",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xea27fe46840616c240098a9dfa826e6a7dc04a791b6e27e9503a8fffa8f37708",
+        "iteration": 70,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 71,
+      "name": "elektrobotanika 2a #71",
+      "iteration": 71,
+      "fxhash": "0x9b455bdcdaaac3681264b02d7d909da28d392897fa8d572ca56481c796bce6b0",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmRtko4XzPu9XjeEWVGF8QPMr4mSnoWUT5WyGBSdSDjhkU",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x9b455bdcdaaac3681264b02d7d909da28d392897fa8d572ca56481c796bce6b0",
+        "iteration": 71,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 72,
+      "name": "elektrobotanika 2a #72",
+      "iteration": 72,
+      "fxhash": "0xd398d9063a65c02d93ebabccefec36f1f9391774fc8990cd486e405db6cbdd72",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmNvgBeUSyy5RQsMijBy7jJMqpK3ztYUseaFQH1DSL1psU",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd398d9063a65c02d93ebabccefec36f1f9391774fc8990cd486e405db6cbdd72",
+        "iteration": 72,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 73,
+      "name": "elektrobotanika 2a #73",
+      "iteration": 73,
+      "fxhash": "0x0fd5dc9bf2de6861762b384354b0b5b7ce01917351361b4d01482c728d1fb973",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmUZ7HruZdPGrt2RwHD3dLdWXVTAvMmQ5rH6n4TcLadjTK",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x0fd5dc9bf2de6861762b384354b0b5b7ce01917351361b4d01482c728d1fb973",
+        "iteration": 73,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 74,
+      "name": "elektrobotanika 2a #74",
+      "iteration": 74,
+      "fxhash": "0xc348aead63a961f499059da3a986a64faf1c2f28713c4af20e7f4501cccc84ff",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmVMsPPmxJzBuTnsR6s7VxPykTxkHmM1vxzFe16j6ugyzb",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc348aead63a961f499059da3a986a64faf1c2f28713c4af20e7f4501cccc84ff",
+        "iteration": 74,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 75,
+      "name": "elektrobotanika 2a #75",
+      "iteration": 75,
+      "fxhash": "0x71033cd4b385ddd84c327990ef78ab9cddd73bdd28347c852b9b12842d4cb0e7",
+      "minter": "0xd2Af9f3e3435FFdEf945830fCe4eaB40877E0475",
+      "owner": "0xd2af9f3e3435ffdef945830fce4eab40877e0475",
+      "thumbnailUri": "ipfs://Qmb2J1dADJVQHxHsNjEVqUoU5kiSzWu9UHw7GjY8v8BJFu",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x71033cd4b385ddd84c327990ef78ab9cddd73bdd28347c852b9b12842d4cb0e7",
+        "iteration": 75,
+        "minter": "0xd2Af9f3e3435FFdEf945830fCe4eaB40877E0475"
+      }
+    },
+    {
+      "tokenId": 76,
+      "name": "elektrobotanika 2a #76",
+      "iteration": 76,
+      "fxhash": "0x06f89009966854eba44f195da0a06de259d02c97cc7a6eca29ca31cfa48f58db",
+      "minter": "0x7A8E90c9a198460D06fdf38099494BFFF9439b7E",
+      "owner": "0x7a8e90c9a198460d06fdf38099494bfff9439b7e",
+      "thumbnailUri": "ipfs://QmPybWTgvKiAmKgEBupUpyw5i8qeNsnswF2qF6Zoo7PEXn",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x06f89009966854eba44f195da0a06de259d02c97cc7a6eca29ca31cfa48f58db",
+        "iteration": 76,
+        "minter": "0x7A8E90c9a198460D06fdf38099494BFFF9439b7E"
+      }
+    },
+    {
+      "tokenId": 77,
+      "name": "elektrobotanika 2a #77",
+      "iteration": 77,
+      "fxhash": "0xb3d04e50e05ca800c02bb0a5486182a6d0f912c07e58436e5306e84f740e3ea1",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "owner": "0x2ce8641036f22627402bd4b1b7d1ed8a8499b205",
+      "thumbnailUri": "ipfs://QmWbVSzXPtPhYhGRrDXSqK8d9ocaGfxCTFWDgCRKfojTzj",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xb3d04e50e05ca800c02bb0a5486182a6d0f912c07e58436e5306e84f740e3ea1",
+        "iteration": 77,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205"
+      }
+    },
+    {
+      "tokenId": 78,
+      "name": "elektrobotanika 2a #78",
+      "iteration": 78,
+      "fxhash": "0xf6981c5cac3570ee4abdb868aede8d208835dde7a3a073e9503ea44971859ac0",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "owner": "0x2ce8641036f22627402bd4b1b7d1ed8a8499b205",
+      "thumbnailUri": "ipfs://Qma2xfNz4Yn3tEYkeJHMUsAgsATz4f9nn3heSyzJT7H9Hq",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xf6981c5cac3570ee4abdb868aede8d208835dde7a3a073e9503ea44971859ac0",
+        "iteration": 78,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205"
+      }
+    },
+    {
+      "tokenId": 79,
+      "name": "elektrobotanika 2a #79",
+      "iteration": 79,
+      "fxhash": "0x2f197254a161472c2004fe3de82025f6001590dea54e1fcef6731c093af66edf",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "owner": "0x2ce8641036f22627402bd4b1b7d1ed8a8499b205",
+      "thumbnailUri": "ipfs://QmRVN8iaqerxKY3DXwGEAhzSkvLC8TLTCzWggvqKSGg4qw",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x2f197254a161472c2004fe3de82025f6001590dea54e1fcef6731c093af66edf",
+        "iteration": 79,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205"
+      }
+    },
+    {
+      "tokenId": 80,
+      "name": "elektrobotanika 2a #80",
+      "iteration": 80,
+      "fxhash": "0x6a4089a2bf200f4b6b5ef7fa7bcaa61ecb1ff5ab5b73108948a9462d4e865947",
+      "minter": "0x52ECBAB17209b4Bb5Db9D6C7c3a3Ad64F3F4A458",
+      "owner": "0x52ecbab17209b4bb5db9d6c7c3a3ad64f3f4a458",
+      "thumbnailUri": "ipfs://QmfXmq897BntCUDi2twGAotNno3cF47QCbLtRKA8ctV8MN",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x6a4089a2bf200f4b6b5ef7fa7bcaa61ecb1ff5ab5b73108948a9462d4e865947",
+        "iteration": 80,
+        "minter": "0x52ECBAB17209b4Bb5Db9D6C7c3a3Ad64F3F4A458"
+      }
+    },
+    {
+      "tokenId": 81,
+      "name": "elektrobotanika 2a #81",
+      "iteration": 81,
+      "fxhash": "0xb4f07951995e943c50c982e1e4ff0c62b7469a0a04d6655710904232b396a2ab",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "owner": "0xdc25e048c3cdafacc71c391053815f548e55dae8",
+      "thumbnailUri": "ipfs://Qmd7QVwxXgbbKXyP7RbtGiNH4JCUjPhNCvU9Duj3sT38XH",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xb4f07951995e943c50c982e1e4ff0c62b7469a0a04d6655710904232b396a2ab",
+        "iteration": 81,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8"
+      }
+    },
+    {
+      "tokenId": 82,
+      "name": "elektrobotanika 2a #82",
+      "iteration": 82,
+      "fxhash": "0x2be12df4c9f9b9bab55bcfd8e10d3fc6cbae91ba2e5f0431f16535cbd3f0b244",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "owner": "0xdc25e048c3cdafacc71c391053815f548e55dae8",
+      "thumbnailUri": "ipfs://QmYnAsiNgwCLu2yiJ6WPE318avw1sHZpavETiK1nazfeS8",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x2be12df4c9f9b9bab55bcfd8e10d3fc6cbae91ba2e5f0431f16535cbd3f0b244",
+        "iteration": 82,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8"
+      }
+    },
+    {
+      "tokenId": 83,
+      "name": "elektrobotanika 2a #83",
+      "iteration": 83,
+      "fxhash": "0x43efb513116dfc066488118c740ab1d2f1e602eb56f84b90d83697dcca4b4f9d",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "owner": "0xdc25e048c3cdafacc71c391053815f548e55dae8",
+      "thumbnailUri": "ipfs://QmRiSf2BMtCUcQm1m8qdwJi5W7PQVmg6wRx5qQ13Xn28hr",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x43efb513116dfc066488118c740ab1d2f1e602eb56f84b90d83697dcca4b4f9d",
+        "iteration": 83,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8"
+      }
+    },
+    {
+      "tokenId": 84,
+      "name": "elektrobotanika 2a #84",
+      "iteration": 84,
+      "fxhash": "0xce80c7fc76cb7e06d7458337da4968253d01a8439d9c4148ae6e6e63095d34a7",
+      "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "owner": "0x7ff3c36212f5b10846b7a2569b7b8a822a900050",
+      "thumbnailUri": "ipfs://Qmb8ACoWLE1iqf8wyHn1ChFnWpTKgy8Cx7zNvTvfLQ8jaV",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xce80c7fc76cb7e06d7458337da4968253d01a8439d9c4148ae6e6e63095d34a7",
+        "iteration": 84,
+        "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050"
+      }
+    },
+    {
+      "tokenId": 85,
+      "name": "elektrobotanika 2a #85",
+      "iteration": 85,
+      "fxhash": "0x7d5dd3caae6027625ef3e74c818b3c97042c814f647c8e4b63b4ade20e37fbd4",
+      "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "owner": "0x7ff3c36212f5b10846b7a2569b7b8a822a900050",
+      "thumbnailUri": "ipfs://Qmer9KhK1dVv4KeG19kRRY1tL5rqJNeMPe5zBbMY86eLyx",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x7d5dd3caae6027625ef3e74c818b3c97042c814f647c8e4b63b4ade20e37fbd4",
+        "iteration": 85,
+        "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050"
+      }
+    },
+    {
+      "tokenId": 86,
+      "name": "elektrobotanika 2a #86",
+      "iteration": 86,
+      "fxhash": "0x17958c87e40271799fd03fb6ba487aef6c1b32ffc28b2ef052f61dcb0abd9f1d",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "owner": "0x4ec5b2606ac7d20b1b0030d156f6d789b5873abd",
+      "thumbnailUri": "ipfs://QmRPm2FiePokZ4UChfmDQWWkHjFJmEa7CprZpW2XHw8ozf",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x17958c87e40271799fd03fb6ba487aef6c1b32ffc28b2ef052f61dcb0abd9f1d",
+        "iteration": 86,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD"
+      }
+    },
+    {
+      "tokenId": 87,
+      "name": "elektrobotanika 2a #87",
+      "iteration": 87,
+      "fxhash": "0x11be832daadd093b77153ec2051e6e618d92d3c8878a77cbb64d1a3a8d0e9cd2",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "owner": "0x4ec5b2606ac7d20b1b0030d156f6d789b5873abd",
+      "thumbnailUri": "ipfs://QmXgLQXawoinEcEa5L2ctfSdsSALd4jLvpJoJ4Yoxexwkd",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x11be832daadd093b77153ec2051e6e618d92d3c8878a77cbb64d1a3a8d0e9cd2",
+        "iteration": 87,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD"
+      }
+    },
+    {
+      "tokenId": 88,
+      "name": "elektrobotanika 2a #88",
+      "iteration": 88,
+      "fxhash": "0xc78d0d7be27c8c0fc8ed5dab2bbc2e9dcbd139d9d214ab8b120d2b95b7c37740",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "owner": "0x4ec5b2606ac7d20b1b0030d156f6d789b5873abd",
+      "thumbnailUri": "ipfs://QmZBzYKFDxoXorN7AR2QSiS31C952ovUX5xH6xiMABoUWp",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xc78d0d7be27c8c0fc8ed5dab2bbc2e9dcbd139d9d214ab8b120d2b95b7c37740",
+        "iteration": 88,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD"
+      }
+    },
+    {
+      "tokenId": 89,
+      "name": "elektrobotanika 2a #89",
+      "iteration": 89,
+      "fxhash": "0xd0a93237b3318b7356d07c6ff04c4348ee03df31aa5f8f5b10edff3c16b8839e",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "owner": "0x4ec5b2606ac7d20b1b0030d156f6d789b5873abd",
+      "thumbnailUri": "ipfs://QmQME9X9JhpRzo1Y7pgGvCTSQbVwN9ooGHEUBpm9Z3QUex",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xd0a93237b3318b7356d07c6ff04c4348ee03df31aa5f8f5b10edff3c16b8839e",
+        "iteration": 89,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD"
+      }
+    },
+    {
+      "tokenId": 90,
+      "name": "elektrobotanika 2a #90",
+      "iteration": 90,
+      "fxhash": "0x0b26b57f0dc29016b409e09d15b5bb95a33c989c5a90d2787d76fd88a2589574",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "owner": "0x4ec5b2606ac7d20b1b0030d156f6d789b5873abd",
+      "thumbnailUri": "ipfs://QmRcVDWsRUJMBqQFfntHdhgjfG7eqpysARBZtpWaDFuY2f",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x0b26b57f0dc29016b409e09d15b5bb95a33c989c5a90d2787d76fd88a2589574",
+        "iteration": 90,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD"
+      }
+    },
+    {
+      "tokenId": 91,
+      "name": "elektrobotanika 2a #91",
+      "iteration": 91,
+      "fxhash": "0x76e9b9db0cebdaab8620fc03a9a9d9028adf08c33e83580a2b51bfb305c6b371",
+      "minter": "0xFafB2EC8371D8Ee6446F1235f8f092316e29F572",
+      "owner": "0xfafb2ec8371d8ee6446f1235f8f092316e29f572",
+      "thumbnailUri": "ipfs://QmWE1ojNL63q59DRr9m4NiKQ4PfurDD9cpCNJpnPBZXpz4",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x76e9b9db0cebdaab8620fc03a9a9d9028adf08c33e83580a2b51bfb305c6b371",
+        "iteration": 91,
+        "minter": "0xFafB2EC8371D8Ee6446F1235f8f092316e29F572"
+      }
+    },
+    {
+      "tokenId": 92,
+      "name": "elektrobotanika 2a #92",
+      "iteration": 92,
+      "fxhash": "0xf935125186f3323780f4409086f3baa6e2859c4231674107ecb047dfe765c162",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmessZTYQYwGeDZT6ccrRrRjJtok4KXm8zrsaCHgbYNMNN",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xf935125186f3323780f4409086f3baa6e2859c4231674107ecb047dfe765c162",
+        "iteration": 92,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 93,
+      "name": "elektrobotanika 2a #93",
+      "iteration": 93,
+      "fxhash": "0x31aeeddd93dd090498eb4ebd26c7101ba9ca60f7d8b9e01258eaa6e33d6d955b",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmcMNP3nbFpbroEgpG6mXqKAkBxqKkMcETFF4J6pNZbieg",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x31aeeddd93dd090498eb4ebd26c7101ba9ca60f7d8b9e01258eaa6e33d6d955b",
+        "iteration": 93,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 94,
+      "name": "elektrobotanika 2a #94",
+      "iteration": 94,
+      "fxhash": "0x707c86bb159645ba870f190d78d3ae719b49b2b4f5e8841603c4931302f81e21",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "owner": "0x2886fbc5ac6320c95909c2c95189fdb02c667748",
+      "thumbnailUri": "ipfs://QmeMs5JSBWJsASJG6ts3ehuPqpDKnYfKjgjYbQSx9azdsF",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x707c86bb159645ba870f190d78d3ae719b49b2b4f5e8841603c4931302f81e21",
+        "iteration": 94,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748"
+      }
+    },
+    {
+      "tokenId": 95,
+      "name": "elektrobotanika 2a #95",
+      "iteration": 95,
+      "fxhash": "0x3134b8dbe12e34002dbbe295ca7cf0d86377d21cf3b927739fd126d3b2badb71",
+      "minter": "0xd7b064F257428e7B0d5f6216BC31EcDebdCCad62",
+      "owner": "0xd7b064f257428e7b0d5f6216bc31ecdebdccad62",
+      "thumbnailUri": "ipfs://QmTzaeNy3jjqNrc9ppJQZvJCBhDZW6NN5PC6E4fTWxv5dM",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x3134b8dbe12e34002dbbe295ca7cf0d86377d21cf3b927739fd126d3b2badb71",
+        "iteration": 95,
+        "minter": "0xd7b064F257428e7B0d5f6216BC31EcDebdCCad62"
+      }
+    },
+    {
+      "tokenId": 96,
+      "name": "elektrobotanika 2a #96",
+      "iteration": 96,
+      "fxhash": "0xa0df3d0d501b7c014f84e0922d1a130717a77375e8f8749391f509c2fec6dc7e",
+      "minter": "0xd7b064F257428e7B0d5f6216BC31EcDebdCCad62",
+      "owner": "0xd7b064f257428e7b0d5f6216bc31ecdebdccad62",
+      "thumbnailUri": "ipfs://QmeSRGz5rxSjkPj7okdSx9hsYmNLzj42G1Drp1qRThcVNg",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0xa0df3d0d501b7c014f84e0922d1a130717a77375e8f8749391f509c2fec6dc7e",
+        "iteration": 96,
+        "minter": "0xd7b064F257428e7B0d5f6216BC31EcDebdCCad62"
+      }
+    },
+    {
+      "tokenId": 97,
+      "name": "elektrobotanika 2a #97",
+      "iteration": 97,
+      "fxhash": "0x06ab0bfef92e0a6fcb47fb919adf1fcbb862bc30cf9eac779090c06b65ced571",
+      "minter": "0xF1C34d739Ae1dAE7A22eDBbD45e07c414506242f",
+      "owner": "0xf1c34d739ae1dae7a22edbbd45e07c414506242f",
+      "thumbnailUri": "ipfs://QmTPLzRptDFQNYhZgAD6AU3A4RRm2Cbz28NqGVXt2aECu5",
+      "generativeUri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+      "viewerParams": {
+        "uri": "onchfs://919c3425bad4e2dea236467ace966b48d83e986a0ba4a416c997947bf36730ee/",
+        "fxhash": "0x06ab0bfef92e0a6fcb47fb919adf1fcbb862bc30cf9eac779090c06b65ced571",
+        "iteration": 97,
+        "minter": "0xF1C34d739Ae1dAE7A22eDBbD45e07c414506242f"
+      }
+    }
+  ]
+}

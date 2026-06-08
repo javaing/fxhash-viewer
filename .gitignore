@@ -5,7 +5,7 @@ dist
 .DS_Store
 *.log
 *.tsbuildinfo
+*.bak
 
 # User data — extracted projects and raw metadata (not source code)
-public/projects/
 metadata/
