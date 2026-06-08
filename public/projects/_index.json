@@ -1,5 +1,12 @@
 [
   {
+    "filename": "ASCII-SCAPE.json",
+    "name": "ASCII-SCAPE",
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmPPsht1BKLNE7C2M9ksPKLuM3rVggdjjzPbsbdnX3og5u"
+  },
+  {
     "filename": "Agglo.json",
     "name": "Agglo",
     "chain": "tezos",
@@ -63,11 +70,32 @@
     "thumbnail": "ipfs://QmWwkKkxhRH8KKZXuca7zBXJgbXGANyQqVMajYWJqv72fQ"
   },
   {
+    "filename": "DOM2.json",
+    "name": "DOM2",
+    "chain": "base",
+    "count": 3282,
+    "thumbnail": "ipfs://Qmb8CQQq1wmG63yZksi5Gk4BYioG8SzJGPk4Xw4gDJud35"
+  },
+  {
     "filename": "De_Frag.json",
     "name": "De/Frag",
     "chain": "tezos",
     "count": 512,
     "thumbnail": "ipfs://QmPKNowftiBuFSRg7KVoGbRVr9w8FKNWs3hykwm9DfHxuP"
+  },
+  {
+    "filename": "De_FragV2.json",
+    "name": "De/FragV2",
+    "chain": "tezos",
+    "count": 384,
+    "thumbnail": "ipfs://QmUQqQv6uf5S8dbd99JjLzk9FpjPryCZhrtTVEYKZqhfQM"
+  },
+  {
+    "filename": "De_FragV3.json",
+    "name": "De/FragV3",
+    "chain": "tezos",
+    "count": 512,
+    "thumbnail": "ipfs://QmeiKJRSqLzJZbFjFSfR4z6VUjaBhnToA8Lfeuzj7LjhYW"
   },
   {
     "filename": "Dencity.json",
@@ -126,6 +154,13 @@
     "thumbnail": "ipfs://QmWTik8NtgNTeskrDNrfEuvUR93C5DzLVnrPfvuMRzAMja"
   },
   {
+    "filename": "Fragments_of_a_Wave.json",
+    "name": "Fragments of a Wave",
+    "chain": "tezos",
+    "count": 500,
+    "thumbnail": "ipfs://QmUjeDTv7d4DSTpt6xXnHPKbCN6cn2A32eysnM5dH9xMSK"
+  },
+  {
     "filename": "Garden__Monoliths.json",
     "name": "Garden, Monoliths",
     "chain": "tezos",
@@ -180,6 +215,13 @@
     "chain": "tezos",
     "count": 500,
     "thumbnail": "ipfs://QmaanAvgESVHFxqFnPMqtbV49wtVNS2KHpL7b1NvvpoKYC"
+  },
+  {
+    "filename": "Loom.json",
+    "name": "Loom",
+    "chain": "tezos",
+    "count": 480,
+    "thumbnail": "ipfs://QmZ43BvajJ7w2yx3pbZSmkdWZMSN5iDPdmQr5q183sQ7rg"
   },
   {
     "filename": "Mind_docks_sorting_station.json",
@@ -306,6 +348,20 @@
     "chain": "tezos",
     "count": 240,
     "thumbnail": "ipfs://QmQ8prjGECNyTLLaTG7iTCZSV921hxqKcKa9puu3ZLxyFg"
+  },
+  {
+    "filename": "Step_by_Step.json",
+    "name": "Step by Step",
+    "chain": "tezos",
+    "count": 200,
+    "thumbnail": "ipfs://QmcheMZaqNCcfG7u5uzaBcZh2UbGPAYSwLVQD2AjafEwpc"
+  },
+  {
+    "filename": "Tesseract.json",
+    "name": "Tesseract",
+    "chain": "tezos",
+    "count": 512,
+    "thumbnail": "ipfs://QmXHsT9XzBypL1m5sKiPxZATW6smyudGg6DHjgGoKMkBca"
   },
   {
     "filename": "The_Fire_Within.json",
