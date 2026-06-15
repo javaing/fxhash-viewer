@@ -597,9 +597,9 @@
   {
     "filename": "Entangled_tezos.json",
     "name": "Entangled",
-    "artist": "nonfigurativ",
+    "artist": "Bjørn Staal",
     "artists": [
-      "nonfigurativ"
+      "Bjørn Staal"
     ],
     "chain": "tezos",
     "count": 256,
@@ -1086,8 +1086,10 @@
   {
     "filename": "Lumina.json",
     "name": "{Lumina}",
-    "artist": "",
-    "artists": [],
+    "artist": "generatecoll",
+    "artists": [
+      "generatecoll"
+    ],
     "chain": "tezos",
     "count": 2770,
     "thumbnail": "ipfs://QmdPoUaJJj6F5Ua7MjaFSuvmKYsT8sgBeENLNctw2UMDT1"
@@ -1326,10 +1328,9 @@
   {
     "filename": "Proxima.json",
     "name": "Proxima",
-    "artist": "Jacek Markusiewicz & IsmaHelio",
+    "artist": "Jacek Markusiewicz",
     "artists": [
-      "Jacek Markusiewicz",
-      "IsmaHelio"
+      "Jacek Markusiewicz"
     ],
     "chain": "tezos",
     "count": 365,
@@ -1836,10 +1837,10 @@
   {
     "filename": "Turtle_Vision.json",
     "name": "Turtle Vision",
-    "artist": "Casson.tez & s_r_r_z_",
+    "artist": "eziraros & Casson.tez",
     "artists": [
-      "Casson.tez",
-      "s_r_r_z_"
+      "eziraros",
+      "Casson.tez"
     ],
     "chain": "tezos",
     "count": 234,
