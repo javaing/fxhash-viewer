@@ -1,0 +1,3599 @@
+{
+  "project": {
+    "name": "Cuts",
+    "artist": "todemashi",
+    "artists": [
+      "todemashi"
+    ],
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+    "totalSupply": 199,
+    "extractedAt": "2026-06-18T01:49:20.030Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 509476,
+      "name": "Cuts #1",
+      "iteration": 1,
+      "fxhash": "op4VF5VCYxYzCDzvPkAUhAX3rr6mLJ4thinbxA1pLmx8g9eHGWU",
+      "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+      "fxparams": "",
+      "owner": "tz1isDv4w4fTJyWZXzFYC7evcz5Di8uLfULc",
+      "thumbnailUri": "ipfs://Qmcc5jgq5xYb4TKFnfA9gjqMyYHG6P9Zd3uJXbbmmRp33z",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op4VF5VCYxYzCDzvPkAUhAX3rr6mLJ4thinbxA1pLmx8g9eHGWU",
+        "iteration": 1,
+        "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509477,
+      "name": "Cuts #2",
+      "iteration": 2,
+      "fxhash": "oo8TTt6K82ja45GUqCdQboMDtjfgBaNieNoUX2V6nEspTFmt3yQ",
+      "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+      "fxparams": "",
+      "owner": "tz1hQ8BzTVwssUGQFinLQGfc7TKuMdeX6uQW",
+      "thumbnailUri": "ipfs://QmZomykEUKdkAC8aYacFNFDVTPSwpHLtrrun4Yb4ZshCND",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo8TTt6K82ja45GUqCdQboMDtjfgBaNieNoUX2V6nEspTFmt3yQ",
+        "iteration": 2,
+        "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509478,
+      "name": "Cuts #3",
+      "iteration": 3,
+      "fxhash": "opU3Lcdynedzu4CpTixB45tHzc8gkkRWoiRKX5sVCLWVUTDW96B",
+      "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+      "fxparams": "",
+      "owner": "tz1PE415ckPNF9SD9VrxT2MgL8fpwXSk9F1k",
+      "thumbnailUri": "ipfs://QmWithrWFUsKk2QHs8P1obeVDWWsgEqKqdK3PdeJNHgyeq",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opU3Lcdynedzu4CpTixB45tHzc8gkkRWoiRKX5sVCLWVUTDW96B",
+        "iteration": 3,
+        "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509479,
+      "name": "Cuts #4",
+      "iteration": 4,
+      "fxhash": "oonWKeo3goEt2MYgMtyUW8AmnAicdKaUqVgywXPJXPU3sZZoqtN",
+      "minter": "tz1P4gnLRoYP8rsZHr7EEnM5XTKqZpkJm5j8",
+      "fxparams": "",
+      "owner": "tz1Wh4amiASAt56p4CGYHycLpyJ9oMaxpyKU",
+      "thumbnailUri": "ipfs://QmSiKhXaHtjtS32erPRaxFCew21Aj4pP6gkTwaY4kPTisR",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oonWKeo3goEt2MYgMtyUW8AmnAicdKaUqVgywXPJXPU3sZZoqtN",
+        "iteration": 4,
+        "minter": "tz1P4gnLRoYP8rsZHr7EEnM5XTKqZpkJm5j8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509480,
+      "name": "Cuts #5",
+      "iteration": 5,
+      "fxhash": "ooh5gU8LfAbiLKz59UFvpDu5cnTtuJoPmhLX3R8Q7beYJwktmHi",
+      "minter": "tz1YhzHXTtp72tg3UwpKh4tfSoqzYfTYZbad",
+      "fxparams": "",
+      "owner": "tz1WqXSMDZENwSrxuVRgAnW1AEa7UCkpkwSF",
+      "thumbnailUri": "ipfs://QmaPdUJa5gZgq7bWYqo6BSKqz2A9abGYCG6hakr1NHp6Ey",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooh5gU8LfAbiLKz59UFvpDu5cnTtuJoPmhLX3R8Q7beYJwktmHi",
+        "iteration": 5,
+        "minter": "tz1YhzHXTtp72tg3UwpKh4tfSoqzYfTYZbad",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509481,
+      "name": "Cuts #6",
+      "iteration": 6,
+      "fxhash": "opVAsjB3jQSbEUoYAdWMqG2jZX2epVDMkPgvRJAmFhtQaZCHA21",
+      "minter": "tz1dbCXsQE2sKAqQyKYkJLRn1bshatGCr2HV",
+      "fxparams": "",
+      "owner": "tz1dKHBAnDrwN8i3MnSnTGpNNodztX1Q2KLZ",
+      "thumbnailUri": "ipfs://QmNNNkW4S1kjkNFFUVfBLGWZFTtmZSkZe6KbT4dr7vC7Wz",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opVAsjB3jQSbEUoYAdWMqG2jZX2epVDMkPgvRJAmFhtQaZCHA21",
+        "iteration": 6,
+        "minter": "tz1dbCXsQE2sKAqQyKYkJLRn1bshatGCr2HV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509482,
+      "name": "Cuts #7",
+      "iteration": 7,
+      "fxhash": "opPctkAvj3dtAgzZThDXctasoqKbHW5pecGYa6N6baFpw3kHygk",
+      "minter": "tz1Zg6ehcP3ZQ9GXFqbDnkN2KsasyfdwsHzP",
+      "fxparams": "",
+      "owner": "tz1VymPMaRnZDWojxs1puBgtJjLGKxnTpcS3",
+      "thumbnailUri": "ipfs://QmNkTxffFsUGPRyg2JFFxPCr5zavHfBCBxYQc7sh7HDSsT",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opPctkAvj3dtAgzZThDXctasoqKbHW5pecGYa6N6baFpw3kHygk",
+        "iteration": 7,
+        "minter": "tz1Zg6ehcP3ZQ9GXFqbDnkN2KsasyfdwsHzP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509483,
+      "name": "Cuts #8",
+      "iteration": 8,
+      "fxhash": "opYgDM7j79ErS62fwcbbpVMovqRMZe1Acx1c328eaGD3YXw1REr",
+      "minter": "tz1TvzazyLsZnq76iFzVHBDikYsSMHtBfJFq",
+      "fxparams": "",
+      "owner": "tz1eTyW8hsxXMtQeKJBq63ubhHkntUwefKzR",
+      "thumbnailUri": "ipfs://QmbtwvrEdbn7LuQ18vZ6CaL9wzoXM8RdHruQGHimCy6Arv",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opYgDM7j79ErS62fwcbbpVMovqRMZe1Acx1c328eaGD3YXw1REr",
+        "iteration": 8,
+        "minter": "tz1TvzazyLsZnq76iFzVHBDikYsSMHtBfJFq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509484,
+      "name": "Cuts #9",
+      "iteration": 9,
+      "fxhash": "opYhUPTeou1ZFb61zRWpRQ4jDLxFe6vYTZa8CVQcbG7UAWqrfXK",
+      "minter": "tz1cr6BHNiegNccBP1HYvR5Esyhw7MQFjCf8",
+      "fxparams": "",
+      "owner": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "thumbnailUri": "ipfs://QmZMVvpSoEFqmZ24fVypWuhycFeYPzsZJe4rrvk3RqTu4B",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opYhUPTeou1ZFb61zRWpRQ4jDLxFe6vYTZa8CVQcbG7UAWqrfXK",
+        "iteration": 9,
+        "minter": "tz1cr6BHNiegNccBP1HYvR5Esyhw7MQFjCf8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509485,
+      "name": "Cuts #10",
+      "iteration": 10,
+      "fxhash": "oohwGtzBYZYhJ6twu5moyQsbaa3KnGBanwg84X68eeqFZmu3T6P",
+      "minter": "tz1fCvitb7uXLJcn8bkSSeLXktij132JLrUZ",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://Qme7scL5iGUxbwa2QHrdUCfwcVqk3ufgMWbR7kdG5hDKRj",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oohwGtzBYZYhJ6twu5moyQsbaa3KnGBanwg84X68eeqFZmu3T6P",
+        "iteration": 10,
+        "minter": "tz1fCvitb7uXLJcn8bkSSeLXktij132JLrUZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509486,
+      "name": "Cuts #11",
+      "iteration": 11,
+      "fxhash": "onhnx1AUdvEZ4mg3PJJVw54kvtnHsByHyJnxWVZo86ezwvfHWPN",
+      "minter": "tz1b8FSseiTHzDXRiuCSvb3To5cdbZDPRPCF",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmfHjmwad9zfqscspLaPiJ12cpKGFMD8Y9WtniPR5b5kkf",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onhnx1AUdvEZ4mg3PJJVw54kvtnHsByHyJnxWVZo86ezwvfHWPN",
+        "iteration": 11,
+        "minter": "tz1b8FSseiTHzDXRiuCSvb3To5cdbZDPRPCF",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509487,
+      "name": "Cuts #12",
+      "iteration": 12,
+      "fxhash": "onjVkVFguJtGZWomduhVtoEaz7hZrifaf7xtDPem1aopVMZ6X3R",
+      "minter": "tz1XT3ncKE9KRzn2qWFmcG3Fg5hAhtKUF8hU",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmNup6SdPSciAsfPRNmZ5FzyqtfY6mJubGADqmwhS2W8i2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onjVkVFguJtGZWomduhVtoEaz7hZrifaf7xtDPem1aopVMZ6X3R",
+        "iteration": 12,
+        "minter": "tz1XT3ncKE9KRzn2qWFmcG3Fg5hAhtKUF8hU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509488,
+      "name": "Cuts #13",
+      "iteration": 13,
+      "fxhash": "opQjZ286gPjUZPR2KaAh7GdpWgjX5t3SkpUR8GP5aCn5p65BaQC",
+      "minter": "tz1a2S5yUB2Ec65Mn1qedzBd21pG4HaFiVtX",
+      "fxparams": "",
+      "owner": "tz1QghPtJkZurySZrfehLwfv9cotBuyQQYDg",
+      "thumbnailUri": "ipfs://Qmf7VJVw4TYVJwSgEoK1by1b138Q955qWyJsMsz9BYEqkU",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opQjZ286gPjUZPR2KaAh7GdpWgjX5t3SkpUR8GP5aCn5p65BaQC",
+        "iteration": 13,
+        "minter": "tz1a2S5yUB2Ec65Mn1qedzBd21pG4HaFiVtX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509489,
+      "name": "Cuts #14",
+      "iteration": 14,
+      "fxhash": "opLUmG7f85Rb6Kk98HFCZkq8toCYNTG1hSr2YeNCPTC2RBKaL2T",
+      "minter": "tz1WTGLfdsUqyk5XCcm8XeMspe1N8bcHYPMb",
+      "fxparams": "",
+      "owner": "tz1MhhsH5Bce4kNGKj1KtG7g8nELeUjX3f1z",
+      "thumbnailUri": "ipfs://QmZpYWt21HB9iyiyz2WPM6JMk343ytNP2jzHR9H3k83kUa",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opLUmG7f85Rb6Kk98HFCZkq8toCYNTG1hSr2YeNCPTC2RBKaL2T",
+        "iteration": 14,
+        "minter": "tz1WTGLfdsUqyk5XCcm8XeMspe1N8bcHYPMb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509490,
+      "name": "Cuts #15",
+      "iteration": 15,
+      "fxhash": "onydtmtPEbxXugnZwVxzp7AsMaBDPyhoBNScRhmjnNx4D98tbXt",
+      "minter": "tz1U2J6dwhJB1a1ziUpuPLmQWZBuCfo4pStN",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmZZSXSJ5ZQaXurw15HqdohYfaFkPEgG2NYNpwuNAs9yAv",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onydtmtPEbxXugnZwVxzp7AsMaBDPyhoBNScRhmjnNx4D98tbXt",
+        "iteration": 15,
+        "minter": "tz1U2J6dwhJB1a1ziUpuPLmQWZBuCfo4pStN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509491,
+      "name": "Cuts #16",
+      "iteration": 16,
+      "fxhash": "ooYBRgaBD8ZknjkGr4aTQMyzPGYs8HTXPbjmzHbwaR61rDkYXby",
+      "minter": "tz1P3evGMKqxrmnzrBoY2urgYGmKCFRehZbd",
+      "fxparams": "",
+      "owner": "tz1Yt2YLdwnomdAxi3QwUtQfsbDyBnyuKp33",
+      "thumbnailUri": "ipfs://QmYuFHLTvNku2huUbxD9A1zbhzTg4dboVbo2WJRiQHdB2o",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooYBRgaBD8ZknjkGr4aTQMyzPGYs8HTXPbjmzHbwaR61rDkYXby",
+        "iteration": 16,
+        "minter": "tz1P3evGMKqxrmnzrBoY2urgYGmKCFRehZbd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509492,
+      "name": "Cuts #17",
+      "iteration": 17,
+      "fxhash": "oo1q4cfrGbPsXxjbw4k5KBZSLjoQ764qzzrEqN7i7ZvN2RfX6B8",
+      "minter": "tz1fwgvLszr9GtPXNpe5EBWH5FW1isGobiQ1",
+      "fxparams": "",
+      "owner": "tz1MhhsH5Bce4kNGKj1KtG7g8nELeUjX3f1z",
+      "thumbnailUri": "ipfs://QmYHXRiucgHPNHLaVGQr5adtMxntaYio2dPUypxEwnajsK",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo1q4cfrGbPsXxjbw4k5KBZSLjoQ764qzzrEqN7i7ZvN2RfX6B8",
+        "iteration": 17,
+        "minter": "tz1fwgvLszr9GtPXNpe5EBWH5FW1isGobiQ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509493,
+      "name": "Cuts #18",
+      "iteration": 18,
+      "fxhash": "oonDRCDCEa5uTvZQMXQ61AP2HNYChBanjpeNrRkczC7ppVUW6aY",
+      "minter": "tz1awn8DUkFkLZBegspUhKPkqx9kcFmaswcz",
+      "fxparams": "",
+      "owner": "tz1P3witkNq6KTJPPCgj5iKMVxZPag8zoa7C",
+      "thumbnailUri": "ipfs://QmfSmexkakZnEB4XSNVMYQrV5aXPpz1bdpXgeN2ivz1dGX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oonDRCDCEa5uTvZQMXQ61AP2HNYChBanjpeNrRkczC7ppVUW6aY",
+        "iteration": 18,
+        "minter": "tz1awn8DUkFkLZBegspUhKPkqx9kcFmaswcz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509494,
+      "name": "Cuts #19",
+      "iteration": 19,
+      "fxhash": "oo1UZFZCHdbGfVPiV9FgZxJWsWbvWhjhiDARVgB87mKTouS9SdT",
+      "minter": "tz1S2D9sMFwRJ3Vt7cbHJV6eeU67R5Z7kVUZ",
+      "fxparams": "",
+      "owner": "tz1MhhsH5Bce4kNGKj1KtG7g8nELeUjX3f1z",
+      "thumbnailUri": "ipfs://QmPfD9mQYuzViGabtGg6GLf4gwTzfzGTSu2QscvbrUBaUz",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo1UZFZCHdbGfVPiV9FgZxJWsWbvWhjhiDARVgB87mKTouS9SdT",
+        "iteration": 19,
+        "minter": "tz1S2D9sMFwRJ3Vt7cbHJV6eeU67R5Z7kVUZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509495,
+      "name": "Cuts #20",
+      "iteration": 20,
+      "fxhash": "ooUPk9YZPzc9A8sECZBUDiSr1z3qJdejgbQ2g8B1Pd8GKEh75xP",
+      "minter": "tz1PRUE3dzp2zMmwE9PzDHTt4uXXBTcxF1mG",
+      "fxparams": "",
+      "owner": "tz1MhhsH5Bce4kNGKj1KtG7g8nELeUjX3f1z",
+      "thumbnailUri": "ipfs://QmU4CKKqHTZ1r66mjg7KEyjyVyCBTHGKeYtLnEFTJqcDQh",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooUPk9YZPzc9A8sECZBUDiSr1z3qJdejgbQ2g8B1Pd8GKEh75xP",
+        "iteration": 20,
+        "minter": "tz1PRUE3dzp2zMmwE9PzDHTt4uXXBTcxF1mG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509496,
+      "name": "Cuts #21",
+      "iteration": 21,
+      "fxhash": "oo9BCxpVvKHFaA4KFRqruTT6pk5beQTBGteJ3P5ZRB6YykEtXDC",
+      "minter": "tz1NPTFyzxcnzfV55cyLCggMtVozbf42XgTP",
+      "fxparams": "",
+      "owner": "tz1TWQdEQgZbJLyfcP714zs1zJM4gRuWPqWp",
+      "thumbnailUri": "ipfs://Qmb7sW8Mgd2pXkoxA5y3vVbQ4e6xowVBEj7A2dd3Dst4u4",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo9BCxpVvKHFaA4KFRqruTT6pk5beQTBGteJ3P5ZRB6YykEtXDC",
+        "iteration": 21,
+        "minter": "tz1NPTFyzxcnzfV55cyLCggMtVozbf42XgTP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509497,
+      "name": "Cuts #22",
+      "iteration": 22,
+      "fxhash": "ooLHqtsJ9DeWoKuBgqkaq2TE8XyFCeXtt7v8p3RPu93QNND8KVD",
+      "minter": "tz1h2V7SoXvPiQ1rbVURyp71QdjNVGdtXRnQ",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmbNy6yXeocAMU8qVTe35TMnudcPD94kVQKLfPYLpfoc1X",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooLHqtsJ9DeWoKuBgqkaq2TE8XyFCeXtt7v8p3RPu93QNND8KVD",
+        "iteration": 22,
+        "minter": "tz1h2V7SoXvPiQ1rbVURyp71QdjNVGdtXRnQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509498,
+      "name": "Cuts #23",
+      "iteration": 23,
+      "fxhash": "opFwj6EYDRRb2Fi4HG17dVC1Sd2Ket1BAYrRJ41yaQtV68HviuP",
+      "minter": "tz1hyrLYegbQM1Ync4kMbEiLuCqtNdBtdYoG",
+      "fxparams": "",
+      "owner": "tz1eja5XFcVwfJvegKsUzpJ8piPsaFJtckr1",
+      "thumbnailUri": "ipfs://QmRo9pSWFb8VXcNnShrH4t4GTinfSSy7u9ND5eofBHbQJF",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opFwj6EYDRRb2Fi4HG17dVC1Sd2Ket1BAYrRJ41yaQtV68HviuP",
+        "iteration": 23,
+        "minter": "tz1hyrLYegbQM1Ync4kMbEiLuCqtNdBtdYoG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509499,
+      "name": "Cuts #24",
+      "iteration": 24,
+      "fxhash": "opWT21jWWmAz9f67qCrzpCNTWjw9PgWVzAgUoyrqpuYS5w4oEUu",
+      "minter": "tz1NxXa4sTDrgRd2GKB6bCRSdVeaxNRr3r55",
+      "fxparams": "",
+      "owner": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "thumbnailUri": "ipfs://QmRZknjELRnUtHbR8ZXtW2BGygeEMvFvthXSahRSnqPERn",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opWT21jWWmAz9f67qCrzpCNTWjw9PgWVzAgUoyrqpuYS5w4oEUu",
+        "iteration": 24,
+        "minter": "tz1NxXa4sTDrgRd2GKB6bCRSdVeaxNRr3r55",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509500,
+      "name": "Cuts #25",
+      "iteration": 25,
+      "fxhash": "opauyobbFJvrqSBu4PwBJiq8To37gVSPviP1xjTSNq721bNqNSz",
+      "minter": "tz1cqciKwa7kYuFv9a7wMsrtWQbH8LxAQr38",
+      "fxparams": "",
+      "owner": "tz1RmA6FA51QLESDu5mX9ZThBjwwYudtaeW4",
+      "thumbnailUri": "ipfs://QmYisLJ4yxTRSnpUWtTAn2rfNPJSw26Eg1rphxPWYsz2QZ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opauyobbFJvrqSBu4PwBJiq8To37gVSPviP1xjTSNq721bNqNSz",
+        "iteration": 25,
+        "minter": "tz1cqciKwa7kYuFv9a7wMsrtWQbH8LxAQr38",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509501,
+      "name": "Cuts #26",
+      "iteration": 26,
+      "fxhash": "oojvfNR6muKwFxpgqLFbaiGP3uioKV7nwNtanDAya9t8nnM6rFm",
+      "minter": "tz1XGL8FFQMbiGK3p9h7EQqPYL94jQN11Y6V",
+      "fxparams": "",
+      "owner": "tz29rT6LwCuZcyxkJ3mNvFNSRBryfxnPZqJW",
+      "thumbnailUri": "ipfs://QmcBXYoZj4h3fgH5J2kg1NHddtz2tMtDaPBWTPwESaBmYV",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oojvfNR6muKwFxpgqLFbaiGP3uioKV7nwNtanDAya9t8nnM6rFm",
+        "iteration": 26,
+        "minter": "tz1XGL8FFQMbiGK3p9h7EQqPYL94jQN11Y6V",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509502,
+      "name": "Cuts #27",
+      "iteration": 27,
+      "fxhash": "ooaCMYXFf2hk2mUYTrw4gZXZvix3G2zQ4FdPtPomrqcn34JRFAr",
+      "minter": "tz1NtyS9PyuEwhwEoFMXLidiCyrGfFbwD4NX",
+      "fxparams": "",
+      "owner": "tz29rT6LwCuZcyxkJ3mNvFNSRBryfxnPZqJW",
+      "thumbnailUri": "ipfs://QmcM7UQRW5jqXGdr8bSUDjQ6dN5qizhkqwssKvGruNpms5",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooaCMYXFf2hk2mUYTrw4gZXZvix3G2zQ4FdPtPomrqcn34JRFAr",
+        "iteration": 27,
+        "minter": "tz1NtyS9PyuEwhwEoFMXLidiCyrGfFbwD4NX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509503,
+      "name": "Cuts #28",
+      "iteration": 28,
+      "fxhash": "onmd8vJHWZCNdcST4NDzPgBar3xPCoQJ7VMivJR12x34nEZgb3g",
+      "minter": "tz1NJtxgrp2udDF2dhH4pzXM5V2cHqX6zizm",
+      "fxparams": "",
+      "owner": "tz1WusSKVn2eN1S7MeFGe48P4fKjMbhFa5TU",
+      "thumbnailUri": "ipfs://QmTpXVTeo79WXUcdcC4aR2yb89C8t54nwDJHwHziBuXrwW",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onmd8vJHWZCNdcST4NDzPgBar3xPCoQJ7VMivJR12x34nEZgb3g",
+        "iteration": 28,
+        "minter": "tz1NJtxgrp2udDF2dhH4pzXM5V2cHqX6zizm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509504,
+      "name": "Cuts #29",
+      "iteration": 29,
+      "fxhash": "ooPPUggbSHjtG6FfB9soFBTH2sX3VVz4vCEF7Q4j1Yn1T1a64bb",
+      "minter": "tz1is612Mf2PotkCyYBdMWyqou4yjioeDRsN",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmVf4feYwF8coU2VJDKQezJUrnjDe3gM2P47CmqNvSuFNV",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooPPUggbSHjtG6FfB9soFBTH2sX3VVz4vCEF7Q4j1Yn1T1a64bb",
+        "iteration": 29,
+        "minter": "tz1is612Mf2PotkCyYBdMWyqou4yjioeDRsN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509505,
+      "name": "Cuts #30",
+      "iteration": 30,
+      "fxhash": "oobQtnz5jbbiwHJALnVkSAzy81Bx71UGjjEpnUX3AJdRDPmLL8D",
+      "minter": "tz1hQxpijjx1k2vgAT2VCKCgrYZ8U4msQmaA",
+      "fxparams": "",
+      "owner": "tz1QHTN7HRJh7SupB7doMmBvDY8QkzJTB8YV",
+      "thumbnailUri": "ipfs://QmYs55a2BUQjnba5TYWqz9AHjt5Zfgvodaac9rkyua3LpK",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oobQtnz5jbbiwHJALnVkSAzy81Bx71UGjjEpnUX3AJdRDPmLL8D",
+        "iteration": 30,
+        "minter": "tz1hQxpijjx1k2vgAT2VCKCgrYZ8U4msQmaA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509506,
+      "name": "Cuts #31",
+      "iteration": 31,
+      "fxhash": "ooBsp8VUeZ1WAyZ6pRkTAQ5LMc4MNx69kx9MrJyJ53yfQGqsfow",
+      "minter": "tz1NzmiwSrfW9Nbtdqf5U5EApR9RmADrTRQR",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmRQxQBD5sjTPaT3Etthnv58iSotm6DvTwVmt7ea5MyvUF",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooBsp8VUeZ1WAyZ6pRkTAQ5LMc4MNx69kx9MrJyJ53yfQGqsfow",
+        "iteration": 31,
+        "minter": "tz1NzmiwSrfW9Nbtdqf5U5EApR9RmADrTRQR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509507,
+      "name": "Cuts #32",
+      "iteration": 32,
+      "fxhash": "ooVrm3rFvKx6Tc8bELzP6arZLSeKsrSK2tmxDRCZ44uZPVKpoKQ",
+      "minter": "tz1i4aKHFFhFzKuqCFdvdZmRwaWihFzdsWD4",
+      "fxparams": "",
+      "owner": "tz1eTyW8hsxXMtQeKJBq63ubhHkntUwefKzR",
+      "thumbnailUri": "ipfs://QmQvYJgrWX9irYWbUfzQ9hSpUe6apCwJHjriuhv7CThCeq",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooVrm3rFvKx6Tc8bELzP6arZLSeKsrSK2tmxDRCZ44uZPVKpoKQ",
+        "iteration": 32,
+        "minter": "tz1i4aKHFFhFzKuqCFdvdZmRwaWihFzdsWD4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509508,
+      "name": "Cuts #33",
+      "iteration": 33,
+      "fxhash": "opQVxq9HWNB8SiWxCaMEt3NBho6GDuveqdUtVuv9rjKMcb7shjE",
+      "minter": "tz1RvfjGDmaRw1DypdENxzmKHk6fxTW1oUbg",
+      "fxparams": "",
+      "owner": "tz1RvfjGDmaRw1DypdENxzmKHk6fxTW1oUbg",
+      "thumbnailUri": "ipfs://QmTjPLAsFbkiGeDm6u5b1APftw3bLwvzSxoSkGgWpUB86Q",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opQVxq9HWNB8SiWxCaMEt3NBho6GDuveqdUtVuv9rjKMcb7shjE",
+        "iteration": 33,
+        "minter": "tz1RvfjGDmaRw1DypdENxzmKHk6fxTW1oUbg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509509,
+      "name": "Cuts #34",
+      "iteration": 34,
+      "fxhash": "opPCzMqoobEJ81fmUuFeFczjisUNp2xVXn1fbFXnQe9LuH7UJ3q",
+      "minter": "tz1RSBNeyVd11L2e7cmAgae844t8ZDTabe1v",
+      "fxparams": "",
+      "owner": "tz1iB8Ayco6yPe2nBUJ8kbcF7CitAW8Aid74",
+      "thumbnailUri": "ipfs://QmPX9zybdiAvXUaq8pmTdYf7sN7mSKuzpESiTQvj1XiHVp",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opPCzMqoobEJ81fmUuFeFczjisUNp2xVXn1fbFXnQe9LuH7UJ3q",
+        "iteration": 34,
+        "minter": "tz1RSBNeyVd11L2e7cmAgae844t8ZDTabe1v",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509510,
+      "name": "Cuts #35",
+      "iteration": 35,
+      "fxhash": "ooVYfnsjfyatDNSjsQFL3ZAtw2zJbhz8AvuFQ63QGRWhWiR6TeZ",
+      "minter": "tz1ayN7yqxkfkJg77JRHCShZnH674Ghth8Dv",
+      "fxparams": "",
+      "owner": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "thumbnailUri": "ipfs://QmeX1oSfRqUj1m2ufX43C7yXEwoVRt1EumRWbVy6TVMyc3",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooVYfnsjfyatDNSjsQFL3ZAtw2zJbhz8AvuFQ63QGRWhWiR6TeZ",
+        "iteration": 35,
+        "minter": "tz1ayN7yqxkfkJg77JRHCShZnH674Ghth8Dv",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509511,
+      "name": "Cuts #36",
+      "iteration": 36,
+      "fxhash": "oo6FodtuoweDhBRqo5ggesNcNB3AwaFgaybt9EsqFz4LrRYYcJR",
+      "minter": "tz1NjXLdWjtQfGRzshLoViTiEN7JfM5ivVW5",
+      "fxparams": "",
+      "owner": "tz1TSwLNzjpveo6z5mgsHbzL69hGXTqR4K4a",
+      "thumbnailUri": "ipfs://QmeNH3JiTyLagsTbfNQVECLrZbRuSqA2UAjgqKNna6Sp9L",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo6FodtuoweDhBRqo5ggesNcNB3AwaFgaybt9EsqFz4LrRYYcJR",
+        "iteration": 36,
+        "minter": "tz1NjXLdWjtQfGRzshLoViTiEN7JfM5ivVW5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509512,
+      "name": "Cuts #37",
+      "iteration": 37,
+      "fxhash": "oodTF5fgK4XcM7Hw4athYDvFXYSKn6xJzByKcE7xWnVpayYd12S",
+      "minter": "tz1iRPsFuwTNngmPyc6A71Edx3X9WrnkncRM",
+      "fxparams": "",
+      "owner": "tz1ZgNszELkA3ctSbS9m1sups7hSZDeTKVuV",
+      "thumbnailUri": "ipfs://QmTGvb6Wm9s3vEZiimB7oHsHQrbe4dMTaDxcmcCMX7gmyf",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oodTF5fgK4XcM7Hw4athYDvFXYSKn6xJzByKcE7xWnVpayYd12S",
+        "iteration": 37,
+        "minter": "tz1iRPsFuwTNngmPyc6A71Edx3X9WrnkncRM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509513,
+      "name": "Cuts #38",
+      "iteration": 38,
+      "fxhash": "oo2SChfYeEjajV2Z5sPVTwQDVKDMFtMdpPCpQRFA3Ef2xXWXmQo",
+      "minter": "tz1NP8vKFGwFFB6M5UCiH7dcSn2DB7u1XUAC",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmWJR2TN9xWr1dTkLpK8EkHqYc8mhpTxmRDsPqmGskqNqd",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo2SChfYeEjajV2Z5sPVTwQDVKDMFtMdpPCpQRFA3Ef2xXWXmQo",
+        "iteration": 38,
+        "minter": "tz1NP8vKFGwFFB6M5UCiH7dcSn2DB7u1XUAC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509514,
+      "name": "Cuts #39",
+      "iteration": 39,
+      "fxhash": "oo1RQAwkxfYEmNvjuYTPRFogU4Q8z5G4p7RDQipHECLh8jhkcxu",
+      "minter": "tz1aV4ehUsCtnvmnQ2y82kwRiQsPaQ4LnLpc",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmXWZZD1Ee84qqi793VrRoCrHTnLmxoiXRctj4d6eJVHgo",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo1RQAwkxfYEmNvjuYTPRFogU4Q8z5G4p7RDQipHECLh8jhkcxu",
+        "iteration": 39,
+        "minter": "tz1aV4ehUsCtnvmnQ2y82kwRiQsPaQ4LnLpc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509515,
+      "name": "Cuts #40",
+      "iteration": 40,
+      "fxhash": "opSWQtWrmpQGM5vnhYroAaLHpUPYvGM9gizcmrYSVS6MkSega1k",
+      "minter": "tz1VSKf3EKYrzF7W9vtT7WHvFrjz8qmGiiRU",
+      "fxparams": "",
+      "owner": "tz1M4EUpw7AVupKR4obG863DLJLPXUJoVw7m",
+      "thumbnailUri": "ipfs://QmRfYaV9R67DGZnesAMgBzErAnTio3pDJWDThdJUoSyFJB",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opSWQtWrmpQGM5vnhYroAaLHpUPYvGM9gizcmrYSVS6MkSega1k",
+        "iteration": 40,
+        "minter": "tz1VSKf3EKYrzF7W9vtT7WHvFrjz8qmGiiRU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509516,
+      "name": "Cuts #41",
+      "iteration": 41,
+      "fxhash": "ongpsK7TvshaT5j7fJ1Z3sTYMm4GfiyCH3UURSEisTXq6WShvN7",
+      "minter": "tz1gLTE97szYJ8wnxP9ZFPWr8Ex71pJ1qiXf",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmRbxvC82v1KWoe11bgtNvhvMxomHsqtbpuZgoVwqBjU3R",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ongpsK7TvshaT5j7fJ1Z3sTYMm4GfiyCH3UURSEisTXq6WShvN7",
+        "iteration": 41,
+        "minter": "tz1gLTE97szYJ8wnxP9ZFPWr8Ex71pJ1qiXf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509517,
+      "name": "Cuts #42",
+      "iteration": 42,
+      "fxhash": "onwDX3CpCU8fyzwUyqEokPCVah7KXjXqy3y9UUKr4gNEUkSx8rX",
+      "minter": "tz1fHBugcYcce2UVgyMv1moGyoX8Nrd3j6jt",
+      "fxparams": "",
+      "owner": "tz1X95uJRaZkK4VDoPpf2UuSzX4T24E8eCrb",
+      "thumbnailUri": "ipfs://QmNwgi8bRNSAYyco6h6XLz5YAd3sWYXCUWPsHDnXjJPMhJ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onwDX3CpCU8fyzwUyqEokPCVah7KXjXqy3y9UUKr4gNEUkSx8rX",
+        "iteration": 42,
+        "minter": "tz1fHBugcYcce2UVgyMv1moGyoX8Nrd3j6jt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509518,
+      "name": "Cuts #43",
+      "iteration": 43,
+      "fxhash": "opLKPG5qVq392gq2djuAWpAiaCTvL6ZZKoRHueW5XNayzj14HsM",
+      "minter": "tz1NN2tkhg5ymj9Mrz9wRr7zp8yv6MHS54Yt",
+      "fxparams": "",
+      "owner": "tz1X1iE2YsUP5F9X8wG8LoM7CDCyP5sEfDvf",
+      "thumbnailUri": "ipfs://QmQGoWPeL6JaUu4UDZFAX8aCBmHwb5nChrFCa3SB4KYVGi",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opLKPG5qVq392gq2djuAWpAiaCTvL6ZZKoRHueW5XNayzj14HsM",
+        "iteration": 43,
+        "minter": "tz1NN2tkhg5ymj9Mrz9wRr7zp8yv6MHS54Yt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509519,
+      "name": "Cuts #44",
+      "iteration": 44,
+      "fxhash": "ooSxA3ncqmMscB2e3m2dpfcTBUSZ1rFrknAfZomKubNq9ELsKcw",
+      "minter": "tz1imBMVLuPyjcjz21bLeJwA2CxA6EoHT5aR",
+      "fxparams": "",
+      "owner": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "thumbnailUri": "ipfs://QmPCAxhCp6RWXGUugVCEDt81PfakA9vKD5eg9kjSyTbeP7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooSxA3ncqmMscB2e3m2dpfcTBUSZ1rFrknAfZomKubNq9ELsKcw",
+        "iteration": 44,
+        "minter": "tz1imBMVLuPyjcjz21bLeJwA2CxA6EoHT5aR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509520,
+      "name": "Cuts #45",
+      "iteration": 45,
+      "fxhash": "onmeDi2RCJUyXzhAE7rVHgDMRx6HyruYFzAsYszEBEAz4E7rB8x",
+      "minter": "tz1UtYHvHrbeyJSwSkpWsmoSsMGnnKbhqLzG",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmfHZDZwU6WqC3xkdkxKd91exoGMANcMwT8dThpapF3k91",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onmeDi2RCJUyXzhAE7rVHgDMRx6HyruYFzAsYszEBEAz4E7rB8x",
+        "iteration": 45,
+        "minter": "tz1UtYHvHrbeyJSwSkpWsmoSsMGnnKbhqLzG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509521,
+      "name": "Cuts #46",
+      "iteration": 46,
+      "fxhash": "opL4yuXaYTDV3TMpwMMZwjZ85aC1AQDt6zsDQSKNzra1tvceSDx",
+      "minter": "tz1c6d3CwFHGxL9Pszv6ku7QZBFycH34L6G2",
+      "fxparams": "",
+      "owner": "tz1gigsw3HPNSjpRdaZ6QzTUckg48fopSAGj",
+      "thumbnailUri": "ipfs://QmY2ohT18DGMMDcoiSYr4YzSJQRb675Wm3xLax5TEK5gth",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opL4yuXaYTDV3TMpwMMZwjZ85aC1AQDt6zsDQSKNzra1tvceSDx",
+        "iteration": 46,
+        "minter": "tz1c6d3CwFHGxL9Pszv6ku7QZBFycH34L6G2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509522,
+      "name": "Cuts #47",
+      "iteration": 47,
+      "fxhash": "ooSNdYXz1oxqifz2jBJczjNuV1x9yaqNm4aBUSxdVMi9J6BjGCs",
+      "minter": "tz1S2wqLDCTV7Tf7wk4zk7SJ4FtrPqyqq61W",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmS45YFGmhZkvRRJJroDYbUZv8vPKQAcpqDeuAE8v1qZWx",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooSNdYXz1oxqifz2jBJczjNuV1x9yaqNm4aBUSxdVMi9J6BjGCs",
+        "iteration": 47,
+        "minter": "tz1S2wqLDCTV7Tf7wk4zk7SJ4FtrPqyqq61W",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509523,
+      "name": "Cuts #48",
+      "iteration": 48,
+      "fxhash": "oohEyxTTcbDPKGD1VQAdg9aWnEyKbYrs3FhEEggtkQHwweoXQcS",
+      "minter": "tz1dHzB6X63F3wbSWgLhe64kU2qRCd8QZ55t",
+      "fxparams": "",
+      "owner": "tz1LiQVkPbKmW331n57oNigMMqe7BPTocKtD",
+      "thumbnailUri": "ipfs://QmezdH3GXa1qZxKRyCHsihvwVYAiNBHGTYASqG9fQ6fQe5",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oohEyxTTcbDPKGD1VQAdg9aWnEyKbYrs3FhEEggtkQHwweoXQcS",
+        "iteration": 48,
+        "minter": "tz1dHzB6X63F3wbSWgLhe64kU2qRCd8QZ55t",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509524,
+      "name": "Cuts #49",
+      "iteration": 49,
+      "fxhash": "ooRMaHkdK21hyZMzFWeKEFVf7TUHFHJPSmeMfbCpzD6VQ9vkgZz",
+      "minter": "tz1VPWX5ys8cS8jX5fuAoZTEPkybgZjSqEia",
+      "fxparams": "",
+      "owner": "tz1W3A3hBLQHQueSanvydtrdQJbmjEp94ZwD",
+      "thumbnailUri": "ipfs://QmdRCeSEqoPvvf6AmUXqZDe7pRX7fWyuKkJzUndz7Z3VU7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooRMaHkdK21hyZMzFWeKEFVf7TUHFHJPSmeMfbCpzD6VQ9vkgZz",
+        "iteration": 49,
+        "minter": "tz1VPWX5ys8cS8jX5fuAoZTEPkybgZjSqEia",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509525,
+      "name": "Cuts #50",
+      "iteration": 50,
+      "fxhash": "oobFRYwazAK1oKxReLPdJ35DbW39UYoALHeu2YpnEK2cnjKNBL4",
+      "minter": "tz1b76tcCTyPLqcCCVadj6jquiShEh7vqeQM",
+      "fxparams": "",
+      "owner": "tz1W3A3hBLQHQueSanvydtrdQJbmjEp94ZwD",
+      "thumbnailUri": "ipfs://QmNfHmGnRb34UyPp6M5VaHuMy74AQ2yweb9ZBHuHGNB9U6",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oobFRYwazAK1oKxReLPdJ35DbW39UYoALHeu2YpnEK2cnjKNBL4",
+        "iteration": 50,
+        "minter": "tz1b76tcCTyPLqcCCVadj6jquiShEh7vqeQM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509526,
+      "name": "Cuts #51",
+      "iteration": 51,
+      "fxhash": "ongfy26hNNVvSyeVmiUaGF8PPJLeekBzxohZBgePo6n8m5UnRfk",
+      "minter": "tz1VnjQKHAiTHqsGWYCayYux2oveQr5fYcHP",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmYgX16HguaxJtDmm5UhDW4rACW41FhKWeW8ng8Pyx7iEK",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ongfy26hNNVvSyeVmiUaGF8PPJLeekBzxohZBgePo6n8m5UnRfk",
+        "iteration": 51,
+        "minter": "tz1VnjQKHAiTHqsGWYCayYux2oveQr5fYcHP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509527,
+      "name": "Cuts #52",
+      "iteration": 52,
+      "fxhash": "oowaqa4Rpr18UNFBifUbiyreteT7qsSsxgMgBpomGsp2eKGFAZo",
+      "minter": "tz1cg3fPzpWJeQaC6oiZKvM5XEYFCz6bmHoh",
+      "fxparams": "",
+      "owner": "tz1Zq6WoBg1VjbpprxcYb5fmx3UnSNZvXhAb",
+      "thumbnailUri": "ipfs://QmapRXQQZxHs58zAHeaWZEM4pSSNmhvcp6hNHqMiwLFydk",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oowaqa4Rpr18UNFBifUbiyreteT7qsSsxgMgBpomGsp2eKGFAZo",
+        "iteration": 52,
+        "minter": "tz1cg3fPzpWJeQaC6oiZKvM5XEYFCz6bmHoh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509528,
+      "name": "Cuts #53",
+      "iteration": 53,
+      "fxhash": "onwSPrV5BT1HirLmfEVtGTi94A8JZGmCEcPUDM4xFuZTPVR7TpA",
+      "minter": "tz1ct3hZCgSSZJNZzFY9E8gGJk5NoQ9U39XV",
+      "fxparams": "",
+      "owner": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "thumbnailUri": "ipfs://QmZPRuagmEmbuS9KhSairt72dWu9Q4Q1NXXY7WzryXZnf2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onwSPrV5BT1HirLmfEVtGTi94A8JZGmCEcPUDM4xFuZTPVR7TpA",
+        "iteration": 53,
+        "minter": "tz1ct3hZCgSSZJNZzFY9E8gGJk5NoQ9U39XV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509529,
+      "name": "Cuts #54",
+      "iteration": 54,
+      "fxhash": "op2E27YmNsXCHuciJ8YgMnLYQhtcPtuTk9GWX355FYUdsvXP81W",
+      "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+      "fxparams": "",
+      "owner": "tz1XZsmjBNN9EoWEtGZGKFYH73bteGQyGWn5",
+      "thumbnailUri": "ipfs://QmYbe3TtzEAaZTDDsAoBkz8xnVZ5SntJ6UKbHFjScDCdfL",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op2E27YmNsXCHuciJ8YgMnLYQhtcPtuTk9GWX355FYUdsvXP81W",
+        "iteration": 54,
+        "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509530,
+      "name": "Cuts #55",
+      "iteration": 55,
+      "fxhash": "oorNFJApWipMCuKQDaSdc7SktV5oefe7DrCP5q6MnCBgAQFPiun",
+      "minter": "tz1UETEJjeDs31qdiNA8ab3tE3ctZfQ51ETR",
+      "fxparams": "",
+      "owner": "tz1UETEJjeDs31qdiNA8ab3tE3ctZfQ51ETR",
+      "thumbnailUri": "ipfs://QmevF7Dk9yQf2Ks6ZoUjEjCPjK2VDaFDcbCUgytJpFxsnd",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oorNFJApWipMCuKQDaSdc7SktV5oefe7DrCP5q6MnCBgAQFPiun",
+        "iteration": 55,
+        "minter": "tz1UETEJjeDs31qdiNA8ab3tE3ctZfQ51ETR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509531,
+      "name": "Cuts #56",
+      "iteration": 56,
+      "fxhash": "oognv75NDn6QL6UPH89DxcNy8KeT9waxV2ZFZqPBfCwcfYFweqd",
+      "minter": "tz1QvRXiVyKpGk3C9EnKsvxoU4xgtrUmCqKy",
+      "fxparams": "",
+      "owner": "tz1bpjSyEmVWQhaGEBpNeYcqhoWXGNoL2MFG",
+      "thumbnailUri": "ipfs://QmWZNAvy4zaNMGX9NwVeai6DRzCPnYvMQSvsAt5V4M6z1J",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oognv75NDn6QL6UPH89DxcNy8KeT9waxV2ZFZqPBfCwcfYFweqd",
+        "iteration": 56,
+        "minter": "tz1QvRXiVyKpGk3C9EnKsvxoU4xgtrUmCqKy",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509532,
+      "name": "Cuts #57",
+      "iteration": 57,
+      "fxhash": "onnXZyU1uksYRN97PG8m9DeHaLfKo888dP9VF8WCDtUvCxFNN8W",
+      "minter": "tz1VR4Ai8SAKP229pPNuRgUW2NCf2UEgyD7R",
+      "fxparams": "",
+      "owner": "tz1bpjSyEmVWQhaGEBpNeYcqhoWXGNoL2MFG",
+      "thumbnailUri": "ipfs://QmWiv9FYUFVNRordY2sSxoXBXmU9Fr4zY3g9Be3cV7UUY9",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onnXZyU1uksYRN97PG8m9DeHaLfKo888dP9VF8WCDtUvCxFNN8W",
+        "iteration": 57,
+        "minter": "tz1VR4Ai8SAKP229pPNuRgUW2NCf2UEgyD7R",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509533,
+      "name": "Cuts #58",
+      "iteration": 58,
+      "fxhash": "op6Rjh215MH8u2N8TBph8apav6S9B6XibkCdMJdvJPE6Qbnfp25",
+      "minter": "tz1a3LmbbgSZSMXFycrWa3TJtGWXi31Z6AJb",
+      "fxparams": "",
+      "owner": "tz1bpjSyEmVWQhaGEBpNeYcqhoWXGNoL2MFG",
+      "thumbnailUri": "ipfs://QmePnpKr6rxxE5xUM8hoPn4U1q1hJsbGrWnNLpnTGm5tqt",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op6Rjh215MH8u2N8TBph8apav6S9B6XibkCdMJdvJPE6Qbnfp25",
+        "iteration": 58,
+        "minter": "tz1a3LmbbgSZSMXFycrWa3TJtGWXi31Z6AJb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509534,
+      "name": "Cuts #59",
+      "iteration": 59,
+      "fxhash": "opCfQvZb1ZVxf8Mh4bpBpeMnobHim29NUWYwL4b1nxsUjDNe3Pj",
+      "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+      "fxparams": "",
+      "owner": "tz1hzYoD8rdHurkCqJ1mHre1EN7DDZw7XecH",
+      "thumbnailUri": "ipfs://QmbvzJGNXBwvA4g7bfLqkEkkFRHvtSphYwguJSeuBhWibg",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opCfQvZb1ZVxf8Mh4bpBpeMnobHim29NUWYwL4b1nxsUjDNe3Pj",
+        "iteration": 59,
+        "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509535,
+      "name": "Cuts #60",
+      "iteration": 60,
+      "fxhash": "ooqnJ5qRtMEKafZ8v4w1R1wiXcshitvq37N4gsg5RoAHHcGvj11",
+      "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+      "fxparams": "",
+      "owner": "tz1dEjx4XBbwjCAQnWTnHiD9d8AukMfRn9Ce",
+      "thumbnailUri": "ipfs://QmfEpRWCUGg6NYumYPda3g6pKhT7uxqcXgbFVFkTEUcDZz",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooqnJ5qRtMEKafZ8v4w1R1wiXcshitvq37N4gsg5RoAHHcGvj11",
+        "iteration": 60,
+        "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509536,
+      "name": "Cuts #61",
+      "iteration": 61,
+      "fxhash": "ooqPAfmQZaDqN7EHvUxLkVVW7pJuVNSZw41Lri6h5Cc48H1n3WT",
+      "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+      "fxparams": "",
+      "owner": "tz1YrQB77LY8p1SnumYYyJSKYU5euDJpWegv",
+      "thumbnailUri": "ipfs://QmfWZZvvjC4jRUZoR6uQM7dFoJNwSi2LP2RWLUaepwujd3",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooqPAfmQZaDqN7EHvUxLkVVW7pJuVNSZw41Lri6h5Cc48H1n3WT",
+        "iteration": 61,
+        "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509537,
+      "name": "Cuts #62",
+      "iteration": 62,
+      "fxhash": "ooPnmRnssA4D31kgUE7v4b8fdKtN1iT7QDK7FHTHjbXAfQu9Hx5",
+      "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+      "fxparams": "",
+      "owner": "tz1fPnqswm41oEHUWdSDn3KSvq3KCXVNeFCj",
+      "thumbnailUri": "ipfs://QmZSGtsjCkvBbDhVGyU46s3XRmcYQFL32Vp4mrMNf6QtYm",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooPnmRnssA4D31kgUE7v4b8fdKtN1iT7QDK7FHTHjbXAfQu9Hx5",
+        "iteration": 62,
+        "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509538,
+      "name": "Cuts #63",
+      "iteration": 63,
+      "fxhash": "ooiLTvveqqJeKfmMHSG9DwXKmMe3Nx76PbJrL4ecke7bx78FLuR",
+      "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmWGDZyAVypSppYVnkBGMsq1FBvd6KiyUJZv2a2uhTb38v",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooiLTvveqqJeKfmMHSG9DwXKmMe3Nx76PbJrL4ecke7bx78FLuR",
+        "iteration": 63,
+        "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509539,
+      "name": "Cuts #64",
+      "iteration": 64,
+      "fxhash": "ooN8Vxi9o6JWyRch7UJbvGrEnNzrN9rxxrd9DgymHxi8J1CKa3v",
+      "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+      "fxparams": "",
+      "owner": "tz28W53LmBZBeax9qaypR3bRJzsbkDkbfAAW",
+      "thumbnailUri": "ipfs://QmWY7bxhNgbWM4iSTBuxHYrht9xYC1yQvrx7sNfGSD8JGK",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooN8Vxi9o6JWyRch7UJbvGrEnNzrN9rxxrd9DgymHxi8J1CKa3v",
+        "iteration": 64,
+        "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509540,
+      "name": "Cuts #65",
+      "iteration": 65,
+      "fxhash": "oo3nSWsXq2fyhAqCo7dU2G2AdEJ4kDJX1THsSWESPdPgqHWVgdc",
+      "minter": "tz1Zknzx49yqLwvf8sfyn3hrjACBXiUF8h8g",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmSBDatZtaEosuNx3cfnETGEpuxnZ45KauKvkEPpfd4fz6",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo3nSWsXq2fyhAqCo7dU2G2AdEJ4kDJX1THsSWESPdPgqHWVgdc",
+        "iteration": 65,
+        "minter": "tz1Zknzx49yqLwvf8sfyn3hrjACBXiUF8h8g",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509541,
+      "name": "Cuts #66",
+      "iteration": 66,
+      "fxhash": "ooLUPh4Gx2wXD5sfKGyZQCpWTkDyg9TNUVKN7xJCVjfCmRrq4z9",
+      "minter": "tz1V9pT8VRVQBLema5Z4ydxGZj58oKUKemzo",
+      "fxparams": "",
+      "owner": "tz1isDv4w4fTJyWZXzFYC7evcz5Di8uLfULc",
+      "thumbnailUri": "ipfs://QmZYuo5jfba6VMq6XhwKFR3ctFfrUXrAgbMRL7GVGzcPqy",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooLUPh4Gx2wXD5sfKGyZQCpWTkDyg9TNUVKN7xJCVjfCmRrq4z9",
+        "iteration": 66,
+        "minter": "tz1V9pT8VRVQBLema5Z4ydxGZj58oKUKemzo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509542,
+      "name": "Cuts #67",
+      "iteration": 67,
+      "fxhash": "opSmrWPZvDrA5BPyKqqrJvGwKTMbeGHUVrZJ4qa3AorwKJA6ScN",
+      "minter": "tz1cwuNXNqKJekc9TrsvyKJyTMYXahomv1QX",
+      "fxparams": "",
+      "owner": "tz1Nf9i2JEttBb7cknw8wy2UE2P5qFvnjfUD",
+      "thumbnailUri": "ipfs://QmScKPjgAA9Z3EBh9sjJ39uMLLYRxQ4QgagixWS2Xe5Vap",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opSmrWPZvDrA5BPyKqqrJvGwKTMbeGHUVrZJ4qa3AorwKJA6ScN",
+        "iteration": 67,
+        "minter": "tz1cwuNXNqKJekc9TrsvyKJyTMYXahomv1QX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509543,
+      "name": "Cuts #68",
+      "iteration": 68,
+      "fxhash": "oomrPAofoZqtS2XyH3skqinRWvtVDefiEuxV8nzTMPLzLg9gTht",
+      "minter": "tz1M75PyBpPwgbk1GCBpcZbz2qP5tfnopwt9",
+      "fxparams": "",
+      "owner": "tz1afMYC5jzuvsVXgyEPjBG2biRD15WSbpr7",
+      "thumbnailUri": "ipfs://QmUvQpYj58vsYL2r34fP4xoPbfoNxRa9h5e38oFpPmaRCJ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oomrPAofoZqtS2XyH3skqinRWvtVDefiEuxV8nzTMPLzLg9gTht",
+        "iteration": 68,
+        "minter": "tz1M75PyBpPwgbk1GCBpcZbz2qP5tfnopwt9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509544,
+      "name": "Cuts #69",
+      "iteration": 69,
+      "fxhash": "ooARpvNhM9Lx2J6K3P9QLVReosgGj65gq1vfB4HZC8m8MKxTn3z",
+      "minter": "tz1QXTAvbhbyHodY8JZtDhN9E2246PwATBaW",
+      "fxparams": "",
+      "owner": "tz1QfBTr7SFKVkuFGtGyGBys3njKRBJw2xhC",
+      "thumbnailUri": "ipfs://QmYmbMcGcXjtzSbXwTMjQkn8t1o77pxuTb9cLAT7gt4Lwr",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooARpvNhM9Lx2J6K3P9QLVReosgGj65gq1vfB4HZC8m8MKxTn3z",
+        "iteration": 69,
+        "minter": "tz1QXTAvbhbyHodY8JZtDhN9E2246PwATBaW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509545,
+      "name": "Cuts #70",
+      "iteration": 70,
+      "fxhash": "oocKbnrJ5QjoSc2wDvQwC5Dm6wKUUnvYkxauBLGbp9GGxUwGYoE",
+      "minter": "tz1ZbR6dXJ48UAN1QQC8p3xz2VFABW5iTtuX",
+      "fxparams": "",
+      "owner": "tz1bTP9wmc9xwHycfc1PBaMLguSsM2fw4HkM",
+      "thumbnailUri": "ipfs://Qmehftku8XD21CZZ15GBeaSGRVinQwV93kTSyop2LMVNZn",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oocKbnrJ5QjoSc2wDvQwC5Dm6wKUUnvYkxauBLGbp9GGxUwGYoE",
+        "iteration": 70,
+        "minter": "tz1ZbR6dXJ48UAN1QQC8p3xz2VFABW5iTtuX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509546,
+      "name": "Cuts #71",
+      "iteration": 71,
+      "fxhash": "ooyAC1BRD2acT5bUq6kDvAUgFHvGXT2zmAY57z4LRnJzqLojrzj",
+      "minter": "tz1QCY3GXReqs4U7SMXFDFDzwtpfiAi5NvrL",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmVAXd5FzNbM841gCPWLkbJ2MYJirEDytQKgXUs9AcT9Cn",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooyAC1BRD2acT5bUq6kDvAUgFHvGXT2zmAY57z4LRnJzqLojrzj",
+        "iteration": 71,
+        "minter": "tz1QCY3GXReqs4U7SMXFDFDzwtpfiAi5NvrL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509547,
+      "name": "Cuts #72",
+      "iteration": 72,
+      "fxhash": "opRhruRVLPfkkyP1MqiSdwcjLin3QH9UbS7xWoZhae7SBcWbrtV",
+      "minter": "tz1LM1VKAaHT8tRorUfLWo1Mn98GQyunSVnB",
+      "fxparams": "",
+      "owner": "tz1hnnCaYDiRPH8apoJQB9wvytwpYQSJEzCK",
+      "thumbnailUri": "ipfs://QmNuKRsQ6oN7Yjn6yTFLBdGpQebT7GgFRX2DaBNBngvubP",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opRhruRVLPfkkyP1MqiSdwcjLin3QH9UbS7xWoZhae7SBcWbrtV",
+        "iteration": 72,
+        "minter": "tz1LM1VKAaHT8tRorUfLWo1Mn98GQyunSVnB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509548,
+      "name": "Cuts #73",
+      "iteration": 73,
+      "fxhash": "op8XVPStGe3Vbn2rn8pAEiEwBAt3LLre9UEjgAdEMig3D2qT94w",
+      "minter": "tz1bBXVrasM36pmumUE2EVpZPS6uzRe61aDE",
+      "fxparams": "",
+      "owner": "tz1PE415ckPNF9SD9VrxT2MgL8fpwXSk9F1k",
+      "thumbnailUri": "ipfs://QmY2UNqYejWTQE8rGjwVMpjfUwP9mBiim4kx3XZqMzJMis",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op8XVPStGe3Vbn2rn8pAEiEwBAt3LLre9UEjgAdEMig3D2qT94w",
+        "iteration": 73,
+        "minter": "tz1bBXVrasM36pmumUE2EVpZPS6uzRe61aDE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509549,
+      "name": "Cuts #74",
+      "iteration": 74,
+      "fxhash": "ooaBmGpudMcfqLxveD257Z87HcbN14AnHE2s4QRf7r74X4i3Y67",
+      "minter": "tz1hbc1SgiRKvYx12WtVzZ7VUv3CKsn17DTw",
+      "fxparams": "",
+      "owner": "tz1hZtNQ2KpwccV5Mdyz4ogx4HsNPykRGWwM",
+      "thumbnailUri": "ipfs://QmebJDRk9fhqiqiCGLXRTiYX5htND7UyDGKnYySx4dhc5Y",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooaBmGpudMcfqLxveD257Z87HcbN14AnHE2s4QRf7r74X4i3Y67",
+        "iteration": 74,
+        "minter": "tz1hbc1SgiRKvYx12WtVzZ7VUv3CKsn17DTw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509550,
+      "name": "Cuts #75",
+      "iteration": 75,
+      "fxhash": "op9cyw7NckP3SRtoGP9zv8LuKMcLKt9GwPiPRfULWvmYGKRf2DQ",
+      "minter": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+      "fxparams": "",
+      "owner": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+      "thumbnailUri": "ipfs://QmXqcZWLtcn84QTeM9KEpR5Xv6XWJAgyGfs3qxJvSFeWmM",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op9cyw7NckP3SRtoGP9zv8LuKMcLKt9GwPiPRfULWvmYGKRf2DQ",
+        "iteration": 75,
+        "minter": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509551,
+      "name": "Cuts #76",
+      "iteration": 76,
+      "fxhash": "oo3hpYLiaS6NVTnnhcirVghNTEKuftrXeMPLpz9pm7mTggTcUA2",
+      "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+      "fxparams": "",
+      "owner": "tz1S5RvmsCsFR8MdfHoqfRVUZ3t2vMRCFaus",
+      "thumbnailUri": "ipfs://QmQf5XSb9uDv5zXsDfHc8R3S5AQFXBF33CJd14vf7A4VHt",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo3hpYLiaS6NVTnnhcirVghNTEKuftrXeMPLpz9pm7mTggTcUA2",
+        "iteration": 76,
+        "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509552,
+      "name": "Cuts #77",
+      "iteration": 77,
+      "fxhash": "ooMjBw3yYvpwWuyTLBZtCNoQEUPqqqjUaZgmmeykviGGfnJ6LKF",
+      "minter": "tz1RNocnVGrrPRhdZTyE86d91eE8nhT9oTid",
+      "fxparams": "",
+      "owner": "tz1X95uJRaZkK4VDoPpf2UuSzX4T24E8eCrb",
+      "thumbnailUri": "ipfs://QmSdWvDnYr282EqDpFqKiGWJL7GARF61vGVzQmQnSX3W7k",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooMjBw3yYvpwWuyTLBZtCNoQEUPqqqjUaZgmmeykviGGfnJ6LKF",
+        "iteration": 77,
+        "minter": "tz1RNocnVGrrPRhdZTyE86d91eE8nhT9oTid",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509553,
+      "name": "Cuts #78",
+      "iteration": 78,
+      "fxhash": "onjXBUWSrVKtRo3voaqjijVzSpKCG5GjNgErNVJaFNtqxeb9GKJ",
+      "minter": "tz1NKETUAUXEvXQ9GSMRqsguDnDEQdEggzQC",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmSEstJrJoXFjSvPPuVq8eszjRSkycng72x4U1fxMdLCqW",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onjXBUWSrVKtRo3voaqjijVzSpKCG5GjNgErNVJaFNtqxeb9GKJ",
+        "iteration": 78,
+        "minter": "tz1NKETUAUXEvXQ9GSMRqsguDnDEQdEggzQC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509554,
+      "name": "Cuts #79",
+      "iteration": 79,
+      "fxhash": "oofJE4pJ31NMb1amUHXYfPrakXZQ67qXrZxX3sRnmxnUjeR5U2C",
+      "minter": "tz1Nq6uDq45ia9HCNR1GmLmzpdpuqtYNKFd9",
+      "fxparams": "",
+      "owner": "tz1ii7PQ6nFVnoPXgu6C8zthjL3RvWPnHMBr",
+      "thumbnailUri": "ipfs://QmWkg5E7PMu2AgBJRxzTmhwXmaGcHxBzmfvy7FbX425k1j",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oofJE4pJ31NMb1amUHXYfPrakXZQ67qXrZxX3sRnmxnUjeR5U2C",
+        "iteration": 79,
+        "minter": "tz1Nq6uDq45ia9HCNR1GmLmzpdpuqtYNKFd9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509555,
+      "name": "Cuts #80",
+      "iteration": 80,
+      "fxhash": "ooXy4yPd2TDwqK1Ws7VYnBHgAsGiF5YbJfNYHuPo9fNxL7ySDuK",
+      "minter": "tz1bqLZQhrmR7yyLuTyGKBy4vay1qwK4xPub",
+      "fxparams": "",
+      "owner": "tz1e4KfJ2rDyVk8Yd9qnFUvnbrfm7RNJPrr9",
+      "thumbnailUri": "ipfs://QmT843pRdLA4s7Mi4q128SYc2vNd5V2phv3fDL1P9ygqTk",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooXy4yPd2TDwqK1Ws7VYnBHgAsGiF5YbJfNYHuPo9fNxL7ySDuK",
+        "iteration": 80,
+        "minter": "tz1bqLZQhrmR7yyLuTyGKBy4vay1qwK4xPub",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509556,
+      "name": "Cuts #81",
+      "iteration": 81,
+      "fxhash": "ooLcwdGB3kwRyRjRNqDMFgLz1WLtfpbUEwm6jdmX7Qs7ccHxUA4",
+      "minter": "tz1T7q8T8291nnLuVMU3g6VfbKEDMA2ZePYZ",
+      "fxparams": "",
+      "owner": "tz1gNni8mNjYBreVJ8sMtC6mrozE6SSsyj1n",
+      "thumbnailUri": "ipfs://QmWd9Mtm57EuhcwBL7ygzhUGjf2bKYP2bGTyZvbonizx9J",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooLcwdGB3kwRyRjRNqDMFgLz1WLtfpbUEwm6jdmX7Qs7ccHxUA4",
+        "iteration": 81,
+        "minter": "tz1T7q8T8291nnLuVMU3g6VfbKEDMA2ZePYZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509557,
+      "name": "Cuts #82",
+      "iteration": 82,
+      "fxhash": "opJjLDLJX4mWfj5QnkRkh3KPbuRBgMuHyHKhcYPMWeehZKVnCqG",
+      "minter": "tz1cqRERM4BqzYWheg9fAndAcSrrjoZbAZcm",
+      "fxparams": "",
+      "owner": "tz1iTAzfgj1NFiB7oeQ54kubHW3fhfp4hNGC",
+      "thumbnailUri": "ipfs://QmYarCQqqFyY9WXvEgubHTdcCj17tLsP3NFsWjrDeghAJG",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opJjLDLJX4mWfj5QnkRkh3KPbuRBgMuHyHKhcYPMWeehZKVnCqG",
+        "iteration": 82,
+        "minter": "tz1cqRERM4BqzYWheg9fAndAcSrrjoZbAZcm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509558,
+      "name": "Cuts #83",
+      "iteration": 83,
+      "fxhash": "ooe6ouuCaveKtLKSEqEEv7HXDmCNp5t4AqaHzL9ZMEN3jLiwSKH",
+      "minter": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+      "fxparams": "",
+      "owner": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+      "thumbnailUri": "ipfs://QmNbfgQxWKbtVRwEdFMg8CqjbY3pyEK85ehUPTxyzGnwHA",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooe6ouuCaveKtLKSEqEEv7HXDmCNp5t4AqaHzL9ZMEN3jLiwSKH",
+        "iteration": 83,
+        "minter": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509559,
+      "name": "Cuts #84",
+      "iteration": 84,
+      "fxhash": "op58E9EGYTzTv2Tgi4zsyTpgxdJbeYirSPNBzpB3LkaghNnVaUn",
+      "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+      "fxparams": "",
+      "owner": "tz1NwNDbKBp7DriDv79iFY3YHJKQ9ewUQQKm",
+      "thumbnailUri": "ipfs://QmNpFaxGR5CsRTMLWjWMtGxNnb5ijg4PKT5QJWKxwvG47t",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op58E9EGYTzTv2Tgi4zsyTpgxdJbeYirSPNBzpB3LkaghNnVaUn",
+        "iteration": 84,
+        "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509560,
+      "name": "Cuts #85",
+      "iteration": 85,
+      "fxhash": "oodSfyiaqEKdvoYMH1jWkBN2kebAdBMGHM6ucuRMVcseZuAiQ9p",
+      "minter": "tz1gSs2PFWtUXA5BjGzfXW2xTGaSQTvyZK2w",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmPX6MqgupwrUBvjaaL9iiKtd33vUPyAXLP9ymjb5SaLm7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oodSfyiaqEKdvoYMH1jWkBN2kebAdBMGHM6ucuRMVcseZuAiQ9p",
+        "iteration": 85,
+        "minter": "tz1gSs2PFWtUXA5BjGzfXW2xTGaSQTvyZK2w",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509561,
+      "name": "Cuts #86",
+      "iteration": 86,
+      "fxhash": "opBS85JUqaKi1nWPx7MJkWuLRJvHPHAGgifUDg9ZsPD7wT4dNyQ",
+      "minter": "tz1TWQdEQgZbJLyfcP714zs1zJM4gRuWPqWp",
+      "fxparams": "",
+      "owner": "tz1WusSKVn2eN1S7MeFGe48P4fKjMbhFa5TU",
+      "thumbnailUri": "ipfs://QmT7mpzK6tKvySXRifg3sxPk5iAvXk3KjxxdxmQjGkhQo7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opBS85JUqaKi1nWPx7MJkWuLRJvHPHAGgifUDg9ZsPD7wT4dNyQ",
+        "iteration": 86,
+        "minter": "tz1TWQdEQgZbJLyfcP714zs1zJM4gRuWPqWp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509562,
+      "name": "Cuts #87",
+      "iteration": 87,
+      "fxhash": "ooWS1QTHQjdS5NQegFxBTnDsp5X9xaNgFU1jty37SmcTEM6xgg9",
+      "minter": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "fxparams": "",
+      "owner": "tz1iTX4NargbiutJHZoTgcCAAcgp813YgxVn",
+      "thumbnailUri": "ipfs://QmXktuE5kmjckQgSkjtW7pxhBLYFMCyZ7rqJtN1iQiC5Ay",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooWS1QTHQjdS5NQegFxBTnDsp5X9xaNgFU1jty37SmcTEM6xgg9",
+        "iteration": 87,
+        "minter": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509563,
+      "name": "Cuts #88",
+      "iteration": 88,
+      "fxhash": "oojBbMPmDBMxKsSFAA7hbcSG9sysC2zrzi6VVTDRd7624gFgh5K",
+      "minter": "tz1fuoizhZN21D5vLi2Em6a98DV7fMSPsPGZ",
+      "fxparams": "",
+      "owner": "tz1PE415ckPNF9SD9VrxT2MgL8fpwXSk9F1k",
+      "thumbnailUri": "ipfs://QmPqH4X4QXoMMeBiHStLagzcSoPpVqtth3cLLfsMP1XjCw",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oojBbMPmDBMxKsSFAA7hbcSG9sysC2zrzi6VVTDRd7624gFgh5K",
+        "iteration": 88,
+        "minter": "tz1fuoizhZN21D5vLi2Em6a98DV7fMSPsPGZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509564,
+      "name": "Cuts #89",
+      "iteration": 89,
+      "fxhash": "oo9PM6hL6c3ZXBB69mzkXPzKqJeuet2DPkY8UU3XPYut3UnWc3W",
+      "minter": "tz1L8VXFaNhfihAQU4zJsP7jDyQBGYSJKHYD",
+      "fxparams": "",
+      "owner": "tz1NyD6ftxRLQV3HyaNW4hfY7hRGPQiyVcrv",
+      "thumbnailUri": "ipfs://QmeKHwU9Vxd6x4CrALKPmT8XAmfVugXBsFYrdBxDPprSZJ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo9PM6hL6c3ZXBB69mzkXPzKqJeuet2DPkY8UU3XPYut3UnWc3W",
+        "iteration": 89,
+        "minter": "tz1L8VXFaNhfihAQU4zJsP7jDyQBGYSJKHYD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509565,
+      "name": "Cuts #90",
+      "iteration": 90,
+      "fxhash": "oowpqtqe2e2NifeKNkRSoJodJ6QDtLhnRF6xcY7mpa7D6VU7mgK",
+      "minter": "tz1Nq6dBwnDRnXf8hZfFYMeZ177v84rgc8fR",
+      "fxparams": "",
+      "owner": "tz1hqvarZVcTrCrn7qYjVAWbC2cR7jYUDPZ1",
+      "thumbnailUri": "ipfs://QmQQw42A8Haj4DuxQdQCYAqbs4nbcA6vtSWpyZXXzRDdjf",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oowpqtqe2e2NifeKNkRSoJodJ6QDtLhnRF6xcY7mpa7D6VU7mgK",
+        "iteration": 90,
+        "minter": "tz1Nq6dBwnDRnXf8hZfFYMeZ177v84rgc8fR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509566,
+      "name": "Cuts #91",
+      "iteration": 91,
+      "fxhash": "ooqE35WiBemRv5FGFhcwQJLFGj5xz3xHRMWPBJ5frD9higDU63V",
+      "minter": "tz2C571mwS7wtxyQiqTKt9xWsxPc2TwK5ENa",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmdPTiCFjxv53AiTJxB41HreNcuGGds51QxGdYw6E7Jhgj",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooqE35WiBemRv5FGFhcwQJLFGj5xz3xHRMWPBJ5frD9higDU63V",
+        "iteration": 91,
+        "minter": "tz2C571mwS7wtxyQiqTKt9xWsxPc2TwK5ENa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509567,
+      "name": "Cuts #92",
+      "iteration": 92,
+      "fxhash": "opLGqJ1owM1aVYDBAYkkBcgYUbn6hH8mDoUCQ4CF6nQe7hQWTzo",
+      "minter": "tz1c9A4T8kJqruK9kvy9uooyWBhSQnGCgPsP",
+      "fxparams": "",
+      "owner": "tz1UE67324ZsZJXFHntrXYC3Qn4yzRhGFHDd",
+      "thumbnailUri": "ipfs://QmTHxh2Qkw4DZgWPSm4TR8xVx2mxk32DgpEvHxupJrBrcb",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opLGqJ1owM1aVYDBAYkkBcgYUbn6hH8mDoUCQ4CF6nQe7hQWTzo",
+        "iteration": 92,
+        "minter": "tz1c9A4T8kJqruK9kvy9uooyWBhSQnGCgPsP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509568,
+      "name": "Cuts #93",
+      "iteration": 93,
+      "fxhash": "oooAVJ3EEizYneiuxrr9RADHNQjaxKFgUv2D83VbKPCw6YEANVe",
+      "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "fxparams": "",
+      "owner": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "thumbnailUri": "ipfs://QmcjPSptdHfAVnCfCZpu6kzhLjmZYdafYPYuUmJ6njBfKX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oooAVJ3EEizYneiuxrr9RADHNQjaxKFgUv2D83VbKPCw6YEANVe",
+        "iteration": 93,
+        "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509569,
+      "name": "Cuts #94",
+      "iteration": 94,
+      "fxhash": "ooNkZMxQxKEiDZsqGZB8YfBfwoFobb4B3xBpvHh6FgPf6YePhDb",
+      "minter": "tz1Y9HHJpZBQdm6xvf9C1nzQYKAU5kifqZLs",
+      "fxparams": "",
+      "owner": "tz1Y9HHJpZBQdm6xvf9C1nzQYKAU5kifqZLs",
+      "thumbnailUri": "ipfs://QmfXmhA4hV8BGifgi8XPNWteBJLGefTfbN1cEZaPaKbdHD",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooNkZMxQxKEiDZsqGZB8YfBfwoFobb4B3xBpvHh6FgPf6YePhDb",
+        "iteration": 94,
+        "minter": "tz1Y9HHJpZBQdm6xvf9C1nzQYKAU5kifqZLs",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509570,
+      "name": "Cuts #95",
+      "iteration": 95,
+      "fxhash": "oonAvpQPUyLeHXJzbWWhR2ZajeZBe8CDB9ZFncM8qf71EeVp97Y",
+      "minter": "tz1ZpfDNEjCeC7UPJKvphCRGFhXxEcYJjmeo",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmZDK9a2FmokmPjmgSeVnEX7PWMoiADXWwvgzsVff2hh7N",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oonAvpQPUyLeHXJzbWWhR2ZajeZBe8CDB9ZFncM8qf71EeVp97Y",
+        "iteration": 95,
+        "minter": "tz1ZpfDNEjCeC7UPJKvphCRGFhXxEcYJjmeo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509571,
+      "name": "Cuts #96",
+      "iteration": 96,
+      "fxhash": "oonVtfCa4nHDwCaGva2yLg2TPGcrEY8nY84EkUh8QZm1vnnQMG7",
+      "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+      "fxparams": "",
+      "owner": "tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK",
+      "thumbnailUri": "ipfs://QmYVofaeKSD91q8x2rvLRMMKVnFWde21UeZWCCqb3tcZ9y",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oonVtfCa4nHDwCaGva2yLg2TPGcrEY8nY84EkUh8QZm1vnnQMG7",
+        "iteration": 96,
+        "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509572,
+      "name": "Cuts #97",
+      "iteration": 97,
+      "fxhash": "onuVecmYGfR4RfWSFURVVHtCNa6VM9bB52Z3xEyG7DVu1tZevWq",
+      "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmWmPhyh1xDBBu1gaYHeMsNAEPMLoLcs7tCAAWVdiRx596",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onuVecmYGfR4RfWSFURVVHtCNa6VM9bB52Z3xEyG7DVu1tZevWq",
+        "iteration": 97,
+        "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509573,
+      "name": "Cuts #98",
+      "iteration": 98,
+      "fxhash": "ootd31nXvJr9SFJU8AtE8RshhdmZDXfnGjoDLBpZnhSt9cFiMNP",
+      "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+      "fxparams": "",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmVq2uXoDB9CgurvXRdKHZj8jU6N4XxzQQWk4THuo12ant",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ootd31nXvJr9SFJU8AtE8RshhdmZDXfnGjoDLBpZnhSt9cFiMNP",
+        "iteration": 98,
+        "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509574,
+      "name": "Cuts #99",
+      "iteration": 99,
+      "fxhash": "oo6nsFHnFf8zKq57VYeZV8SSD6ERmJsBz6EgG8LSVfDynKs1byv",
+      "minter": "tz1RGCXoGcDC9BhYMmiHnrKu1G4RFmfj5DQ1",
+      "fxparams": "",
+      "owner": "tz1Qm1L9ttbKDESZjHUHQViSZk28yJogZeAu",
+      "thumbnailUri": "ipfs://QmRhAL2HivocRWDiDRxaFWsiViL5mVaLNU3YFZzrvu2YbB",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo6nsFHnFf8zKq57VYeZV8SSD6ERmJsBz6EgG8LSVfDynKs1byv",
+        "iteration": 99,
+        "minter": "tz1RGCXoGcDC9BhYMmiHnrKu1G4RFmfj5DQ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509575,
+      "name": "Cuts #100",
+      "iteration": 100,
+      "fxhash": "onrC7o6rcmPezBZG9RBX8feTqigXSnCkEqdvqk3FSn3aREP3EDt",
+      "minter": "tz1dTp68FumjMhFecrWwtg9uvq2xFbosRuwM",
+      "fxparams": "",
+      "owner": "tz1Qm1L9ttbKDESZjHUHQViSZk28yJogZeAu",
+      "thumbnailUri": "ipfs://QmPidEh8HJtLoaRWj5k2UQZLZyKKtoYFMAfu3ANqWYcR7m",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onrC7o6rcmPezBZG9RBX8feTqigXSnCkEqdvqk3FSn3aREP3EDt",
+        "iteration": 100,
+        "minter": "tz1dTp68FumjMhFecrWwtg9uvq2xFbosRuwM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509576,
+      "name": "Cuts #101",
+      "iteration": 101,
+      "fxhash": "opHCVJ3MzPLduRHniHj5GAWkjVrnj8NQkb5TCho9Ueq9Smek5Nh",
+      "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+      "fxparams": "",
+      "owner": "tz1Qm1L9ttbKDESZjHUHQViSZk28yJogZeAu",
+      "thumbnailUri": "ipfs://QmWVHNAEVqi46PMhrt5PW3ywpTgm7YHKkqrbeq39SyAH9t",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opHCVJ3MzPLduRHniHj5GAWkjVrnj8NQkb5TCho9Ueq9Smek5Nh",
+        "iteration": 101,
+        "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509577,
+      "name": "Cuts #102",
+      "iteration": 102,
+      "fxhash": "oo38CbffwmYiuvUs79vfLA38YrL8xpk5uExZsL5B9U4rjbCkFsf",
+      "minter": "tz1LwQ4DpfXwoHKbC1F4rYNWL76dCVg3ou8S",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmbygZP1fRZctcMhauTgwWJSYQ3G6wPq32WbFBwrnqeFYi",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo38CbffwmYiuvUs79vfLA38YrL8xpk5uExZsL5B9U4rjbCkFsf",
+        "iteration": 102,
+        "minter": "tz1LwQ4DpfXwoHKbC1F4rYNWL76dCVg3ou8S",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509578,
+      "name": "Cuts #103",
+      "iteration": 103,
+      "fxhash": "opHkpw8fLqDpSR7RUBHLJEuP7JXKrNjM16yUnP87RWNKtiD8E2y",
+      "minter": "tz1aXuQvPPwhcYeVMjQSnjBUdnC7isRSMe7t",
+      "fxparams": "",
+      "owner": "tz1hQ8BzTVwssUGQFinLQGfc7TKuMdeX6uQW",
+      "thumbnailUri": "ipfs://QmRZPxRE1zjY5M3WYaQFqQDhrixRGUmuHXXA9zRvZtapam",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opHkpw8fLqDpSR7RUBHLJEuP7JXKrNjM16yUnP87RWNKtiD8E2y",
+        "iteration": 103,
+        "minter": "tz1aXuQvPPwhcYeVMjQSnjBUdnC7isRSMe7t",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509579,
+      "name": "Cuts #104",
+      "iteration": 104,
+      "fxhash": "onyTEsjfbEKULcqisKcBYWWjXU1CJfREARgJrp3M5f2v6Kf7i8P",
+      "minter": "tz1b9ov9hnb6ExU5CSgB2tQTY96T8rvrmq7u",
+      "fxparams": "",
+      "owner": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "thumbnailUri": "ipfs://QmcAuMyfeidhFcN6zg1jHTB3ibz7w54pbAEs3uet4JMdYZ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onyTEsjfbEKULcqisKcBYWWjXU1CJfREARgJrp3M5f2v6Kf7i8P",
+        "iteration": 104,
+        "minter": "tz1b9ov9hnb6ExU5CSgB2tQTY96T8rvrmq7u",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509580,
+      "name": "Cuts #105",
+      "iteration": 105,
+      "fxhash": "onij8sBuLPVtHZKhTXjCckqPDU8yFbE8zinKq6EiMUpurthu7hr",
+      "minter": "tz1hNdob6vQJxVjmwLw6pPQPFvYCAongibsj",
+      "fxparams": "",
+      "owner": "tz1abGU2AnAR5mRBzpqA8r42JbQ4Hu7CKpFe",
+      "thumbnailUri": "ipfs://QmNRC3Yn4L4AraaGBAxptpyVCFAkRCXMmnkHqEMBQ4VQHJ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onij8sBuLPVtHZKhTXjCckqPDU8yFbE8zinKq6EiMUpurthu7hr",
+        "iteration": 105,
+        "minter": "tz1hNdob6vQJxVjmwLw6pPQPFvYCAongibsj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509581,
+      "name": "Cuts #106",
+      "iteration": 106,
+      "fxhash": "oo6iz6NMLfnY3hjH4dbGYAksKogwbLvJNrcgzcuRG4BZ5JZHNs4",
+      "minter": "tz1bYaYMBq8w3L5mxJBZjou197v6VcsKMLrY",
+      "fxparams": "",
+      "owner": "tz2Dz4kN8HVrkBDrYJEWq4JyZkzBUZUrPN3p",
+      "thumbnailUri": "ipfs://QmQm8LXHVHynN8pDMzdYgBGMNf8QkmnsVXvgi3Wycg4t6J",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo6iz6NMLfnY3hjH4dbGYAksKogwbLvJNrcgzcuRG4BZ5JZHNs4",
+        "iteration": 106,
+        "minter": "tz1bYaYMBq8w3L5mxJBZjou197v6VcsKMLrY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509582,
+      "name": "Cuts #107",
+      "iteration": 107,
+      "fxhash": "oodGH7r4gTRb38TbR8ABZBFrSQhWiq1pQQmFqyCs7cXPa3wgLdf",
+      "minter": "tz1i7Uj8fFQ8vwdMkqGYTAhfYqPUGHxnVgTg",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmeWJMyzmL9C4vukwdrCxAEFDbVENBSQUWUAjumumzM8Fs",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oodGH7r4gTRb38TbR8ABZBFrSQhWiq1pQQmFqyCs7cXPa3wgLdf",
+        "iteration": 107,
+        "minter": "tz1i7Uj8fFQ8vwdMkqGYTAhfYqPUGHxnVgTg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509583,
+      "name": "Cuts #108",
+      "iteration": 108,
+      "fxhash": "onjJwh5Q6xjApCykYZq4hzLKLdNjFSTBoJEN9BQskcjTaSiXUEQ",
+      "minter": "tz1NP8vKFGwFFB6M5UCiH7dcSn2DB7u1XUAC",
+      "fxparams": "",
+      "owner": "tz1QSZmv3FkzeK89VuomzxSsb1B8FAseVNb6",
+      "thumbnailUri": "ipfs://QmW1oquUdoL7EXSSSef6D9h5FYHpPBZXFzypZseHcJLMB7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onjJwh5Q6xjApCykYZq4hzLKLdNjFSTBoJEN9BQskcjTaSiXUEQ",
+        "iteration": 108,
+        "minter": "tz1NP8vKFGwFFB6M5UCiH7dcSn2DB7u1XUAC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509584,
+      "name": "Cuts #109",
+      "iteration": 109,
+      "fxhash": "onjtyuU5QVGDSwsWD7YRH1E2czZgT2uAEnmFKVcPWW5fHskGVtE",
+      "minter": "tz1NjXLdWjtQfGRzshLoViTiEN7JfM5ivVW5",
+      "fxparams": "",
+      "owner": "tz1eQkj9zKQ4oyakvEwuD5NPoim9bpocstdi",
+      "thumbnailUri": "ipfs://QmPMKtyYt2Nn7yNVKgxCbx642uHFb62YRBRn6uMMSmJMXk",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onjtyuU5QVGDSwsWD7YRH1E2czZgT2uAEnmFKVcPWW5fHskGVtE",
+        "iteration": 109,
+        "minter": "tz1NjXLdWjtQfGRzshLoViTiEN7JfM5ivVW5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509585,
+      "name": "Cuts #110",
+      "iteration": 110,
+      "fxhash": "ooypPUcPnJm5g249frGKoxhUsPxaGAbNpaDqSAAFXef7PQx8oXt",
+      "minter": "tz1NzmiwSrfW9Nbtdqf5U5EApR9RmADrTRQR",
+      "fxparams": "",
+      "owner": "tz1PmkivtHWNkvh8nFdhLJdXnc49TKMiz8i4",
+      "thumbnailUri": "ipfs://QmPjUD8kUzCjinKqiLoNCBiqWnnruz5mTqHQ6LJQU8aNYX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooypPUcPnJm5g249frGKoxhUsPxaGAbNpaDqSAAFXef7PQx8oXt",
+        "iteration": 110,
+        "minter": "tz1NzmiwSrfW9Nbtdqf5U5EApR9RmADrTRQR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509586,
+      "name": "Cuts #111",
+      "iteration": 111,
+      "fxhash": "ooNGTFfNwqKoxpAEdKK37VeGFmwAUEDmQ1bf6bLfFdHX5VUn8cj",
+      "minter": "tz1RSBNeyVd11L2e7cmAgae844t8ZDTabe1v",
+      "fxparams": "",
+      "owner": "tz1it1M8weP2F86cW6BL5KKuFiVMzDsK1Phh",
+      "thumbnailUri": "ipfs://QmZM88LCPU4SDByizeRmr15V7DKRGFBDjdTgsvd6o9DWhV",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooNGTFfNwqKoxpAEdKK37VeGFmwAUEDmQ1bf6bLfFdHX5VUn8cj",
+        "iteration": 111,
+        "minter": "tz1RSBNeyVd11L2e7cmAgae844t8ZDTabe1v",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509587,
+      "name": "Cuts #112",
+      "iteration": 112,
+      "fxhash": "ooJVvLs9u341TBpLtnhFmNcnD6xVjUosMSJNpAXRtRtP5FRJtqt",
+      "minter": "tz1RvfjGDmaRw1DypdENxzmKHk6fxTW1oUbg",
+      "fxparams": "",
+      "owner": "tz1fPnqswm41oEHUWdSDn3KSvq3KCXVNeFCj",
+      "thumbnailUri": "ipfs://Qmao4f7ZDpwnhgaMjXdVZi331jBwjjDPiHUyj1cunqqwhs",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooJVvLs9u341TBpLtnhFmNcnD6xVjUosMSJNpAXRtRtP5FRJtqt",
+        "iteration": 112,
+        "minter": "tz1RvfjGDmaRw1DypdENxzmKHk6fxTW1oUbg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509588,
+      "name": "Cuts #113",
+      "iteration": 113,
+      "fxhash": "ooV9Bg9TCxkWL3jyBxZ2REz8atF1BdfkQjRCKbAcA8ksPoWuafk",
+      "minter": "tz1aV4ehUsCtnvmnQ2y82kwRiQsPaQ4LnLpc",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmbkZhM28nLN6seuVaqoA1gxtQ48s2Ggch2fjLajCeGJ8E",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooV9Bg9TCxkWL3jyBxZ2REz8atF1BdfkQjRCKbAcA8ksPoWuafk",
+        "iteration": 113,
+        "minter": "tz1aV4ehUsCtnvmnQ2y82kwRiQsPaQ4LnLpc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509589,
+      "name": "Cuts #114",
+      "iteration": 114,
+      "fxhash": "ont45XPPeV9L7q4j3eFJLJBkk75RZvAyUqbYGac6X2hDK4LJbGJ",
+      "minter": "tz1ayN7yqxkfkJg77JRHCShZnH674Ghth8Dv",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmXBLw9JAnSG65AWRVutURQUWGhkYexR1BK59o5TaeWxYB",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ont45XPPeV9L7q4j3eFJLJBkk75RZvAyUqbYGac6X2hDK4LJbGJ",
+        "iteration": 114,
+        "minter": "tz1ayN7yqxkfkJg77JRHCShZnH674Ghth8Dv",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509590,
+      "name": "Cuts #115",
+      "iteration": 115,
+      "fxhash": "onr96arpk9wgyTj1jZKebLmXA1B5jUPonMBQJmtKJ1QKQNfVSSU",
+      "minter": "tz1iRPsFuwTNngmPyc6A71Edx3X9WrnkncRM",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmTpHDtQdDP8Kosy9RHSPwB1X56WFpYLYnQ3RgnsvBh7aY",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onr96arpk9wgyTj1jZKebLmXA1B5jUPonMBQJmtKJ1QKQNfVSSU",
+        "iteration": 115,
+        "minter": "tz1iRPsFuwTNngmPyc6A71Edx3X9WrnkncRM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509591,
+      "name": "Cuts #116",
+      "iteration": 116,
+      "fxhash": "ooE84Zm7HpYSYUeAk9BmKpQnnTuLEDqmxLuH6MGzT4UPYj5t8vD",
+      "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+      "fxparams": "",
+      "owner": "tz1fjDMGccb61s22baLNeHPvQFMF71feoXwn",
+      "thumbnailUri": "ipfs://QmYXWNkjdfggweAwodeVRK48sq5v6kbaZ5PJz7n3qmdn8B",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooE84Zm7HpYSYUeAk9BmKpQnnTuLEDqmxLuH6MGzT4UPYj5t8vD",
+        "iteration": 116,
+        "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509592,
+      "name": "Cuts #117",
+      "iteration": 117,
+      "fxhash": "onfKjjv7M4SeHJDznEnWbcECoLRjJ2j7xCojWg6keQi4Rxd5rKL",
+      "minter": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "fxparams": "",
+      "owner": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "thumbnailUri": "ipfs://QmYF6NqTT7V5LCeDnpiBGbx4vg9URLuLFEKijfczVvZjNq",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onfKjjv7M4SeHJDznEnWbcECoLRjJ2j7xCojWg6keQi4Rxd5rKL",
+        "iteration": 117,
+        "minter": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509593,
+      "name": "Cuts #118",
+      "iteration": 118,
+      "fxhash": "ooUd5aHe1N5bSshThHgWLoQ3ghGCy55VWSsb7UGCqYMyNpbUo6t",
+      "minter": "tz1NATazbFfnypvM7q32nnFP6m7aDXrtCm1g",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmaCzev7YiwtrdtGZHJXx6JJEW5emK8Q2MKTUZuqUzUJKj",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooUd5aHe1N5bSshThHgWLoQ3ghGCy55VWSsb7UGCqYMyNpbUo6t",
+        "iteration": 118,
+        "minter": "tz1NATazbFfnypvM7q32nnFP6m7aDXrtCm1g",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509594,
+      "name": "Cuts #119",
+      "iteration": 119,
+      "fxhash": "onuma6JFbBqitCDUdbbB2eKppLoGfhZRG5xLEzswBtiKzwoBj3Q",
+      "minter": "tz1fWauqLC9toF4NuLbdumVL3ZgMJSJZULFz",
+      "fxparams": "",
+      "owner": "tz1MkNqnXnYb2Wc9VcUSfpbWcv7n7kMDMizS",
+      "thumbnailUri": "ipfs://Qmcs8tu5sFL2jYWpPGeNnWWk3TyzUvhzTxfbr4CA7HPHwU",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onuma6JFbBqitCDUdbbB2eKppLoGfhZRG5xLEzswBtiKzwoBj3Q",
+        "iteration": 119,
+        "minter": "tz1fWauqLC9toF4NuLbdumVL3ZgMJSJZULFz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509595,
+      "name": "Cuts #120",
+      "iteration": 120,
+      "fxhash": "oni5E5CqPv82gVZF9aAAsDaHVQjCqmSY94n1d5GN2nbxtDYFpaa",
+      "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+      "fxparams": "",
+      "owner": "tz1fgrhpCz2SdsJhQCWMeqcXa7kHgK9fuEPH",
+      "thumbnailUri": "ipfs://QmfBfZrBygfLjf2wZNt4FR7NZZkK5HaAhUaPGxaWHjAMcz",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oni5E5CqPv82gVZF9aAAsDaHVQjCqmSY94n1d5GN2nbxtDYFpaa",
+        "iteration": 120,
+        "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509596,
+      "name": "Cuts #121",
+      "iteration": 121,
+      "fxhash": "onx5LuuT1uRLyfbM7zWot7pCJjkutMXEgNndKdRwkjAvhP2LzHA",
+      "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+      "fxparams": "",
+      "owner": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+      "thumbnailUri": "ipfs://QmaR6Ppeo7xp2vDfBqhTULEovEEmBhSNjhDQHkeSYmawCo",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onx5LuuT1uRLyfbM7zWot7pCJjkutMXEgNndKdRwkjAvhP2LzHA",
+        "iteration": 121,
+        "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509597,
+      "name": "Cuts #122",
+      "iteration": 122,
+      "fxhash": "opRtNgdENZcS4rx3Zz8kUfUmNQwfgABN3SMhrMZ1gf9hpDS3By7",
+      "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmceUayZDParchdbe5gu1QcLE78xFjYHeNrVx2pwo2G8pV",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opRtNgdENZcS4rx3Zz8kUfUmNQwfgABN3SMhrMZ1gf9hpDS3By7",
+        "iteration": 122,
+        "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509598,
+      "name": "Cuts #123",
+      "iteration": 123,
+      "fxhash": "oneDLRGZJvnsertJ47n5n2u8hLXDi1BFAkoTv2yuuvd7g1RrBnx",
+      "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+      "fxparams": "",
+      "owner": "tz1ioXgXZDvhmU6Q3FbTvVACCweyNbq3XaZ1",
+      "thumbnailUri": "ipfs://QmPd7QckYeQUZfZyKhde5zZFEzin3QzoFkj2dx3qwTXdEd",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oneDLRGZJvnsertJ47n5n2u8hLXDi1BFAkoTv2yuuvd7g1RrBnx",
+        "iteration": 123,
+        "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509599,
+      "name": "Cuts #124",
+      "iteration": 124,
+      "fxhash": "oowKbcKf427DSFVeCbW6GUnAzAYeMBTQo1GUytrLfNEyBqycq44",
+      "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+      "fxparams": "",
+      "owner": "tz1U4H4kWg7E5dhpXWZKMepd49CG2EQm6qFs",
+      "thumbnailUri": "ipfs://QmX3McZj34kgPqGeaJYa1p7GiQQbJRQR3DZfnakSG7Gade",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oowKbcKf427DSFVeCbW6GUnAzAYeMBTQo1GUytrLfNEyBqycq44",
+        "iteration": 124,
+        "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509600,
+      "name": "Cuts #125",
+      "iteration": 125,
+      "fxhash": "opYY97D2EP2yGir7Zb8zKgM1z5JJeD2EJsas9JpL2CTbWb7Gfjg",
+      "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+      "fxparams": "",
+      "owner": "tz1X6yKNKEupW1WdxSi2x1mXs3yUf19JMtij",
+      "thumbnailUri": "ipfs://QmVW5tH5nBviWXfXJun91S2uqeZyEHdXhemsmrg613MwH2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opYY97D2EP2yGir7Zb8zKgM1z5JJeD2EJsas9JpL2CTbWb7Gfjg",
+        "iteration": 125,
+        "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509601,
+      "name": "Cuts #126",
+      "iteration": 126,
+      "fxhash": "oo33Fda7MVF3E4AyjeCfDAkSNdHuDNpmEoRx8FexpkH2Ej7H7HP",
+      "minter": "tz1WJMNHQPbh8eqNsWQa6T557T4Y92x2ccFB",
+      "fxparams": "",
+      "owner": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+      "thumbnailUri": "ipfs://QmacR3kjNXnj7KJgf9zpiaoVKHwBC8m9PJUQH4uxJmQcK2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo33Fda7MVF3E4AyjeCfDAkSNdHuDNpmEoRx8FexpkH2Ej7H7HP",
+        "iteration": 126,
+        "minter": "tz1WJMNHQPbh8eqNsWQa6T557T4Y92x2ccFB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509602,
+      "name": "Cuts #127",
+      "iteration": 127,
+      "fxhash": "ooQXDsRg9nauZxG57HvjdbfCii8t7AeFJg4SvEn1y2QDwb12mMy",
+      "minter": "tz1LM1VKAaHT8tRorUfLWo1Mn98GQyunSVnB",
+      "fxparams": "",
+      "owner": "tz1c9vgUPbLW7Hgw3GE1Hshh5VGtRBJ24vCY",
+      "thumbnailUri": "ipfs://QmaNHb5beRrDGiFhT5DvcgLp4VdyYNx18oWLDKmdoe1B5v",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooQXDsRg9nauZxG57HvjdbfCii8t7AeFJg4SvEn1y2QDwb12mMy",
+        "iteration": 127,
+        "minter": "tz1LM1VKAaHT8tRorUfLWo1Mn98GQyunSVnB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509603,
+      "name": "Cuts #128",
+      "iteration": 128,
+      "fxhash": "oomWArjLyH11Pcncx38MbPZMpDJu9AEiQyBAUWAqpT4i7ymWhyz",
+      "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "fxparams": "",
+      "owner": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "thumbnailUri": "ipfs://QmW1xHaAEdRqKY6RCyJyMKq3bLQfSTERw6eqbTiBsS3gkU",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oomWArjLyH11Pcncx38MbPZMpDJu9AEiQyBAUWAqpT4i7ymWhyz",
+        "iteration": 128,
+        "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509604,
+      "name": "Cuts #129",
+      "iteration": 129,
+      "fxhash": "ooJtE7VbWEvqouYVWQ8abr8UiEto4jHrrgJ61xCFSSqHwZuhtPS",
+      "minter": "tz1NeGFhrALF6nbFnfVCJSU9dJwg6Rk5CiBs",
+      "fxparams": "",
+      "owner": "tz1QfBTr7SFKVkuFGtGyGBys3njKRBJw2xhC",
+      "thumbnailUri": "ipfs://QmXgjZWUdrrTBV4XG6V2qXXeJ6swtDxZYQmEK7itm4ZjA5",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooJtE7VbWEvqouYVWQ8abr8UiEto4jHrrgJ61xCFSSqHwZuhtPS",
+        "iteration": 129,
+        "minter": "tz1NeGFhrALF6nbFnfVCJSU9dJwg6Rk5CiBs",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509605,
+      "name": "Cuts #130",
+      "iteration": 130,
+      "fxhash": "oneKmRdAg4U2jBqfjEMBF8UZh4BotQMKmx9C5QUQQ7bf1SuTxYq",
+      "minter": "tz1PPSYR639ae9tPLKRwdJdobm72dwwzZndn",
+      "fxparams": "",
+      "owner": "tz1Q73MnHroCMADATwW3eR6dGKnxfDLZww9w",
+      "thumbnailUri": "ipfs://QmQQy4phqWL7ozx47frNULjrknasGQCba4R3TtP4UL7sbN",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oneKmRdAg4U2jBqfjEMBF8UZh4BotQMKmx9C5QUQQ7bf1SuTxYq",
+        "iteration": 130,
+        "minter": "tz1PPSYR639ae9tPLKRwdJdobm72dwwzZndn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509606,
+      "name": "Cuts #131",
+      "iteration": 131,
+      "fxhash": "oo26Vh6hY5qNwZm2Rvy5sRQHkXcRFFrtTsZaUPrMCGi1tYDKbay",
+      "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "fxparams": "",
+      "owner": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "thumbnailUri": "ipfs://QmdAGjcxCDsWgzjrCRX7tMDbgszhYuHwpq7BrSbTYyL9Zs",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo26Vh6hY5qNwZm2Rvy5sRQHkXcRFFrtTsZaUPrMCGi1tYDKbay",
+        "iteration": 131,
+        "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509607,
+      "name": "Cuts #132",
+      "iteration": 132,
+      "fxhash": "onnjtu267psKn1sWHcZa8BkVLxAjdHXyWdXqpmR4VF34baL7ANR",
+      "minter": "tz1RCSceJAxh56sKGJ6EncWqof8iCB1BMHn9",
+      "fxparams": "",
+      "owner": "tz1eTyW8hsxXMtQeKJBq63ubhHkntUwefKzR",
+      "thumbnailUri": "ipfs://QmdupCmHymX9aAzZrtVLfQcekRVEuYpYwgT4XM68FF7hnT",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onnjtu267psKn1sWHcZa8BkVLxAjdHXyWdXqpmR4VF34baL7ANR",
+        "iteration": 132,
+        "minter": "tz1RCSceJAxh56sKGJ6EncWqof8iCB1BMHn9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509608,
+      "name": "Cuts #133",
+      "iteration": 133,
+      "fxhash": "ono5Nq5ETkDnSWAaXXpWUvTb9JZZrmC94GJuQ5wbV949zqnbENi",
+      "minter": "tz1RNocnVGrrPRhdZTyE86d91eE8nhT9oTid",
+      "fxparams": "",
+      "owner": "tz1dPeEpEt4rDc5jS3PpCViYmFAb47BxVx7b",
+      "thumbnailUri": "ipfs://QmP2rqQENbUCB9wQx3g8LPzknWUwTU19GPgcjEK9Doiv7c",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ono5Nq5ETkDnSWAaXXpWUvTb9JZZrmC94GJuQ5wbV949zqnbENi",
+        "iteration": 133,
+        "minter": "tz1RNocnVGrrPRhdZTyE86d91eE8nhT9oTid",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509609,
+      "name": "Cuts #134",
+      "iteration": 134,
+      "fxhash": "oo3CMxmPdunDt7fmHKp1epPGabQ8N5scsh3varguFYGEUy7wwog",
+      "minter": "tz1TWQdEQgZbJLyfcP714zs1zJM4gRuWPqWp",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmVaMreafjqwW5GmAJ54N6g86LiUh9e2ALB2YJmAWV4kbo",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo3CMxmPdunDt7fmHKp1epPGabQ8N5scsh3varguFYGEUy7wwog",
+        "iteration": 134,
+        "minter": "tz1TWQdEQgZbJLyfcP714zs1zJM4gRuWPqWp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509610,
+      "name": "Cuts #135",
+      "iteration": 135,
+      "fxhash": "oomLGEDXW2UYYaQqWbjsSNpKbp7NL7otdWzKPXJXQD8mLzpqRmU",
+      "minter": "tz1UEyXAqKwvWy6VZ1s8YDVf5X32qihcS3io",
+      "fxparams": "",
+      "owner": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+      "thumbnailUri": "ipfs://Qmcs4Rj7av8aSawtSfiZ32C7F5aLMCPxfXbRBts62J6KPu",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oomLGEDXW2UYYaQqWbjsSNpKbp7NL7otdWzKPXJXQD8mLzpqRmU",
+        "iteration": 135,
+        "minter": "tz1UEyXAqKwvWy6VZ1s8YDVf5X32qihcS3io",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509611,
+      "name": "Cuts #136",
+      "iteration": 136,
+      "fxhash": "oo6bWod2yyjRZiMn1JB85yrAaXJYSGWHcSMFTU3rPuKMH1suyxy",
+      "minter": "tz1V9pT8VRVQBLema5Z4ydxGZj58oKUKemzo",
+      "fxparams": "",
+      "owner": "tz1eTyW8hsxXMtQeKJBq63ubhHkntUwefKzR",
+      "thumbnailUri": "ipfs://Qmf5nKnqtgd61j9ajEBqiLBcYGYAVG1KPaPtwmX1irpSxy",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo6bWod2yyjRZiMn1JB85yrAaXJYSGWHcSMFTU3rPuKMH1suyxy",
+        "iteration": 136,
+        "minter": "tz1V9pT8VRVQBLema5Z4ydxGZj58oKUKemzo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509612,
+      "name": "Cuts #137",
+      "iteration": 137,
+      "fxhash": "onhjeEkKvD3orGnSwQC5qoS4R7HHo4BWNySzCxSaTWEQaDa9m92",
+      "minter": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmVjpEg31ytdRd7aAKBNXAAbMLuGuXRs3pXYZ6dkvb7BMC",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onhjeEkKvD3orGnSwQC5qoS4R7HHo4BWNySzCxSaTWEQaDa9m92",
+        "iteration": 137,
+        "minter": "tz1XMYyXTn3FmnJKJGh55ivepRPqNpQqeE7x",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509613,
+      "name": "Cuts #138",
+      "iteration": 138,
+      "fxhash": "opE2RSNK4pVwdwcbXfP6EcjKjQ3arcHeUNRRr41b7PwjSCQ2mE3",
+      "minter": "tz1YxVuK63pDpkz9NHVjY3GMsfjeCpJtfXPa",
+      "fxparams": "",
+      "owner": "tz1isDv4w4fTJyWZXzFYC7evcz5Di8uLfULc",
+      "thumbnailUri": "ipfs://QmZ3w99Pe4S959D4LHLkfk7CLyqr9M64KNCjym6vYmWDhA",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opE2RSNK4pVwdwcbXfP6EcjKjQ3arcHeUNRRr41b7PwjSCQ2mE3",
+        "iteration": 138,
+        "minter": "tz1YxVuK63pDpkz9NHVjY3GMsfjeCpJtfXPa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509614,
+      "name": "Cuts #139",
+      "iteration": 139,
+      "fxhash": "op5CM55jDXqeX9JKDLAecSC1zpb4brQduxL93VREAxYYcxPaogz",
+      "minter": "tz1b1gRUxf8frACpFiTTvFK6huSbzQiToEQo",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmQahN8yBTY1pRzMDVHxv79TrY9wjVRmYyarB5M8Xz3daq",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op5CM55jDXqeX9JKDLAecSC1zpb4brQduxL93VREAxYYcxPaogz",
+        "iteration": 139,
+        "minter": "tz1b1gRUxf8frACpFiTTvFK6huSbzQiToEQo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509615,
+      "name": "Cuts #140",
+      "iteration": 140,
+      "fxhash": "ooUhN3G5Y6hWy46NGZGjxcwiUQVjvkr2WiwdY2TRGRvoJGyTPdy",
+      "minter": "tz1bP7hp8Hatrw7icczTJoovq3MYeh4pW9Qg",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmPjrM5u1KKXqW3TKixhaQTWQPwLZAAPF3wSAEzzcbGCR1",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooUhN3G5Y6hWy46NGZGjxcwiUQVjvkr2WiwdY2TRGRvoJGyTPdy",
+        "iteration": 140,
+        "minter": "tz1bP7hp8Hatrw7icczTJoovq3MYeh4pW9Qg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509616,
+      "name": "Cuts #141",
+      "iteration": 141,
+      "fxhash": "oo58gQjsR3jBoRpEq7EkfY1dh4x2nQNArGqV2LcNAKUH3wiLyCq",
+      "minter": "tz1bmPatnVaBa8brRzQ15i4vWzcBtdwJAkbn",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmcFq884RKmR9vUHVxBsxMkoTBuiBasbrywmdxMiqWAsFE",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo58gQjsR3jBoRpEq7EkfY1dh4x2nQNArGqV2LcNAKUH3wiLyCq",
+        "iteration": 141,
+        "minter": "tz1bmPatnVaBa8brRzQ15i4vWzcBtdwJAkbn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509617,
+      "name": "Cuts #142",
+      "iteration": 142,
+      "fxhash": "ooZxbVDAK3gMh55acn3sSSjuyugyxp9a1cLy8jcKTUHufYrBx7e",
+      "minter": "tz1bzghMR1MCW7WgWu5Q15ebfntrFXJsFTgC",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmdrjkUquWuDtgJXTePdQsLJhgFVPbSKQhgb4eqg2prWVt",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooZxbVDAK3gMh55acn3sSSjuyugyxp9a1cLy8jcKTUHufYrBx7e",
+        "iteration": 142,
+        "minter": "tz1bzghMR1MCW7WgWu5Q15ebfntrFXJsFTgC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509618,
+      "name": "Cuts #143",
+      "iteration": 143,
+      "fxhash": "onjzkuJFix9ZvrqZYEXsVHGcMF3q2ge9wTL8xmBxn9tpFPgMtuD",
+      "minter": "tz1cqRERM4BqzYWheg9fAndAcSrrjoZbAZcm",
+      "fxparams": "",
+      "owner": "tz1QfBTr7SFKVkuFGtGyGBys3njKRBJw2xhC",
+      "thumbnailUri": "ipfs://QmSfgEv5XNDocVt1ubR9mnFgM44PHsx9nFZdSn6RrzkYUA",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onjzkuJFix9ZvrqZYEXsVHGcMF3q2ge9wTL8xmBxn9tpFPgMtuD",
+        "iteration": 143,
+        "minter": "tz1cqRERM4BqzYWheg9fAndAcSrrjoZbAZcm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509619,
+      "name": "Cuts #144",
+      "iteration": 144,
+      "fxhash": "oo5PX3aZsUC3RSfeefEv8TMS45JaU2Mm6GJxuLE3z4sUuEhNcxM",
+      "minter": "tz1cqfCUyco1YFdSaRWVumnR6qy1KTa4xYXu",
+      "fxparams": "",
+      "owner": "tz1cqfCUyco1YFdSaRWVumnR6qy1KTa4xYXu",
+      "thumbnailUri": "ipfs://QmWXHBksAumQouR3RwY5FkfJpj9LvzEeguXohnvLHgt2GT",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo5PX3aZsUC3RSfeefEv8TMS45JaU2Mm6GJxuLE3z4sUuEhNcxM",
+        "iteration": 144,
+        "minter": "tz1cqfCUyco1YFdSaRWVumnR6qy1KTa4xYXu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509620,
+      "name": "Cuts #145",
+      "iteration": 145,
+      "fxhash": "ooKFMmxKpfsEDFAQfJk1LxXz6qYyJiNopM8px1KRaFeBeGRmCMN",
+      "minter": "tz1cwuNXNqKJekc9TrsvyKJyTMYXahomv1QX",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmTBZqKZ1KtasVTHxFi8FEhBa1tm9FYjY3enuLmJV6fFqg",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooKFMmxKpfsEDFAQfJk1LxXz6qYyJiNopM8px1KRaFeBeGRmCMN",
+        "iteration": 145,
+        "minter": "tz1cwuNXNqKJekc9TrsvyKJyTMYXahomv1QX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509621,
+      "name": "Cuts #146",
+      "iteration": 146,
+      "fxhash": "opUykjgjDANdewKSuMiEvzAKc7MqiHUcC3ZC8A9B3HhTeLFzz8w",
+      "minter": "tz1d5khLKyZyu3ioK2StViUHCR6ozyAkeR2z",
+      "fxparams": "",
+      "owner": "tz1cy114SeH6u3XjfJ9D56e9AUtAwqjX6r9w",
+      "thumbnailUri": "ipfs://QmRgquy7ixL7ZmeEb9vquKthqaCCL4jwYjb2FCDHzUkasg",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opUykjgjDANdewKSuMiEvzAKc7MqiHUcC3ZC8A9B3HhTeLFzz8w",
+        "iteration": 146,
+        "minter": "tz1d5khLKyZyu3ioK2StViUHCR6ozyAkeR2z",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509622,
+      "name": "Cuts #147",
+      "iteration": 147,
+      "fxhash": "ooXYTbQ1422MoTRn8hHWkQ8oKc9PNCHpWLTEt4pMyJC74z7hFkK",
+      "minter": "tz1dPeEpEt4rDc5jS3PpCViYmFAb47BxVx7b",
+      "fxparams": "",
+      "owner": "tz1VJUor9UqRyB7XEnRBryLRozKxVgxvSqwZ",
+      "thumbnailUri": "ipfs://QmQF3DPnMf2r7B8PvfJgiqGGRRdmTU7j3TThSHcixjj7yo",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooXYTbQ1422MoTRn8hHWkQ8oKc9PNCHpWLTEt4pMyJC74z7hFkK",
+        "iteration": 147,
+        "minter": "tz1dPeEpEt4rDc5jS3PpCViYmFAb47BxVx7b",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509623,
+      "name": "Cuts #148",
+      "iteration": 148,
+      "fxhash": "oog9HUAzMeUPL7BFFQrybxxygwAy36dX8wvvczyxdcX4QmoLqsy",
+      "minter": "tz1fzoJyCcAykihU3xz8L8hS1ag1pP61e7MX",
+      "fxparams": "",
+      "owner": "tz1UFjMLHAxZuBWwUq1Y5PM8fmYrJHNSgNMw",
+      "thumbnailUri": "ipfs://QmR8iKi2TsixsdQ3jcHJsqFXfGsBzGgHW37D2K3QqUaisD",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oog9HUAzMeUPL7BFFQrybxxygwAy36dX8wvvczyxdcX4QmoLqsy",
+        "iteration": 148,
+        "minter": "tz1fzoJyCcAykihU3xz8L8hS1ag1pP61e7MX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509624,
+      "name": "Cuts #149",
+      "iteration": 149,
+      "fxhash": "onyvTCyRfHFXL3a4XpLkm1AfQA9AFCDPEMgnjtwjZ3ueHYtiJZF",
+      "minter": "tz1g3sGm6VHVchskCzKew8vnLj3NN6b84LGu",
+      "fxparams": "",
+      "owner": "tz1LzwRBXrZMsz1TiCZGyAcaJgM71q7Yaj16",
+      "thumbnailUri": "ipfs://QmRoJzcaZpVKHmKryCmqpoXvxpk7WZfvQqeyiGUsyGkMZd",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onyvTCyRfHFXL3a4XpLkm1AfQA9AFCDPEMgnjtwjZ3ueHYtiJZF",
+        "iteration": 149,
+        "minter": "tz1g3sGm6VHVchskCzKew8vnLj3NN6b84LGu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509625,
+      "name": "Cuts #150",
+      "iteration": 150,
+      "fxhash": "onn7DwLSsWvHQuk7UAZu1cMFNcnxia4CasiEY7zFsGXpsk3rZop",
+      "minter": "tz1gBExwGTiKDC2yp2Vv58k9GbT27RkZKyaT",
+      "fxparams": "",
+      "owner": "tz1hvfkpf7HbnE1Rroi7JbyegVjZzu97Yqw6",
+      "thumbnailUri": "ipfs://QmPbrdYPpLux2wFHL8cWRWjkQd1a3zJAwbietKqGnQvSq7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onn7DwLSsWvHQuk7UAZu1cMFNcnxia4CasiEY7zFsGXpsk3rZop",
+        "iteration": 150,
+        "minter": "tz1gBExwGTiKDC2yp2Vv58k9GbT27RkZKyaT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509626,
+      "name": "Cuts #151",
+      "iteration": 151,
+      "fxhash": "op4FwQ7VVaNHLGm3PoARuQPgdSNWcSts7RJDnX8odPimJJoxAaa",
+      "minter": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+      "fxparams": "",
+      "owner": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+      "thumbnailUri": "ipfs://QmehgkuDhhkrXzjCoCcwyknUNXryUhWH5xsadhDigCYwxA",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op4FwQ7VVaNHLGm3PoARuQPgdSNWcSts7RJDnX8odPimJJoxAaa",
+        "iteration": 151,
+        "minter": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509628,
+      "name": "Cuts #152",
+      "iteration": 152,
+      "fxhash": "oogz9PTGB53m1mqVwHXK3Lfmc1ZaB2unsz9fU5MhGzgbx2mc6ij",
+      "minter": "tz1b4amob4P6fvu2ztt5jcVAc1tAK7tGY8ES",
+      "fxparams": "",
+      "owner": "tz1hzYoD8rdHurkCqJ1mHre1EN7DDZw7XecH",
+      "thumbnailUri": "ipfs://QmbDM2yghCyEzfEZjzpZb8TQAAif9s3FoznSTYC9F2xacy",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oogz9PTGB53m1mqVwHXK3Lfmc1ZaB2unsz9fU5MhGzgbx2mc6ij",
+        "iteration": 152,
+        "minter": "tz1b4amob4P6fvu2ztt5jcVAc1tAK7tGY8ES",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509629,
+      "name": "Cuts #153",
+      "iteration": 153,
+      "fxhash": "ooxMxXzcZdrWKsPprK88Ezbgk8VeydA6x8TVpok1VS1pK7w5CnD",
+      "minter": "tz1L2EWSAwppFAk44vXDiVh5k5tDWn6DcA8a",
+      "fxparams": "",
+      "owner": "tz1SCBy5gFnbejrvdV6NwUcLjevZy5fzoQ8D",
+      "thumbnailUri": "ipfs://QmXwyVCyJ6Upn3dx1bJqC8MjEiv6X3hkp8PFJ7pAsC2EkM",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooxMxXzcZdrWKsPprK88Ezbgk8VeydA6x8TVpok1VS1pK7w5CnD",
+        "iteration": 153,
+        "minter": "tz1L2EWSAwppFAk44vXDiVh5k5tDWn6DcA8a",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509630,
+      "name": "Cuts #154",
+      "iteration": 154,
+      "fxhash": "opAS4ddpHCXn2iAUbQbDtF4Td4bFGkL78JJ3pmnVqRnsrbCCRsG",
+      "minter": "tz1LKyjRMB7BcrR712GfTg2BgDRYQzacRvEU",
+      "fxparams": "",
+      "owner": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "thumbnailUri": "ipfs://QmXStdjUPuRZmxSEBdLKHGTerZ4tYonxw4JC6drufK3Sqs",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opAS4ddpHCXn2iAUbQbDtF4Td4bFGkL78JJ3pmnVqRnsrbCCRsG",
+        "iteration": 154,
+        "minter": "tz1LKyjRMB7BcrR712GfTg2BgDRYQzacRvEU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509631,
+      "name": "Cuts #155",
+      "iteration": 155,
+      "fxhash": "opPLon5zvr1ByyR6DY5GAUxQEdazFA1PGPKE9qDgZFcXxTZ2g9N",
+      "minter": "tz1Nsq1vB5vR47NvAyGYR2xSuWmSp2c5jvYB",
+      "fxparams": "",
+      "owner": "tz1W3A3hBLQHQueSanvydtrdQJbmjEp94ZwD",
+      "thumbnailUri": "ipfs://QmbC7pkHiVNbXLPpKBHFiygYCHGnHppA7UEL2HeyfTbJx5",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opPLon5zvr1ByyR6DY5GAUxQEdazFA1PGPKE9qDgZFcXxTZ2g9N",
+        "iteration": 155,
+        "minter": "tz1Nsq1vB5vR47NvAyGYR2xSuWmSp2c5jvYB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509632,
+      "name": "Cuts #156",
+      "iteration": 156,
+      "fxhash": "oopfCiqoa7dFvrNPPmWd6Ygu41aN2hKg1hpwqGcvRuuzfLhiqe1",
+      "minter": "tz1QXTAvbhbyHodY8JZtDhN9E2246PwATBaW",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmPFcsrnkaStXo9kDokJFA1kPcExZJ6bXpmvo6CxWMDfLh",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oopfCiqoa7dFvrNPPmWd6Ygu41aN2hKg1hpwqGcvRuuzfLhiqe1",
+        "iteration": 156,
+        "minter": "tz1QXTAvbhbyHodY8JZtDhN9E2246PwATBaW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509633,
+      "name": "Cuts #157",
+      "iteration": 157,
+      "fxhash": "ooQogLvK7WbJndniKfSt1jE3ARPBiTyY5NZeL7BRxLEYSR78gLi",
+      "minter": "tz1VJUor9UqRyB7XEnRBryLRozKxVgxvSqwZ",
+      "fxparams": "",
+      "owner": "tz1VJUor9UqRyB7XEnRBryLRozKxVgxvSqwZ",
+      "thumbnailUri": "ipfs://QmXXNpgwZARUzd4XkKpoxgkkhxpEMHjMnQKHkpZGpcuxgR",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooQogLvK7WbJndniKfSt1jE3ARPBiTyY5NZeL7BRxLEYSR78gLi",
+        "iteration": 157,
+        "minter": "tz1VJUor9UqRyB7XEnRBryLRozKxVgxvSqwZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509634,
+      "name": "Cuts #158",
+      "iteration": 158,
+      "fxhash": "oo4qqJKZo64JBevyfteRpHB1Hz8GmKP5MQPrkSyUrgN4y3vrEEh",
+      "minter": "tz1Z3defezrcTcnd1pd6LxWyHQpc5iHZ5syf",
+      "fxparams": "",
+      "owner": "tz1YF4W5ntynFtbNBw4ncvnsQF291cZHJqAC",
+      "thumbnailUri": "ipfs://QmP4UG54tsoHm76mkovFtWFULq2q1neBbvTje4yX89AfXd",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo4qqJKZo64JBevyfteRpHB1Hz8GmKP5MQPrkSyUrgN4y3vrEEh",
+        "iteration": 158,
+        "minter": "tz1Z3defezrcTcnd1pd6LxWyHQpc5iHZ5syf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509635,
+      "name": "Cuts #159",
+      "iteration": 159,
+      "fxhash": "onrKE8y2RQSwc9Pn64PFc8JfHQfomqoby39h4sXr9nddYKwZg7u",
+      "minter": "tz1eDrzMfW4CK3d9vvU3VNz2AsKDptF6wd2D",
+      "fxparams": "",
+      "owner": "tz29rT6LwCuZcyxkJ3mNvFNSRBryfxnPZqJW",
+      "thumbnailUri": "ipfs://QmeUgRmJSHa3HJDj4cD6rQS36Z74cacXirSuhsZjezpvws",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onrKE8y2RQSwc9Pn64PFc8JfHQfomqoby39h4sXr9nddYKwZg7u",
+        "iteration": 159,
+        "minter": "tz1eDrzMfW4CK3d9vvU3VNz2AsKDptF6wd2D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509636,
+      "name": "Cuts #160",
+      "iteration": 160,
+      "fxhash": "opCdhYex37t6W2CkXq4Qm3LDX1EiEq97yaRxBBK9RE8ZEPuAVzf",
+      "minter": "tz2C571mwS7wtxyQiqTKt9xWsxPc2TwK5ENa",
+      "fxparams": "",
+      "owner": "tz1Va1mnjVY5QPChmDjwDtJJ9PNReYrqAaDS",
+      "thumbnailUri": "ipfs://QmcUBjFzVXRDpN2p8cxoKTXSBRCBMpQ751JFKyV7P7VoKS",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opCdhYex37t6W2CkXq4Qm3LDX1EiEq97yaRxBBK9RE8ZEPuAVzf",
+        "iteration": 160,
+        "minter": "tz2C571mwS7wtxyQiqTKt9xWsxPc2TwK5ENa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509637,
+      "name": "Cuts #161",
+      "iteration": 161,
+      "fxhash": "ongypW1qhZyKyZ6wk1AqFJLEUfjmTj4DR6Qj2yaqNJPnVovVd4p",
+      "minter": "tz2E1NgAzYxaxZT3WbwN7nPSKwtRzpWHoo7G",
+      "fxparams": "",
+      "owner": "tz1fPnqswm41oEHUWdSDn3KSvq3KCXVNeFCj",
+      "thumbnailUri": "ipfs://QmVNx18SWKuf6gA8CTwbJBtr4zN53qmrNThii8WeYaugJa",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ongypW1qhZyKyZ6wk1AqFJLEUfjmTj4DR6Qj2yaqNJPnVovVd4p",
+        "iteration": 161,
+        "minter": "tz2E1NgAzYxaxZT3WbwN7nPSKwtRzpWHoo7G",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509638,
+      "name": "Cuts #162",
+      "iteration": 162,
+      "fxhash": "ooL34k67R2YjEGqDtfE87nEM5ot8PcVsaoKWEWbt6jyddgKjsrn",
+      "minter": "tz2G78XtsvMMWd5yFVbjxCZN1qiVssFaJ4vL",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmQ214Py6dahGti6XdfAGGGbsYzwaxWYgZ6ktKw85WB7Bx",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooL34k67R2YjEGqDtfE87nEM5ot8PcVsaoKWEWbt6jyddgKjsrn",
+        "iteration": 162,
+        "minter": "tz2G78XtsvMMWd5yFVbjxCZN1qiVssFaJ4vL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509639,
+      "name": "Cuts #163",
+      "iteration": 163,
+      "fxhash": "onogbBtdKtEyy6xb6gJNzTQVFXCD5xKrJYX1VoMMTw87fY4SLr9",
+      "minter": "tz2GRzd2coKiwbFWN9eauk7b1Raewa4Ebw7V",
+      "fxparams": "",
+      "owner": "tz2CeapCYrWMZ7jSruo7KJevabwboqHjiwsQ",
+      "thumbnailUri": "ipfs://QmdTVwoMW45hyPXvTtSYFgHkoKACiEYXUmx41ufnp9poLp",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onogbBtdKtEyy6xb6gJNzTQVFXCD5xKrJYX1VoMMTw87fY4SLr9",
+        "iteration": 163,
+        "minter": "tz2GRzd2coKiwbFWN9eauk7b1Raewa4Ebw7V",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509640,
+      "name": "Cuts #164",
+      "iteration": 164,
+      "fxhash": "ootz9EpLB4xo3pSw4MLvVDDLFeg1w6MMpymtTWbB7MmbGWVPqgt",
+      "minter": "tz2J34tUBHzSPE64U7zUTJqr2XHrqD8vuPxA",
+      "fxparams": "",
+      "owner": "tz1h2sRkMJ9sAu7sUEMaKzmpvkdhrzVvbnjN",
+      "thumbnailUri": "ipfs://QmWkWVPXX67SQe1Un9hvyjXhTHhDnUQp8hVFSzrHrWeePy",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ootz9EpLB4xo3pSw4MLvVDDLFeg1w6MMpymtTWbB7MmbGWVPqgt",
+        "iteration": 164,
+        "minter": "tz2J34tUBHzSPE64U7zUTJqr2XHrqD8vuPxA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509641,
+      "name": "Cuts #165",
+      "iteration": 165,
+      "fxhash": "onyaWKHrYFuegVV9RAUmG4w92tKSVbV4GAYWSAfoAyJvGBKP3KT",
+      "minter": "tz2JRLNh7JAG34YaiQUS7wLTm8grVGeeGvBg",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmcMkn2UxyzsHurQXTqNEpWZncWy2YQ5oDVSCERyCUPDF2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onyaWKHrYFuegVV9RAUmG4w92tKSVbV4GAYWSAfoAyJvGBKP3KT",
+        "iteration": 165,
+        "minter": "tz2JRLNh7JAG34YaiQUS7wLTm8grVGeeGvBg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509642,
+      "name": "Cuts #166",
+      "iteration": 166,
+      "fxhash": "ooy7Lfr6TXcnhnQv1YASC4yrWCzoSGZRm4iiJ1ZEtroTcLaBeDu",
+      "minter": "tz2RNu3BCn7KfBWbmuzkBZPVt5BSVQJfrVBi",
+      "fxparams": "",
+      "owner": "tz1QHTN7HRJh7SupB7doMmBvDY8QkzJTB8YV",
+      "thumbnailUri": "ipfs://QmeT7Fdr92Yp19skZLd3ZY8FCHWa6YEqaqDEEbZVRn3bzo",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooy7Lfr6TXcnhnQv1YASC4yrWCzoSGZRm4iiJ1ZEtroTcLaBeDu",
+        "iteration": 166,
+        "minter": "tz2RNu3BCn7KfBWbmuzkBZPVt5BSVQJfrVBi",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509643,
+      "name": "Cuts #167",
+      "iteration": 167,
+      "fxhash": "oowrVNiicNPezwsRvpiC9Y1D6gQ8hgUvFEnJrbcSsfqjJNLKxXt",
+      "minter": "tz1X6yKNKEupW1WdxSi2x1mXs3yUf19JMtij",
+      "fxparams": "",
+      "owner": "tz1cGdvL2YBEGi2ekBzeLa1vbeRUKgYiCmEu",
+      "thumbnailUri": "ipfs://QmYWfogHHtdwmY7QhYsPjPE5ywXXtAEgJ5PBbViJfoqHGb",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oowrVNiicNPezwsRvpiC9Y1D6gQ8hgUvFEnJrbcSsfqjJNLKxXt",
+        "iteration": 167,
+        "minter": "tz1X6yKNKEupW1WdxSi2x1mXs3yUf19JMtij",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509644,
+      "name": "Cuts #168",
+      "iteration": 168,
+      "fxhash": "onzqRzqLKDiHqLh9CvqgLkoCNLMSMcyfStyy4zRczdmJCqspQz3",
+      "minter": "tz1TXjGshVjXC3nwPab1rX9FX3o7buCkgFu5",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmbdgbR7Qfrku1UcWj1gfrYrga4iYXtfDfKBo9vZvaQgaQ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onzqRzqLKDiHqLh9CvqgLkoCNLMSMcyfStyy4zRczdmJCqspQz3",
+        "iteration": 168,
+        "minter": "tz1TXjGshVjXC3nwPab1rX9FX3o7buCkgFu5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509645,
+      "name": "Cuts #169",
+      "iteration": 169,
+      "fxhash": "oor4TP5maq2jKgC8jGQrDPht6zzHDXjYVvTTbbtNaYkBHHTCTAN",
+      "minter": "tz1hbc1SgiRKvYx12WtVzZ7VUv3CKsn17DTw",
+      "fxparams": "",
+      "owner": "tz1c9U9x3y2RMJYfCoT5kcgCnYnr7o9ifh9T",
+      "thumbnailUri": "ipfs://QmeUwJUD8Bwr3XvG8WbA7WcdCttfvXNe1HnW3vLLoqAi19",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oor4TP5maq2jKgC8jGQrDPht6zzHDXjYVvTTbbtNaYkBHHTCTAN",
+        "iteration": 169,
+        "minter": "tz1hbc1SgiRKvYx12WtVzZ7VUv3CKsn17DTw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509646,
+      "name": "Cuts #170",
+      "iteration": 170,
+      "fxhash": "opVvf9PXCSmTDD6xeHEgS1HJct1ENYNr6pXdy3jP1iiMUUw72RL",
+      "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmaG7ErzyA41xRvdLJFkxVUZ7b5tCzYN89BcyDYp7wQMfx",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opVvf9PXCSmTDD6xeHEgS1HJct1ENYNr6pXdy3jP1iiMUUw72RL",
+        "iteration": 170,
+        "minter": "tz1NPSwwaXu6PZcp7p8s1QAzbhFVLjXN7va1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509647,
+      "name": "Cuts #171",
+      "iteration": 171,
+      "fxhash": "opaqjh3jpDzhHKXvZD1oZ5CSZco5kBZYTLYnPkvWNYD9xW61tyM",
+      "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+      "fxparams": "",
+      "owner": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+      "thumbnailUri": "ipfs://QmPa1X2so5nrMfjEPxoyTGn6QYfCvsUQNgbhVmyqzNBTmf",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opaqjh3jpDzhHKXvZD1oZ5CSZco5kBZYTLYnPkvWNYD9xW61tyM",
+        "iteration": 171,
+        "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509648,
+      "name": "Cuts #172",
+      "iteration": 172,
+      "fxhash": "opU6Jy22PFqmftNRwFcGhNc4AHfYhmdQDu7gSpZZqGT6AQZon2M",
+      "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+      "fxparams": "",
+      "owner": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "thumbnailUri": "ipfs://QmZEdpYCdBPUU9va6jBgjRwKwvyVBs69AAD4WMW9rUdBPZ",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opU6Jy22PFqmftNRwFcGhNc4AHfYhmdQDu7gSpZZqGT6AQZon2M",
+        "iteration": 172,
+        "minter": "tz1ZRjuE2STA75rzXr78GcXNUZhYubwxaTYd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509649,
+      "name": "Cuts #173",
+      "iteration": 173,
+      "fxhash": "oo58mNKzaEyzGhcacugzo9QVLDfkJLkZX8pe63PfJDwqwRYb9mJ",
+      "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+      "fxparams": "",
+      "owner": "tz1cdowmr8kiWZpN5cESMw19bx3Gamupvkji",
+      "thumbnailUri": "ipfs://QmZysGkQFYxL8TWCh7Ngy7MapygoTKo4txnZbr7JVcwW1L",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo58mNKzaEyzGhcacugzo9QVLDfkJLkZX8pe63PfJDwqwRYb9mJ",
+        "iteration": 173,
+        "minter": "tz1VdNd8x3wB5m9Le4ecsUTQXF4N8aBvhUaD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509650,
+      "name": "Cuts #174",
+      "iteration": 174,
+      "fxhash": "onxRiDHVh1nQCEPbyQZBvEFTBSWSH5bqbdSii2kc9h7EsYUPr3S",
+      "minter": "tz2Ecb5mrcUs9mSGPHXQcidipPpx4g33TJ67",
+      "fxparams": "",
+      "owner": "tz1MV9cgY6Lik4wYifV3y6qc1MuWWKPkV7sJ",
+      "thumbnailUri": "ipfs://QmQgEaE38dKk4Lm41muyfxYSemXdeapTu4G4FSMNgpa6ny",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onxRiDHVh1nQCEPbyQZBvEFTBSWSH5bqbdSii2kc9h7EsYUPr3S",
+        "iteration": 174,
+        "minter": "tz2Ecb5mrcUs9mSGPHXQcidipPpx4g33TJ67",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509651,
+      "name": "Cuts #175",
+      "iteration": 175,
+      "fxhash": "opRR7GbWrvwZXPxj6YFrwoAtZSPymoK7BNFyWasNDddWx3iF94d",
+      "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+      "fxparams": "",
+      "owner": "tz1Qm1L9ttbKDESZjHUHQViSZk28yJogZeAu",
+      "thumbnailUri": "ipfs://QmTavJDed399a7sGUx9gYpBYLHB5y34Ln2chrasNGCRP1E",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opRR7GbWrvwZXPxj6YFrwoAtZSPymoK7BNFyWasNDddWx3iF94d",
+        "iteration": 175,
+        "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509652,
+      "name": "Cuts #176",
+      "iteration": 176,
+      "fxhash": "ooRy4Jriqfc2x1wAMuq1XRpPupXCW2mchFqFVv3XnJ5x4JLns2R",
+      "minter": "tz1bYaYMBq8w3L5mxJBZjou197v6VcsKMLrY",
+      "fxparams": "",
+      "owner": "tz1cm5rGXoEtayRu2dubsNszyh9CAMFuSdDn",
+      "thumbnailUri": "ipfs://QmTQCABqmXZ2C19czPA5RP9JydKQmMT9XoZWiB327cjfUX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooRy4Jriqfc2x1wAMuq1XRpPupXCW2mchFqFVv3XnJ5x4JLns2R",
+        "iteration": 176,
+        "minter": "tz1bYaYMBq8w3L5mxJBZjou197v6VcsKMLrY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509653,
+      "name": "Cuts #177",
+      "iteration": 177,
+      "fxhash": "opJqkNrzPE7ZcGAUj9t9HTVyMjwkM9JcfETiEcSgTj3NW2JGqxw",
+      "minter": "tz1UJ3k1mbYeNm9e1PyuFaSt597zuYPv79Ec",
+      "fxparams": "",
+      "owner": "tz1aMaLTdWUuNxgyxVvACv2UZ7tqoUcFBxjw",
+      "thumbnailUri": "ipfs://QmZRpBRRzt9SrAXyaJNGV6j8Sab62oi6he1ip9xGDJA7Ws",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opJqkNrzPE7ZcGAUj9t9HTVyMjwkM9JcfETiEcSgTj3NW2JGqxw",
+        "iteration": 177,
+        "minter": "tz1UJ3k1mbYeNm9e1PyuFaSt597zuYPv79Ec",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509654,
+      "name": "Cuts #178",
+      "iteration": 178,
+      "fxhash": "onyGFD6Qptbk7Jbs3LFU5VezAu26RfHa1fscFV4S8H9Xzggtd52",
+      "minter": "tz1LjTDCzYd2oP3LxdTnHeavwVHvs6UU2de8",
+      "fxparams": "",
+      "owner": "tz1acDgCqir9cyukQtzBjWkBKecdDM3byq1c",
+      "thumbnailUri": "ipfs://QmVs1PFGk1bU9XhFr3srU3hM72aNMePYy1CHwvbY8v91G7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onyGFD6Qptbk7Jbs3LFU5VezAu26RfHa1fscFV4S8H9Xzggtd52",
+        "iteration": 178,
+        "minter": "tz1LjTDCzYd2oP3LxdTnHeavwVHvs6UU2de8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509655,
+      "name": "Cuts #179",
+      "iteration": 179,
+      "fxhash": "opPJ9yk41wbeJg1S5zhG4rGHrXZkQYfguuGt1Zrd9XuvmUXoqyG",
+      "minter": "tz1NJtxgrp2udDF2dhH4pzXM5V2cHqX6zizm",
+      "fxparams": "",
+      "owner": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+      "thumbnailUri": "ipfs://QmZCZJKTkfsAAABCqQAub6zjYPfVrQJvDrNi3HqarJ3N6k",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opPJ9yk41wbeJg1S5zhG4rGHrXZkQYfguuGt1Zrd9XuvmUXoqyG",
+        "iteration": 179,
+        "minter": "tz1NJtxgrp2udDF2dhH4pzXM5V2cHqX6zizm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509656,
+      "name": "Cuts #180",
+      "iteration": 180,
+      "fxhash": "ooZZxbhGQboBjdHbHYh17956nuvendHzuJGPH1i6hX6EwdDRqFU",
+      "minter": "tz1i4aKHFFhFzKuqCFdvdZmRwaWihFzdsWD4",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://Qmco4tQ7G5Z1upAghyHQzrZ5tW3Njcs1UzWatCGc8QVj3Q",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooZZxbhGQboBjdHbHYh17956nuvendHzuJGPH1i6hX6EwdDRqFU",
+        "iteration": 180,
+        "minter": "tz1i4aKHFFhFzKuqCFdvdZmRwaWihFzdsWD4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509657,
+      "name": "Cuts #181",
+      "iteration": 181,
+      "fxhash": "ooWZ6yyWqm7UDpog2Swxqv5CXjXS8Xe3Xf2bmLzC4FrsWqBUtuU",
+      "minter": "tz1hQxpijjx1k2vgAT2VCKCgrYZ8U4msQmaA",
+      "fxparams": "",
+      "owner": "tz1bTP9wmc9xwHycfc1PBaMLguSsM2fw4HkM",
+      "thumbnailUri": "ipfs://QmRakWb7kzawoGkKN87HWqp3PrVVbPZ19HH3cSUm1osmT5",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooWZ6yyWqm7UDpog2Swxqv5CXjXS8Xe3Xf2bmLzC4FrsWqBUtuU",
+        "iteration": 181,
+        "minter": "tz1hQxpijjx1k2vgAT2VCKCgrYZ8U4msQmaA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509658,
+      "name": "Cuts #182",
+      "iteration": 182,
+      "fxhash": "ooD8XRawSSSR5r6ECRKE2vYJM1je18akcJ3ueudaXsc3cAQC7fz",
+      "minter": "tz1is612Mf2PotkCyYBdMWyqou4yjioeDRsN",
+      "fxparams": "",
+      "owner": "tz1is612Mf2PotkCyYBdMWyqou4yjioeDRsN",
+      "thumbnailUri": "ipfs://QmfCKxAa3N4sfrm55m1vuogsEK1BncwrVYRn8SZJ7g7ofk",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooD8XRawSSSR5r6ECRKE2vYJM1je18akcJ3ueudaXsc3cAQC7fz",
+        "iteration": 182,
+        "minter": "tz1is612Mf2PotkCyYBdMWyqou4yjioeDRsN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509659,
+      "name": "Cuts #183",
+      "iteration": 183,
+      "fxhash": "oo2VNtaaqiFQMMAL1H4Ahp9gQh3Td74q5DiCNESk2L7kxdb6NBj",
+      "minter": "tz1fzoJyCcAykihU3xz8L8hS1ag1pP61e7MX",
+      "fxparams": "",
+      "owner": "tz1RKxv6MR6dvGcBNvchoxEwJtRSgBSti34K",
+      "thumbnailUri": "ipfs://QmZRvtui7nCcBL7Y1C2ARRmg1ZMGD4hBWdFzmSSStQ3V3p",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo2VNtaaqiFQMMAL1H4Ahp9gQh3Td74q5DiCNESk2L7kxdb6NBj",
+        "iteration": 183,
+        "minter": "tz1fzoJyCcAykihU3xz8L8hS1ag1pP61e7MX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509660,
+      "name": "Cuts #184",
+      "iteration": 184,
+      "fxhash": "oor87ou6Lg4evapw4crDUJ9qVghfs4GqSixkQRy3DFKg1dw6Bcc",
+      "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmcZPwW3dYtALDo8p96BWRjyeEigsDs84KKJ7z2j2dB4Ei",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oor87ou6Lg4evapw4crDUJ9qVghfs4GqSixkQRy3DFKg1dw6Bcc",
+        "iteration": 184,
+        "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509661,
+      "name": "Cuts #185",
+      "iteration": 185,
+      "fxhash": "ooDaR5yQP5z7Lgg8dVd5Mth1KWSV1rc27bR18VbGnfmXHogYSim",
+      "minter": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "fxparams": "",
+      "owner": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+      "thumbnailUri": "ipfs://QmdUud8MmHXj6RGC4HbqFe97vPk882oMno5imxzgnwrWCn",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooDaR5yQP5z7Lgg8dVd5Mth1KWSV1rc27bR18VbGnfmXHogYSim",
+        "iteration": 185,
+        "minter": "tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509662,
+      "name": "Cuts #186",
+      "iteration": 186,
+      "fxhash": "onvEuDaxwiX7dur1UCwcsBbiFX5W8BKHT4PTSTumpbLRWMM9fAk",
+      "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+      "fxparams": "",
+      "owner": "tz2Dz4kN8HVrkBDrYJEWq4JyZkzBUZUrPN3p",
+      "thumbnailUri": "ipfs://QmNXsR59XXFanRfWir2vbP4X16YmaFawtE3g4t37byd6TR",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "onvEuDaxwiX7dur1UCwcsBbiFX5W8BKHT4PTSTumpbLRWMM9fAk",
+        "iteration": 186,
+        "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509663,
+      "name": "Cuts #187",
+      "iteration": 187,
+      "fxhash": "op2uKigwu13A3yn859Rau8zZEah6bFzuebpsrW4wNRoAUbGFyXz",
+      "minter": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+      "fxparams": "",
+      "owner": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+      "thumbnailUri": "ipfs://Qmdvpv49mtzu5Cx5betyWYCnhVGQaYjEoPazWv5uQY49Ha",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "op2uKigwu13A3yn859Rau8zZEah6bFzuebpsrW4wNRoAUbGFyXz",
+        "iteration": 187,
+        "minter": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509664,
+      "name": "Cuts #188",
+      "iteration": 188,
+      "fxhash": "ooLFTMb91w6L7X8QAp56CnXyomjR3hhVup3sTbZW22Ju7K42Pcu",
+      "minter": "tz1apTZBxxant35NVCJD5Me3aHd4tdAvhaqM",
+      "fxparams": "",
+      "owner": "tz1afMYC5jzuvsVXgyEPjBG2biRD15WSbpr7",
+      "thumbnailUri": "ipfs://QmU5bxMKGbatzyGSR1LPuNeNzAHQrymHToCjKtqtr9A5aF",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooLFTMb91w6L7X8QAp56CnXyomjR3hhVup3sTbZW22Ju7K42Pcu",
+        "iteration": 188,
+        "minter": "tz1apTZBxxant35NVCJD5Me3aHd4tdAvhaqM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509665,
+      "name": "Cuts #189",
+      "iteration": 189,
+      "fxhash": "opBcDVNcBztU6hYwdxRfrPxhvfGQTEUokNmGiTonFhgPxVr2oKS",
+      "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+      "fxparams": "",
+      "owner": "tz1QxThCY6bbJrBKJ8uEg2k5oeSQFjjBrEgt",
+      "thumbnailUri": "ipfs://QmQdZUsN3aJteE5pteyTk59W8nbJE36AK9sn8Gxk3udwbX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "opBcDVNcBztU6hYwdxRfrPxhvfGQTEUokNmGiTonFhgPxVr2oKS",
+        "iteration": 189,
+        "minter": "tz1h2uK9nCke3AW6AXrcGyK78C2nsC4XTHui",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509666,
+      "name": "Cuts #190",
+      "iteration": 190,
+      "fxhash": "oneX9SzDPpS9BjzpBBeVfa5dogoP8Pp9PEvjSFqPt2ERvaHH2Vk",
+      "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmWAFSgEdhE9nBdU3tWubKQw9WN3279xRuq1pbWAgiMqQX",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oneX9SzDPpS9BjzpBBeVfa5dogoP8Pp9PEvjSFqPt2ERvaHH2Vk",
+        "iteration": 190,
+        "minter": "tz1V9sRCDaG3fkEGgTJZKAbCspJGpEQn5hRG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509667,
+      "name": "Cuts #191",
+      "iteration": 191,
+      "fxhash": "ooXmoq3VnnPesNLCuMVkTkuoNcTbWHhveNc9HkEEwsmQzxfpAKn",
+      "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+      "fxparams": "",
+      "owner": "tz1eUKfESnvi945M26okBfUv6bPPBHpeAK7i",
+      "thumbnailUri": "ipfs://QmbJ7qERM1D7yLekN5wwBefhm53eSe3PU4tfMgaa3K22FY",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooXmoq3VnnPesNLCuMVkTkuoNcTbWHhveNc9HkEEwsmQzxfpAKn",
+        "iteration": 191,
+        "minter": "tz1iF8wtB8pmg67wYdPJ7FBQ3FxUAqBxuWTN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509668,
+      "name": "Cuts #192",
+      "iteration": 192,
+      "fxhash": "oom1vJpn7Hxozq9DSAEBdirHPinYAHAVFNdyjsLhoCr5TWR5nyt",
+      "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+      "fxparams": "",
+      "owner": "tz1SCBy5gFnbejrvdV6NwUcLjevZy5fzoQ8D",
+      "thumbnailUri": "ipfs://QmQsMfZyzgAWkKvJ3vQTKmKLb4BYTdiu8BfJkxAyZdRQTb",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oom1vJpn7Hxozq9DSAEBdirHPinYAHAVFNdyjsLhoCr5TWR5nyt",
+        "iteration": 192,
+        "minter": "tz1fNDseRskdfc6bRiK15TeTukumr86v6Vp3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509669,
+      "name": "Cuts #193",
+      "iteration": 193,
+      "fxhash": "oodoS6akXbM3sJymurJoSUHiyQPaBACW46BB9kKjDubtorqD83Y",
+      "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+      "fxparams": "",
+      "owner": "tz1PE415ckPNF9SD9VrxT2MgL8fpwXSk9F1k",
+      "thumbnailUri": "ipfs://QmQQMAXjvzjq7FWQ3PNryZVsPfvo7N1qoivG3ModQS7REu",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oodoS6akXbM3sJymurJoSUHiyQPaBACW46BB9kKjDubtorqD83Y",
+        "iteration": 193,
+        "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509670,
+      "name": "Cuts #194",
+      "iteration": 194,
+      "fxhash": "ooGVm7hZ4GiUVX7wB3MyyLVcLLoBvmmXMe8jW1DyCZVYzV1f7fD",
+      "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+      "fxparams": "",
+      "owner": "tz1fPnqswm41oEHUWdSDn3KSvq3KCXVNeFCj",
+      "thumbnailUri": "ipfs://QmPfx4UAA4QK1NQDcvdPGihRu4hKzpwNtp6dqTsZkhSnKU",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooGVm7hZ4GiUVX7wB3MyyLVcLLoBvmmXMe8jW1DyCZVYzV1f7fD",
+        "iteration": 194,
+        "minter": "tz1VYfWeGazFmBjtAqcfEnRRs5qp8R8YviS6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509671,
+      "name": "Cuts #195",
+      "iteration": 195,
+      "fxhash": "ooF6xg27QJh8Mw7yW6R9A1PW6Rz4ZZ7Vxb47WkUBDntEhJ4F4sq",
+      "minter": "tz1Zknzx49yqLwvf8sfyn3hrjACBXiUF8h8g",
+      "fxparams": "",
+      "owner": "tz1ZgYi3qUbN99xEhqSZfdwuwxZwAdR5fT75",
+      "thumbnailUri": "ipfs://QmQjukqPAFZ7L6HJsds8PVvhbT7geXvbg32J5zvTAzodP9",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooF6xg27QJh8Mw7yW6R9A1PW6Rz4ZZ7Vxb47WkUBDntEhJ4F4sq",
+        "iteration": 195,
+        "minter": "tz1Zknzx49yqLwvf8sfyn3hrjACBXiUF8h8g",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509672,
+      "name": "Cuts #196",
+      "iteration": 196,
+      "fxhash": "ooTJtAwvmawPVfiSKd9UfNLy6UtGFyeBfEMhgApsA4axfhVRcjW",
+      "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "fxparams": "",
+      "owner": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "thumbnailUri": "ipfs://QmdfrWRQkvnBEqJ5QeCbqmTRbaU8hnJQan65vAgVqJPWV2",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooTJtAwvmawPVfiSKd9UfNLy6UtGFyeBfEMhgApsA4axfhVRcjW",
+        "iteration": 196,
+        "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509673,
+      "name": "Cuts #197",
+      "iteration": 197,
+      "fxhash": "oognA9C6JQcrqPLmqj9Upt1GKcEJQg5XxoeuGNY5MTZMHxDQL3W",
+      "minter": "tz1g3sGm6VHVchskCzKew8vnLj3NN6b84LGu",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmPwgV7UT51kdsWR5BxWKBSnasJPUoATsX9RcK1FZVU3r7",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oognA9C6JQcrqPLmqj9Upt1GKcEJQg5XxoeuGNY5MTZMHxDQL3W",
+        "iteration": 197,
+        "minter": "tz1g3sGm6VHVchskCzKew8vnLj3NN6b84LGu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509674,
+      "name": "Cuts #198",
+      "iteration": 198,
+      "fxhash": "ooqy93WJUhpWL1ZcXPbNyYWazgL6P1bQk4e9toh5v9Fs3EjaHhu",
+      "minter": "tz1UEyXAqKwvWy6VZ1s8YDVf5X32qihcS3io",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmRvq8Q987wRrsUVNLAZVrEADnAYwGWtEfbKnRKxK97STh",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "ooqy93WJUhpWL1ZcXPbNyYWazgL6P1bQk4e9toh5v9Fs3EjaHhu",
+        "iteration": 198,
+        "minter": "tz1UEyXAqKwvWy6VZ1s8YDVf5X32qihcS3io",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 509675,
+      "name": "Cuts #199",
+      "iteration": 199,
+      "fxhash": "oo3M6LcxspwbxF2rCeZJXtbzR2Ecdfv5LnvgfqcG7KSHbzWqEiH",
+      "minter": "tz1fn1T57h9icKEeG97XtymQ2AJjVY56p9oN",
+      "fxparams": "",
+      "owner": "tz1QSZmv3FkzeK89VuomzxSsb1B8FAseVNb6",
+      "thumbnailUri": "ipfs://QmcReaaJWM2bsXWvoFP4Q1UGVGAqtabufBgBjzwdTcAPDN",
+      "generativeUri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+      "viewerParams": {
+        "uri": "ipfs://QmRDdA87agcJyCvEmDjN9oPTWmzxLG3bxo87tNT3zUobWF",
+        "fxhash": "oo3M6LcxspwbxF2rCeZJXtbzR2Ecdfv5LnvgfqcG7KSHbzWqEiH",
+        "iteration": 199,
+        "minter": "tz1fn1T57h9icKEeG97XtymQ2AJjVY56p9oN",
+        "fxparams": ""
+      }
+    }
+  ]
+}
