@@ -133,6 +133,15 @@
     "thumbnail": "ipfs://QmbKFZwdbxAsPGWugBiZ9fE9bL1GCCRiuQ7ob6fnzJoQoa"
   },
   {
+    "filename": "A_Strange_Loop.json",
+    "name": "A Strange Loop",
+    "artist": "",
+    "artists": [],
+    "chain": "tezos",
+    "count": 333,
+    "thumbnail": "ipfs://QmW3wRie8wDHz5x4cvpZJkemYMaAoTyAgmgkXGgzunwLNc"
+  },
+  {
     "filename": "Bardez.json",
     "name": "Bardez",
     "artist": "Nat Sarkissian",
@@ -263,6 +272,17 @@
     "chain": "tezos",
     "count": 496,
     "thumbnail": "ipfs://QmRUDjfHJXkVa32aLtmfECV2yydd9MsoRLJ4qgLVQjoBhV"
+  },
+  {
+    "filename": "coalescence.json",
+    "name": "coalescence",
+    "artist": "ella",
+    "artists": [
+      "ella"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmaHoF8AzyAFCXxJVV64h2CF1dfXXW4SA1hm3da4XFU2HG"
   },
   {
     "filename": "Collage.json",
@@ -891,6 +911,17 @@
     "chain": "tezos",
     "count": 500,
     "thumbnail": "ipfs://QmdcHfS4FQRpPXocMkeyPzftGiecFG54T5PMnP6UQDjyyx"
+  },
+  {
+    "filename": "Harmonium.json",
+    "name": "Harmonium",
+    "artist": "Jeff Palmer",
+    "artists": [
+      "Jeff Palmer"
+    ],
+    "chain": "tezos",
+    "count": 350,
+    "thumbnail": "ipfs://QmanR71U9fVcLxPzs34L4LKzHUFzPMBpdVTeT3Q4FUbVXY"
   },
   {
     "filename": "Heat_Death.json",
