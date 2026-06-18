@@ -1,8 +1,11 @@
 {
   "project": {
     "name": "A Strange Loop",
-    "artist": "",
-    "artists": [],
+    "artist": "memoakten & Presstube",
+    "artists": [
+      "memoakten",
+      "Presstube"
+    ],
     "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
     "chain": "tezos",
     "generativeUri": "ipfs://QmV7ecJNnF4zZhLohetpVkQTnD3oasP7mswVwJ6Q26kTBj",

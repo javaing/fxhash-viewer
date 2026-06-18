@@ -135,8 +135,11 @@
   {
     "filename": "A_Strange_Loop.json",
     "name": "A Strange Loop",
-    "artist": "",
-    "artists": [],
+    "artist": "memoakten & Presstube",
+    "artists": [
+      "memoakten",
+      "Presstube"
+    ],
     "chain": "tezos",
     "count": 333,
     "thumbnail": "ipfs://QmW3wRie8wDHz5x4cvpZJkemYMaAoTyAgmgkXGgzunwLNc"
