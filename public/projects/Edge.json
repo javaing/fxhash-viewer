@@ -1,8 +1,11 @@
 {
   "project": {
     "name": "Edge",
-    "artist": "",
-    "artists": [],
+    "artist": "Wren & Kite",
+    "artists": [
+      "Wren",
+      "Kite"
+    ],
     "contract": "KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr",
     "chain": "tezos",
     "generativeUri": "ipfs://QmSULiqeEJgLzYc4fRi8YQXX79rsj1nHco6c3X6ES9U8nn",

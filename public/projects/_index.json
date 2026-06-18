@@ -534,8 +534,11 @@
   {
     "filename": "Edge.json",
     "name": "Edge",
-    "artist": "",
-    "artists": [],
+    "artist": "Wren & Kite",
+    "artists": [
+      "Wren",
+      "Kite"
+    ],
     "chain": "tezos",
     "count": 200,
     "thumbnail": "ipfs://QmcSxLs6YGjj6KtmpBMBgGNKHvfz5F8ZF4zutT6Sf8rsDM"

@@ -58,6 +58,7 @@ const OVERRIDES = {
   "Collage": ["Aluan Wang", "Jinyao Lin", "YI-WEN LIN"],
   "Entangled": ["Bjørn Staal"],
   "A Strange Loop": ["memoakten", "Presstube"],
+  "Edge": ["Wren", "Kite"],
   "Turtle Vision": ["eziraros", "Casson.tez"],
   "{Lumina}": ["generatecoll"],
   "台灣建築記憶": ["KUMALEON", "eziraros", "Proof of X"],
